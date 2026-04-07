@@ -159,6 +159,8 @@ In position № 9, which had been considered drawn, Philidor found a line leadin
 
 Diagram № 10 presents a quartet study (that is, a four-piece study), included in the third part of D. Lolli's book *Observations on the Theory and Practice of Chess*. Its solution is simple but memorable: **1. Qb3 Kd2 2. Qb2 Kd1 3. Kf3! Kd2 4. Kf2 Kd1 5. Qd4+**, and White wins.
 
+![textual 01](./textuals/diagram0001.png)
+
 The next four-mover - White: **Kd8, Qa7, Rf5, Rh7, Bb1, pawns a3, b2, e5** (8); Black: **Kg8, Qb5, Rg4, Rg5, Ba4, pawns c5, d5, f6, g7** (9) - by an unknown author, appears in one of the Turkish manuscripts: **1. Qf7+! Kxf7 2. Rxf6+ Kg8 3. Rh8+ Kxh8 4. Rf8#**.
 
 The period up to the middle of the 19th century was a synthetic one for both problems and studies, but later they developed along autonomous paths. Here it is necessary to mention the German player and composer Julius Mendheim, author of several books. The most significant is *Problems for Chess Players*, containing eighty-two works.
@@ -168,6 +170,8 @@ The period up to the middle of the 19th century was a synthetic one for both pro
 
 № 11. This idea attracted the attention of contemporaries: **1. Nd7 a2 2. Ndf6 a1Q+ 3. Ke6** - and draw.
 
+![textual 02](./textuals/diagram0002.png)
+
 Julius Mendheim, who was among the first to recognize the beauty of correct mates, actively developed the battery idea, which remains relevant today. A battery is a position of two pieces of one color on the same line, where moving the front piece (the one that gives the battery its name) activates the long-range piece behind it: White **Kg1, Qe3, Ra3, Be5, Bg2, Nd4, pawns a5, f2** (8); Black **Ka7, Qg6, Rf8, Rg8, Bb8, Bc8, Nb4, pawns a6, b7, d5, e6** (11). Mate in nine: **1. Nb5++ Ka8 2. Qa7+! Bxa7 3. Nc7+ Kb8 4. Nxa6++ Ka8 5. Nc7+ Kb8 6. Nd5+ Ka8 7. Nb6+ Bxb6 8. ab+ Ka6 9. Ra6#**.
 
 By 1836, the first chess magazine in the world, *Palamedes*, had been founded; its publisher was Louis-Charles Labourdonnais, one of the strongest players of his time.
@@ -176,6 +180,8 @@ By 1836, the first chess magazine in the world, *Palamedes*, had been founded; i
 ![№ 12. L. Ch. Labourdonnais "Palamedes", 1837, Mate in 6 moves](./diagrams/diagram0012.png)
 
 № 12. White's position requires urgent measures: **1. c8N+! Ke8 2. Qg6+ Kf8 3. Qf6+ Kg8 4. Ne7+-**, with mate in two moves.
+
+![textual 03](./textuals/diagram0003.png)
 
 Also noteworthy is the symbolic patriotic problem by the first Russian chess master, Alexander Dmitrievich Petrov (1794-1867), titled *Napoleon's Escape from Moscow to Paris*, published in *Palamedes* in 1838 (for the first time this problem, in a slightly different form, had been printed in A. D. Petrov's book *The Chess Game Brought into Systematic Order*, published as early as 1824): White **Kh2, Qh1, Bg6, Ne2, Nf1, pawns c2, c5, d4** (8); Black **Kb1, Rf4, Rf6, Be3, Na5, Nd8, pawns a4, b2, c4, c7, e6, f2, g4, g7** (14) - mate in fourteen moves.
 
@@ -208,6 +214,8 @@ Thus, A. D. Petrov was not only the first Russian chess maestro, but also the fi
 
 Besides A. D. Petrov, in 19th-century Russia K. A. Janisch, I. S. Shumov, and especially A. V. Galitsky were highly regarded as authors of notable compositions.
 
+![textual 04](./textuals/diagram0004.png)
+
 The foremost Russian master and composer of the previous century, K. A. Janisch, titled one of his problems "Tamerlane's Iron Cage" - White: **Kd1, Qd6, Rd5, Rg6, Bh3, Ne8, Nf7, pawns a7, e2, f2** (10); Black: **Ke4, Qa2, Ba3, Bd3, pawns c4, c5, d7, c3, e6, f4, g4, g7** (12) - smothered mate in ten. Here is how the black king is driven into confinement: **1. f3+ gxf3 2. exd3+ cxd3 3. Bf5+ exf5 4. Re6+ dxe6 5. Rd4+ cxd4 6. a8B+ Qd5 7. Bxd5+ exd5 8. Nf6+ gxf6 9. Qe5+ fxe5 10. Ng5#** - the king in a cage.
 
 Thus, with the help of an old smothered-mate combination, K. A. Janisch symbolically captured the cruel treatment of prisoners by the Central Asian conqueror Tamerlane (Timur).
@@ -218,6 +226,8 @@ Thus, with the help of an old smothered-mate combination, K. A. Janisch symbolic
 № 14. **1. Kg3 f5 2. Kf2 f4 3. Kf1 h5 4. Kf2 h4 5. Kf1 h3 6. Ne5!** (Just in time! Otherwise Black gets tangled.) **6...Kh2 7. Kf2 Kh1 8. Ng4 f3 9. Kf1 f2 10. Nxf2+ Kh2 11. Ne4 Kh1 12. Kf2 Kh2 13. Nd2 Kh1 14. Nf1 h2 15. Ng3#**.
 
 The Russian master I. S. Shumov gained particular renown through his scachographic compositions. Whereas the symbolic works of A. D. Petrov and K. A. Janisch were episodic in their wide-ranging creative output, I. S. Shumov spent many years working persistently and purposefully on symbolic problems as a conscious artistic goal. This is attested by his book, published at the beginning of 1867 under the intriguing title "A Collection of Scachographic and Other Chess Problems, Including a Complete Chess Primer — Political, Humorous, and Fantastic Mates..."
+
+![textual 05](./textuals/diagram0005.png)
 
 For example, the following problem — White: **Kh3, Rf1, Bc4, Nd3, pawns d5, e4, f3, g2 (8)** and Black: **Ka2, Bg1, Nb3, pawns a3, b4, c5, d6, e5, f2, f4, g3 (11)** — mate in eight moves. It was published in 1878 in the journal *Vsemirnaya Illyustratsiya* and in it the author strives to depict one of the most important episodes of the Russo-Turkish War — the heroic crossing of Russian soldiers over the Balkan mountain range.
 
@@ -381,7 +391,7 @@ Note the role of the white queen - her position seems to cement the entire play.
 **№ 20. L. Loshinsky, 1st USSR Championship, 1947, 1st place, Mate in 3 moves**  
 ![№ 20. Л. Лошинский, I чемпионат СССР, 1947, 1-е место, Мат в 3 хода](./diagrams/diagram0020.png)
 
-№ 20. After the concealed key **1. Qb!!** (an ambush), White threatens **2. Nh5+ Kxe4 3. Re3#**. Black defends by freeing d4: **1... Rd5 2. Rd4!!** and **3. Nh5#** or **3. exd#**; **1... Rd6 2. Rd5!!** - again on the heels of the black rook - **3. Nh5#** or **3. Bxe5#**; **1... Rd7 2. Rd6!!** - the white rook seems to be drawn as if by a magnet.
+№ 20. After the concealed key **1. Qb1!!** (an ambush), White threatens **2. Nh5+ Kxe4 3. Re3#**. Black defends by freeing d4: **1... Rd5 2. Rd4!!** and **3. Nh5#** or **3. exd#**; **1... Rd6 2. Rd5!!** - again on the heels of the black rook - **3. Nh5#** or **3. Bxe5#**; **1... Rd7 2. Rd6!!** - the white rook seems to be drawn as if by a magnet.
 
 However, its content is not exhausted by the given lines: against the black rook's horizontal moves **1... Rc4, 1... Rb4**, and **1... Ra4**, the white rook again comes alongside - **2. Rc3, 2. Rb3**, and **2. Ra3**, followed by **3. Nh5#**.
 
@@ -493,6 +503,8 @@ Position № 31 arose in a game played at a tournament in Voroshilovgrad in 1955
 
 But the idea of such a plan had been indicated more than a hundred years before that game, in study № 32: **1. Kf4 Kh3 2. Kf3 Kh2 3. Ke3!**, etc.
 
+![textual 06](./textuals/diagram0006.png)
+
 International Grandmaster L. A. Polugaevsky, as an "amusing curiosity," cites the ending of a game between two strong grandmasters, L. Ljubojevic (White) of Yugoslavia and the American U. Browne, played at the 1972 international tournament in Amsterdam - White: **Ka5, pawn b3 (2)** and Black: **Kc6, pawn f7 (2)** - Black to move.
 
 After *39...f5? 40. Kb4*, the players agreed to a draw, which both considered the natural result. The curiosity, in Polugaevsky's view, was that... one spectator pointed out that by **39...Kd5!** Black could win: **40. b4 f5 41. b5 f4 42. b6 Kc6 43. Ka6 f3 44. b7 f2 45. b8Q f1Q+ 46. Ka5 Qa1+**, or **40. Kb4 Kd4**, and White has no defense.
@@ -603,17 +615,23 @@ The most important artistic requirements of composition are: expressiveness of c
 
 Expressiveness of conception consists in clearly highlighting thematic variations that embody the author's idea. A composition in which this idea is expressed in the maximum number of thematic variations is called a record problem or record study, i.e., a task-problem or task-study.
 
+![textual 07](./textuals/diagram0007.png)
+
 **G. Baev, 1930.** White: **Ka6, Qh6, Rb1, Rh4, Bg3, Bg8, Nc2, Nc5, pawns b4, c7, e7 (11)** and Black: **Kd5, Re1, Rg5, Bf6, Nf7, Ng4, pawns c4, c6, e6 (9)** - mate in two.
 
 The example under consideration is a record problem (in other words, a task problem): six interferences of black pieces on one square. Because of the complexity of the idea, the problemist (composer) had to resort to promoting the pawn to a knight on the first move: **1. c8N!** with the threat **2. Nb6#** - **1...e5 2. Bxf7#, 1...Nge5 2. Rd4#, 1...Be5 2. Qxe6#, 1...N7e5 2. Bxe6#, 1...Rge5 2. Qd2#, and 1...Ree5 2. Rd1#**.
 
-**L. Loshinsky, 1940.** White: **Ke8, Qc3, Ra1, Rd3, Be7, Bh1, Ne4, Nf5, pawns c5, d2, g4 (11)** and Black: **Kh2, Ra8, Ba2, pawns b7, c2, d6, e5, g5, h3 (9)** - mate in three.
+![textual 08](./textuals/diagram0008.png)
+
+**L. Loshinsky, 1940.** White: **Ke3, Qc3, Ra1, Rd3, Be7, Bh1, Ne4, Nf5, pawns c5, d2, g4 (11)** and Black: **Kh2, Ra8, Ba2, pawns b7, c2, d6, e5, g5, h3 (9)** - mate in three.
 
 This is also a task problem. In six variations (the maximum possible!), the valve theme is shown: the black bishop, opening a path for the rook to a1, shuts off its action on other lines.
 
 **1. Rc1!** with the threat **2. Bf3** and **3. Rh1#**: **1...Bb3 2. Rxd6 and 3. Qxe5#, 1...Bc4 2. Nexd6, 1...Bd5 2. cxd5, 1...Be6 2. Bxd6, 1...Bf7 2. Nfxd6, 1...Bg8 2. Kf2 and 3. Rxh3#**.
 
 It may seem that White's pieces are under-employed, but that is not so: all of them either block lines, control squares, or participate in at least two variations.
+
+![textual 09](./textuals/diagram0009.png)
 
 **V. Savchenko. "Shakhmatnaya Moskva," 1970, 1st prize.** White: **Ke1, Ra1, Ba4, Ba7, Nf6, Nh5, pawns a2, b2, c4, c6, d5, f2, h4 (13)** and Black: **Ke5, Qf8, Bh3, Nf1, Nf7, pawns a3, a6, d6, f4, f5, g6, h2 (12)** - mate in eight.
 
@@ -622,6 +640,8 @@ It may seem that White's pieces are under-employed, but that is not so: all of t
 But then comes the unexpected **2. Kc2! b1Q+ 3. Kc3 Qb2+ 4. Kd3!**, for the third time refusing to take the queen! The threats **5. Nd7#** and **5. Re1+** force yet another queen sacrifice, which White now accepts: **4...Qe2+ (4...Qa3+ 5. Bb3) 5. Kxe2 f3+ (5...Ng3+ 6. Kd3 Bf1+ 7. Rxf1) 6. Ke1.**
 
 The king has returned to its initial square, but a "weakness" has appeared in Black's position: the square f3 is blocked, and after **6...Nd2** there follows **7. Nd7+ Ke4 8. Bc2#**. An exceptionally effective and clearly executed logical combination!
+
+![textual 10](./textuals/diagram0010.png)
 
 **V. Korolkov, 1929.** White: **Kh1, Qf8, Rc2, Bc5, Bd7, pawns a7, b2, b6, b7, d4, f7, h2 (12)** and Black: **Kd1, Be2, Na2, pawns b4, f2, h3 (6)** - win.
 
@@ -678,6 +698,8 @@ The last requirement — that the initial position should approximate as closely
 **1. Kg6 Kb6 2. Kxg7 h5 3. Kxf6 h4 4. Ke5 h3 5. Kd6 h2 6. c7**, and draw. **1...h5 2. Kxg7! h4 3. Kxf6 Kb6 4. Ke5! Kxc6 5. Kf4 h3 6. Kg3 h2 7. Kxh2** also does not change matters — the king catches the pawn on the verge of its promotion.
 
 The main criterion characterizing economy of play in a problem is the correspondence between the number of solution moves and the conception of the composition. That is, if the complete expression of the idea requires only three moves, realizing the conception in the many-mover genre is entirely unjustified.
+
+![textual 11](./textuals/diagram0011.png)
 
 **A. Popandopulo. "Vechirny Kyiv", competition dedicated to the 1500th anniversary of Kyiv, 1982, 3rd honorable mention.** White: **Kh6, Rb8, Rd8, Ba8, pawn e6 (5)** and Black: **Ka6, Qd3, Ra4, Ra5, Bb1, Bc5, Nh5, pawns a7, b5, c7, d5, e7, e5, f5, g5 (15)** — mate in fifteen moves.
 
@@ -736,6 +758,8 @@ A magnificent study! With extremely limited forces, White establishes iron contr
 In the scale of play that can be achieved by coordinating a king with only two minor pieces on an open board — an unsurpassed work! (Commentary — see IL № 13).
 
 Now let's compare the following two studies.
+
+![textual 12](./textuals/diagram0012.png)
 
 **G. Kasparyan, 1936**. White: **Kf4, Re7, Nd8, pawn h4 (4)** and Black: **Kg6, pawn f2 (2)** — win.
 
@@ -802,6 +826,8 @@ Promotion of the pawn to a knight, sacrifices of Black's pieces, the Roman theme
 
 The following examples illustrate the possibilities of finding introductory play without adding extra material.
 
+![textual 13](./textuals/diagram0013.png)
+
 **R. Réti, 1925**. White: **Kf5, Rf1, Bc4 (3)** and Black: **Kh2, pawn g3 (2)** — win.
 
 **1. Rf3!**
@@ -854,9 +880,13 @@ For example, here in the threat line Black captures the bishop: **1...bxc6 2. Nf
 
 When composing studies, the initial position should approximate a practical game position as closely as possible. We offer two studies for your attention.
 
+![textual 14](./textuals/diagram0014.png)
+
 **V. Mandinyan, 1915-1946**. White: **Kb1, Nh5, pawns b3, b6, c2, g7 (6)** and Black: **Kg5, Ra4, Ra5, Ba3, Ba6, pawns b2, b4, b5, b7 (9)** — win.
 
 **1. Ng3 Kh6 2. g8R Kh7 3. Rg5 Kh6 4. Rg4 Kh7 5. Nf5 Kh8 6. Nh6 (e7) Kh7 7. Ng8 Kh8 8. Rg6 Kh7 9. Rg3 Kh8 10. c4 Kh7** (If Black captures the pawn, then 11. Nf6 with mate to follow on g8.) **11. c5 Kh8 12. c6 Kh7 13. c7**, and White wins.
+
+![textual 15](./textuals/diagram0015.png)
 
 **V. Korolkov, 1936**. White: **Kh3, Qd4, Rf1, Rg1, Bg3, pawns f2, f4, g5, h2, h6 (10)** and Black: **Kh5, Rd1, Bc2, Nh4, pawns e6, f3, g2, g6, h7 (9)** — win.
 
