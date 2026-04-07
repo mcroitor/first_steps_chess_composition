@@ -11,3 +11,7 @@ The markdown version of book *Арчаков - Первые шаги в шахм
 * [ ] create Olive base
 * [ ] translate text defined positions to diagrams
 * [x] create English version of book
+
+## Thanks
+
+- Mikalai Sihnevich - for help with bug fixing
