@@ -14,4 +14,5 @@ The markdown version of book *Арчаков - Первые шаги в шахм
 
 ## Thanks
 
-- Mikalai Sihnevich - for help with bug fixing
+* **Mikalai Sihnevich** - for help with bug fixing in diagrams
+* **Narajan Shankar Ram** - for re-checking English version of book

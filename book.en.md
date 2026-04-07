@@ -398,7 +398,7 @@ However, its content is not exhausted by the given lines: against the black rook
 **№ 21. L. Loshinsky, "Shakhmatnaya Moskva", 1964, 1st prize, Mate in 6 moves**  
 ![№ 21. Л. Лошинский, «Шахматная Москва», 1964, 1-й приз, Мат в 6 ходов](./diagrams/diagram0021.png)
 
-№ 21. After analyzing the solution to this six-mover, one wants to say: "A fairy tale has become reality!" On the chessboard there are four black queens - an incredibly formidable force - yet even that cannot prevent mate against the black king: **1. Kd7 g1Q 2. Bc7 a1Q 3. Bf3 d1Q** and **4. Rd4**, crossing the lines of action of the black queens. Now, if **4...Qd4**, then **5. Bxd5+ Qxd5 6. Nf4#**; after **4...Qa1xd4** follows **5. Nc5+ Qxc5 6. Re5#**; in the case of **4...Qdxd4** the solution is **5. Nf4+ Qxf4 6. Bxd5#**; and finally, **4...Qgxd4 5. Re5+ Qxe5 6. Nc5#**.
+№ 21. After analyzing the solution to this six-mover, one wants to say: "A fairy tale has become reality!" On the chessboard there are four black queens - an incredibly formidable force - yet even that cannot prevent mate against the black king: **1. Nd7 g1Q 2. Bc7 a1Q 3. Bf3 d1Q** and **4. Rd4**, crossing the lines of action of the black queens. Now, if **4...Qd4**, then **5. Bxd5+ Qxd5 6. Nf4#**; after **4...Qa1xd4** follows **5. Nc5+ Qxc5 6. Re5#**; in the case of **4...Qdxd4** the solution is **5. Nf4+ Qxf4 6. Bxd5#**; and finally, **4...Qgxd4 5. Re5+ Qxe5 6. Nc5#**.
 
 **№ 22. A. Kazantsev, "Problem", 1967, 1st prize, Win**  
 ![№ 22. А. Казанцев, «Проблем», 1967, 1-й приз, Выигрыш](./diagrams/diagram0022.png)
