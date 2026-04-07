@@ -379,7 +379,7 @@ Unlike the German school, the English school regarded the two-mover as its main 
 
 Since then, however, there has been a critical revision of views on the content of Old German and English school problems. This revision proved extremely fruitful and contributed to the emergence of new directions in problem composition, now the most widespread, known as the logical and strategic schools.
 
-If we turn to the immediate process of creating a composition, we will notice that it consists of choosing an idea or theme and searching for means of its constructive realization. First of all, let us examine three problems: a two-mover, a three-mover, and a many-mover.
+If we turn to the immediate process of creating a composition, we will notice that it consists of choosing an idea or theme and searching for means of its constructive realization. First of all, let us examine three problems: a two-mover, a three-mover, and a more-mover.
 
 **№ 19. C. Mansfield, "Ajedrez Argentino", 1927, Mate in 2 moves**  
 ![Chess Diagram 1](./diagrams/diagram0019.png)
@@ -563,7 +563,7 @@ Steadfastness, willpower, the ability to overcome difficulties, and the cultivat
 
 One recalls the naive fears of one's own early path, when it seemed that venerable composers had already done everything, invented everything. The genres had long been defined, the themes long discovered. And I still kept discovering what had already been discovered. Yet further practical work proved how profoundly mistaken I had been. It turned out that some ideas are advanced precisely to open new ones, even more complex.
 
-When my first two-mover succeeded, I was seized by an irresistible urge to compose a second. Then came the desire to "construct" a three-mover, a many-mover, and finally a study.
+When my first two-mover succeeded, I was seized by an irresistible urge to compose a second. Then came the desire to "construct" a three-mover, a more-mover, and finally a study.
 
 To set oneself a goal, to seek, to find and to err, to experiment, to rejoice and to be disappointed, and finally to feel the triumph of victory - is this not great satisfaction? Everyone who searches experiences it, and especially those who discover something new, unexplored. And the harder the goal is to attain, the greater the satisfaction when it is reached.
 
@@ -697,7 +697,7 @@ The last requirement — that the initial position should approximate as closely
 
 **1. Kg6 Kb6 2. Kxg7 h5 3. Kxf6 h4 4. Ke5 h3 5. Kd6 h2 6. c7**, and draw. **1...h5 2. Kxg7! h4 3. Kxf6 Kb6 4. Ke5! Kxc6 5. Kf4 h3 6. Kg3 h2 7. Kxh2** also does not change matters — the king catches the pawn on the verge of its promotion.
 
-The main criterion characterizing economy of play in a problem is the correspondence between the number of solution moves and the conception of the composition. That is, if the complete expression of the idea requires only three moves, realizing the conception in the many-mover genre is entirely unjustified.
+The main criterion characterizing economy of play in a problem is the correspondence between the number of solution moves and the conception of the composition. That is, if the complete expression of the idea requires only three moves, realizing the conception in the more-mover genre is entirely unjustified.
 
 ![textual 11](./textuals/diagram0011.png)
 
@@ -1118,7 +1118,7 @@ An excellent key move, and the play of White's knights is subtly differentiated,
 
 **V. Anisimov, 1981.** White: **Kb2, Qc6, Bh7, pawns b4, c2, c3, e4 (7)** and Black: **Ka4, Qa7, Bh5, pawns b5, e6, f3, f7, g7 (8)** — mate in five.
 
-It is very difficult to judge the many-mover section, especially when the fighting power of the opposing sides is great. In such cases the arbiter's persistent attempts to discover defects are always justified, for they are seldom absent here.
+It is very difficult to judge the more-mover section, especially when the fighting power of the opposing sides is great. In such cases the arbiter's persistent attempts to discover defects are always justified, for they are seldom absent here.
 
 According to the author: **1. Bg8!! f2 2. Qxe6! fxe6 3. Bxe6 Q(B)f7 4. Bb3+ Qxb3 5. Bb#**, or **1...Bg4 2. Bxf7 Qa5! 3. Qe5** with the threat of **4. bxa5**, **3...Qa8 4. Qg1! Qd5 5. Qa7#**.
 
@@ -1582,7 +1582,7 @@ Therefore White unpins the queen itself with **1. Rg6!**, so that Black, while d
 
 This problem was probably the first to give an impulse to the development of the idea, although in Novotny interference mechanisms such an alternation had been used earlier as well.
 
-**Refusal of capture** is a theme in studies and many-movers: in the solution there arises a position in which one side can capture an opponent's piece, but the correct course in that position is to refuse the capture and make another move.
+**Refusal of capture** is a theme in studies and more-movers: in the solution there arises a position in which one side can capture an opponent's piece, but the correct course in that position is to refuse the capture and make another move.
 
 **№ 84. V. Savchenko, K. Betins Memorial Tourney, 1968, 1st honorable mention, Mate in 6**  
 ![№ 84. В. Савченко Конкурс памяти К. Бетиньша, 1968, 1-й почетный отзыв Мат в 6 ходов](./diagrams/diagram0084.png)
@@ -1763,7 +1763,7 @@ The **Nissl theme** is one in which White during the solution sacrifices one or 
 
 Diagram № 100. *1. Kg2? Bxe4+!* does not work. The correct play is **1. Bc5! dxc5**, the bishop is sacrificed, **2. d6 c4 3. d7 c3 4. d8B!**, and the pawn also promotes to a bishop, **4...c2 5. Bg5 c1Q 6. Bxc1 B- 7. Bb2#**.
 
-The **Novotny theme** is the compositional theme in which White, by sacrificing a piece on the critical square, causes mutual interference of two long-range black pieces of different movement on the square of sacrifice. In the logical form of the theme there must be two thematic threats after White's move to the sacrifice square. In three- and many-movers the theme may be achieved with critical moves by the black pieces. The theme was developed in 1854, though it has been established that it already occurred in 1844 in a problem by J. Breds.
+The **Novotny theme** is the compositional theme in which White, by sacrificing a piece on the critical square, causes mutual interference of two long-range black pieces of different movement on the square of sacrifice. In the logical form of the theme there must be two thematic threats after White's move to the sacrifice square. In three- and more-movers the theme may be achieved with critical moves by the black pieces. The theme was developed in 1854, though it has been established that it already occurred in 1844 in a problem by J. Breds.
 
 The combination of mutual interference of two differently moving black pieces without the sacrifice of a white piece is called the **Grimshaw theme**, discovered by Grimshaw in 1850.
 
@@ -3001,7 +3001,7 @@ For F. Davidenko's three-mover: move rook a8 to b8.
 
 For Yu. Gashev's seven-mover: move the black bishop to f6, remove black pawn f7, and add a white pawn on f4. The solution is the author's.
 
-For B. Gelpernas's many-mover: add a black rook on h3 and a black pawn on h6.
+For B. Gelpernas's more-mover: add a black rook on h3 and a black pawn on h6.
 
 For S. Makhno's problem. Reworking: White - **Kc7, Bb8, Be6, Nd6, Nf8, pawns d2, e3, g5 (8)** and Black - **Ke5, Bc1, Be8, Nf2, pawns c4, f5, g4, h2 (9)**; mate in nine - now **1. Ba7** solves, then as by the author.
 
@@ -3029,7 +3029,7 @@ Second variation: **1...Kh3 2. Ng5+ Kh2 3. Nd4** (now *3. Nf3+? Kh1! 4. N3(5)d4 
 
 For G. Amiryan's study. Reworking: White - **Kf5, Qe3, Nh3, pawns c2, d4 (5)** and Black - **Kh2, Qh1, Ra2, Rc7, Ba3, pawns c3, f7, g2, h7 (9)**; win - now **1. Ng1** and so on.
 
-For E. Enkin's many-mover: move the bishop from g7 to c3, and add a black pawn on g7.
+For E. Enkin's more-mover: move the bishop from g7 to c3, and add a black pawn on g7.
 
 For V. Shanshin's problem. Reworking: White - **Kh2, Qf7, Rc4, Bd8, Nf5, Nh5, pawns d2, d5 (8)** and Black - **Ke5, Qa4, Bb1, Bf8, Nc7, Ng2, pawns b4, d6, e3, f4, h4 (11)**; mate in two. Initially: *1...Be4 2. d4#* and *1...Bxf5 2. Bf6#*. The try *1. Nd4?* with threat *2. Nf3#*: *1...Ke4 2. Qf5#*, *1...Be4 2. Bf6#*, and *1...Qd1 2. Nc6#*, is refuted by *1...Nf5!* The solution is **1. Nf6!** with threat **2. Ng4#**: **1...Kxf5 2. Qh5#**, **1...Bxf5 2. d4#**, and **1...Qd1 2. Nd7#**.
 
