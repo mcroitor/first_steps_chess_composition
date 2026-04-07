@@ -65,7 +65,7 @@ The book, which incorporates information from the history of the development of 
 
 The book presents the main and most relevant themes. Only typical examples are given to illustrate them, understandable to those taking their first steps in chess composition. The author aimed for a popular presentation of the material, accessible to all chess enthusiasts.
 
-The book does not claim to be exhaustive. Even by continuously diving into the depths of Oksana, it is impossible to extract all the pearls. It is assumed that some readers may have the opinion that certain problems or studies should be placed in a different thematic section. However, many compositions are so multi-idea in content that they can be considered from different creative aspects with equal justification.
+The book does not claim to be exhaustive. Even by continuously diving into the depths of an ocean, it is impossible to extract all the pearls. It is assumed that some readers may have the opinion that certain problems or studies should be placed in a different thematic section. However, many compositions are so multi-idea in content that they can be considered from different creative aspects with equal justification.
 
 If my book in some way helps a novice chess composer to pave a path into the poetry of chess, I will consider that I have accomplished my task.
 
