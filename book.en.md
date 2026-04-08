@@ -1068,19 +1068,27 @@ An **ideological predecessor** is a composition that either partially coincides 
 
 And now a few examples.
 
+![textual 16](./textuals/diagram0016.png)
+
 **W. Shinkman, 1885.** White: **Kf5, Qb3, Nb6 (3)** and Black: **Kd4 (1)** — mate in three.
 
 The problem is solved by an unusual, hard-to-find first move: **1. Na8! Kc5 2. Ke5 Kc6 3. Qd5#**.
 
 Exactly the same problem was published by E. Sushkevich in the Belarusian newspaper *Zvyazda* in 1954.
 
+![textual 17](./textuals/diagram0017.png)
+
 **Z. Birnov, 1951.** White: **Kd1, Qg3, Ra8, Rf3, Bb8, Nb6, pawns b4, c5, e5 (9)** and Black: **Kb7, Bg5, Na5, Nd8, pawns c4, e6, e7 (7)** — mate in three.
 
 **1. Qg2 Nac6 2. Rf3** and **3. R3a7#**, **1...Ndc6 2. Rf8** and **3. Ra7#**, and also **1...Be3 2. Rf7** and **1...Kc6 2. Rb3**. A fairly well-constructed problem, with only sixteen pieces, although the first move is not entirely successful. It turned out that White's strongest piece is unnecessary: the queen can quite well be replaced by a bishop, and nothing in the play changes, only the first move becomes worse.
 
+![textual 18](./textuals/diagram0018.png)
+
 **L. Loshinsky, after Z. Birnov, 1951.** White: **Kd1, Ra8, Rf3, Bd4, Bg2, Nb6, pawn c5 (7)** and Black: **Kb7, Bg8, Na5, Nd8, pawns c7, e6 (6)** — mate in three.
 
 In this position the first move has improved: **1. Be5!**, a third quiet variation has appeared, **1...c6 2. Rd3!**, and three pieces have been saved.
+
+![textual 19](./textuals/diagram0019.png)
 
 **M. Liburkin, 1981.** White: **Kf2, Rc8, Nf8, pawn b2 (4)** and Black: **Kb5, Nc3, pawns a2, b4, h7 (5)** — win.
 
@@ -1088,13 +1096,19 @@ In this position the first move has improved: **1. Be5!**, a third quiet variati
 
 However, Black can force a draw after *4...Nb5 5. Rxa2 Kxc5 6. Kd2 Kc4 7. Ra8 Kb3 8. Kc1 Nc7 9. Rh8 Ne6 10. Rxh7 Nc5!*
 
+![textual 20](./textuals/diagram0020.png)
+
 **M. Liburkin, reworked by V. Dolgov, 1983.** White: **Kf2, Rd8, Nf8, pawn b2 (4)** and Black: **Kb6, Ne3, pawns a2, b4 (4)** — win.
 
 Here, without adding material, it proved possible to preserve the author's play: **1. Ra8 Nd1+ 2. Ke1 Nc3 3. Nd7+! Kb5 4. Nc1 Kxc5 5. Kd2 Nb1+ 6. Kc2 Na3+ 7. bxa3 a1Q 8. axb4+** and so on.
 
+![textual 21](./textuals/diagram0021.png)
+
 **E. Spirin, 1979.** White: **Kc3, Qe8, Re1, Rh5, Bd1, Nb7, Nf2, pawns c4, e5, g3, h6 (11)** and Black: **Ke6, Nd7, Nf7, pawns e7, f5 (5)** — mate in two.
 
 **1. Ne4!** — zugzwang: **1...Nf- 2. Ng5#, 1...Nd- 2. Nec5#, 1...Nfxe5! 2. Nd8#** and **1...Ndxe5! 2. Nbc5#**.
+
+![textual 22](./textuals/diagram0022.png)
 
 **P. Pechenkin, 1962.** White: **Kb3, Qd8, Rd3, Rh5, Bc1, Na7, Ne2, pawns b4, d5, f3, g6 (11)** and Black: **Kd6, Bd7, Nc7, Ne7, pawn e5 (5)** — mate in two.
 
@@ -1104,17 +1118,23 @@ Well then, now about defects. Here it is necessary to set up the pieces on the b
 
 A cook is a solution to a problem or study by a method different from the author's and beginning from the very first move. This defect is the most frequent uninvited "guest" in problems and studies alike, both by beginners and by renowned authors. Let us consider a few examples.
 
+![textual 23](./textuals/diagram0023.png)
+
 **V. Lukyanov, 1982.** White: **Kd1, Rb4, Ba8, Bc7, Nd8, Ne3, pawn c3 (7)** and Black: **Kc5, Na5, Nd4, pawn c6 (4)** — mate in two.
 
 The set play is *1...Na- 2. Nb7#* and *1...Nd- 2. Ne6#*; the solution is **1. Bxc6!** — zugzwang: **1...Na- 2. Rc4#**, **1...Nd- 2. Rb5#**, and **1...Nxc6 2. Nb7#**, **1...Nxc6 2. Ne6#**. The highly complex conception collapses after **1. Rb6!**, that is, because of a cook.
 
 This defect occurs even more often in three-movers.
 
+![textual 24](./textuals/diagram0024.png)
+
 **I. Storozhenko, 1981.** White: **Kg5, Rg6, Ba4, Ne2, Ng2, pawns c3, e3, f3 (8)** and Black: **Ke5, Qa2, Rb1, Ba1, pawns b5, c7, d6, e6, e7, h4 (10)** — mate in three.
 
 The tries are *1. Nd4 (f4)? Qxg2+!* and *1. Ngf4? Rg1+!*; the solution is **1. Kg4!** with the threat **2. Rg5+!**; **1...Qc4+ 2. Nd4!** (but not **2. Nef4? d4!**) **2...Qa6 3. Nd3#**, and **1...Rb4+ 2. Ngf4! d4 3. Nd3#**.
 
 An excellent key move, and the play of White's knights is subtly differentiated, but **1. Ng3! hxg3 2. Nf4!** is also possible, which is a cook.
+
+![textual 25](./textuals/diagram0025.png)
 
 **V. Anisimov, 1981.** White: **Kb2, Qc6, Bh7, pawns b4, c2, c3, e4 (7)** and Black: **Ka4, Qa7, Bh5, pawns b5, e6, f3, f7, g7 (8)** — mate in five.
 
@@ -1123,6 +1143,8 @@ It is very difficult to judge the more-mover section, especially when the fighti
 According to the author: **1. Bg8!! f2 2. Qxe6! fxe6 3. Bxe6 Q(B)f7 4. Bb3+ Qxb3 5. Bb#**, or **1...Bg4 2. Bxf7 Qa5! 3. Qe5** with the threat of **4. bxa5**, **3...Qa8 4. Qg1! Qd5 5. Qa7#**.
 
 This problem is assigned to the "popular genre of riddle-problems." Unfortunately, the riddle is transparent, since **1. Bf5!** is also possible, and so on.
+
+![textual 26](./textuals/diagram0026.png)
 
 **V. Novikov, 1980.** White: **Kb5, Rb1, Be8, Nh7 (4)** and Black: **Ka8, Rf2, pawns g3, h3 (4)** — win.
 
@@ -1140,17 +1162,25 @@ A dual in the thematic variations of a problem is inadmissible. In a study, admi
 
 The smallest percentage of duals is found in two-movers.
 
+![textual 27](./textuals/diagram0027.png)
+
 **V. Dubrovsky**, 1979. White: **Kd3, Rd5, Rd7, Bf7, Nf8, pawns b4, d4, e7 (8)** and Black: **Kc6, Ba8, Nd6, pawn b6 (4)** — mate in two.
 
 **1. Ne6!** zugzwang: **1...Kxd5 2. Nd8#, 1...Kxd7 2. e8Q#**, and **1...Bb7 2. R7xd6#; 1...b5 2. R5xd6#**. Also **1...Nb5 2. Nd8#** and **1...Nb7 2. b5#**. But when the black knight retreats indifferently, duals appear, that is, after *1...N-* both *2. Nd8#* and *2. b5#* are possible.
+
+![textual 28](./textuals/diagram0028.png)
 
 **Yu. Marker**, 1979. White: **Kh7, Qa6, Rd3, Be2, Bg1, Nb6, Nf3, pawns b5, c2, c6, e5 (11)** and Black: **Kc5, Qc1, Ra2, Be8, Nd4, Ne3, pawns a4, b3, b4, d5, f7 (11)** — mate in three.
 
 A strategically very rich problem: **1. Nc8!** with the threat **2. Qb6+!**; **1...Ndf5! 2. Rd4! Nc4! 3. Rxc4#** but there is a dual on *2. Qb6+*; and **1...Nef5! 2. Re3! Nxe2 3. Rc3#**, and again there is the dual *2. Rd2!*
 
+![textual 29](./textuals/diagram0029.png)
+
 **S. Pivovar**, 1980. White: **Kd1, Qb3, Bf1, pawns b4, b5, b7, c2, c6, e2, g2, h7 (11)** and Black: **Kb1, Rh8, Ba1, pawns b2, c3, c7, e3, f2, g3, g4 (10)** — mate in fourteen.
 
 **1. Qg8! Rxg8 2. hxg8R! Ka2 3. Ra8+ Kb1 4. b6 cxb6 5. b8B! b5 6. Ba7! Ka2 7. Bxe3+ Kb1 8. Ba7! Ka2 9. Bxf2+ Kb1 10. c7 gxf2 11. c8N! g3 12. Na7! Ka2 13. Nxb5+ Kb1 14. Nxc3#** with three successive different promotions, but there are duals leading to mate in twelve: *8. Bd2 cxd2 9. c4 bxc4 10. c7 c3 11. c8Q c2+ 12. Qxc2#* or *10. c3 (e4) c3 11. Bd3 c2+ 12. Bxc2#*.
+
+![textual 30](./textuals/diagram0030.png)
 
 **Al. Kuznetsov and V. Shanshin**, 1981. White: **Kc2, Nf5, pawns d2, d3, h7 (5)** and Black: **Kb5, Bh8, pawns a3, b2 (4)** — draw.
 
@@ -1168,6 +1198,8 @@ The check is a consequence of zugzwang.
 
 Everything is fine, but there is a dual in the knight's march to c3: *12. Nc7 Kb3 13. Nb5 Bf6 14. Nc3!* and so on.
 
+![textual 31](./textuals/diagram0031.png)
+
 **A. Maksimovskikh**, 1981. White: **Kc1, Bh3, pawn c6 (3)** and Black: **Ke1, Bb5, pawn a4 (3)** — win.
 
 The play of both sides is not complicated, but very pleasant and symmetrical.
@@ -1178,19 +1210,27 @@ However, the banal *4. Bf1 Bc8 5. Kxa4 Kf4 6. Kb5 Ke5 7. Kb6 Kd6 8. Be2* also wi
 
 **Unsoundness** is a very rarely encountered defect of chess problems and studies, but as a rule it is also hard to detect. No chess composer is insured against this defect: neither the novice problemist nor the experienced study composer.
 
+![textual 32](./textuals/diagram0032.png)
+
 **Yu. Sushkov**, 1982. White: **Kh6, Qa1, Rb5, Rf3, Bc4, Bh2, Nc6, Ne2, pawns f2, g2 (10)** and Black: **Ke4, Rd1, Rg4, Ba7, Nh5, pawns b4, c3, f5, f6, g3, g6 (11)** — mate in two.
 
 The set play is *1...Bd4 2. Bd5#* and *1...Rd4 2. Re3#*; the try is *1. N2d4?* with the threat *2. Bd5#*, but not *2. Re3#?*: *1...Nf4 2. Re3#* and *1...Rxd4 2. Qe1#* — and it is refuted by *1...Bc5!*
 
 The author's solution is **1. N6d4!** with the threat **2. Re3#**, but not *2. Bd5#?*: **1...gxf2 2. Bd5#** and **1...Bxd4 2. Qa8#**. Yet this fails because of ***1...f4!***, that is, the problem is unsound and incorrect.
 
+![textual 33](./textuals/diagram0033.png)
+
 **V. Gladkikh**, 1979. White: **Kh3, Qe5, Rf6, Ba4, Bd4, Nd3, Ng4, pawns c2, c7, g2 (10)** and Black: **Kc4, Qe1, Rf2, Rg7, Bc8, Bh2, Ne6, Nf5, pawns b3, d5, e3, f3, f4, g5, h6 (15)** — mate in three.
 
 **1. Bb2!** with the threat **2. Qd4+** and **3. Nge5#**: **1...N- 2. Rxf5!**, **1...Ned4! 2. Qe6!** and **1...Nfd4! 2. Qf5!**, but after ***1...Rc7!*** the problem has no solution.
 
+![textual 34](./textuals/diagram0034.png)
+
 **L. Shilkov**, 1981. White: **Kf3, Qa3, Rh6, Be7, Nc8, Nf4, pawns c3, e4, f5, g7 (10)** and Black: **Ke5, Qh7, Rc6, Rd7, Bg6, Nb7, Nf2, pawns e3, h5 (9)** — mate in four.
 
 The author realized a grand conception: **1. Qb4!** with the threat **2. Qb5+ Nc3 3. Qxc5+**: **1...Bf7 2. Rd6! Rxd6 3. Qd4+ Rxd4 4. Bf6#** and **2...Rxd6 3. Bf6+ Rxf6 4. Qd4#**; **1...Qg8 2. Bd6+ Rxd6 3. Qxd4+ Rxd4 4. Nxg6#** and **2...Rxd6 3. Nxg6+ Rxg6 4. Qd4#**; finally, **1...Nd3 2. Qd6! Rxd6 3. Nxd3+ Rxd3 4. Bf6#** and **2...Rxd6 3. Bf6+ Rxf6 4. Nxd3#**. But after ***1...Qxg7!*** the problem is unsound. Thus, what seems a harmless black defense destroys the problemist's splendid conception.
+
+![textual 35](./textuals/diagram0035.png)
 
 The same befell grandmaster V. F. Rudenko, 1982. White: **Kd7, Qc2, Bf5, Bg5, Nb4, Nd2, pawns d6, f2 (8)** and Black: **Ke5, Ra1, Ra3, Bf1, Bg7, Nc1, Ng3, pawns b7, c4, d4, f3, f7, h7 (13)** — mate in four.
 
@@ -1200,6 +1240,8 @@ However, this exceptionally complex logical problem is also unsound: ***1...Re3!
 
 The solver encounters great difficulty in proving unsoundness in analytical studies, that is, where unsoundness has to be demonstrated by wearisome chains of analysis. See for yourself.
 
+![textual 36](./textuals/diagram0036.png)
+
 **A. Bor**, 1981. White: **Kd3, Rb8, Bb4, Ne7, pawns d5, f6 (6)** and Black: **Kf7, Rd7, Bd6, pawns c5, h7 (5)** — win.
 
 In the author's solution the combinational battle ends in an economical mate: **1. Rh8! Kxf6 2. Ng8+ Kg6! 3. Bc3 Be5! 4. Bxe5 Rxd5+ 5. Ke4 Rxe5! 6. Kxe5 Kg7** (the rook is trapped, but ...) **7. Nh6! Kxh8 8. Kf6 c4 9. Kf7 c3 10. Kf8 c2 11. Nf7#**.
@@ -1207,6 +1249,8 @@ In the author's solution the combinational battle ends in an economical mate: **
 However, no win is evident after ***3...Rd8***, for example: ***4. Be5 Bxe5 5. Ne7 Kf6 6. Rxd8 Kxe7 7. Rc8 Bd4***, or ***4. Kc4 Re8 5. Bf6 Re3 6. Kb5 Bf8 7. Kc6 Bg7 8. d6! Bxh8 9. d7 Rd3 10. Bxh8 Kf7! 11. Nf6 Ke7***, and so on. Thus the unsoundness of the study is eventually proved after all.
 
 **Impossible Position**. A defect of chess compositions that is encountered only rarely, and one that is hard to detect. It has happened that this flaw in a problem or study was discovered many years later, after the defective work had already been reprinted several times. For example.
+
+![textual 37](./textuals/diagram0037.png)
 
 **Author unknown, 19th century.** White: **Kh3, Qe7, Ra8, Re2, Bc1, Bf3, Nc7, Nf8, pawn g2 (9)** and Black: **Kg8, pawns f4, f5, f6, f7, h4, h5, h6, h7 (9)** — see text.
 
@@ -1222,6 +1266,12 @@ Unfortunately, this famous composition with such a pawn arrangement is artificia
 
 Here are several more illegal, impossible, positions.
 
+![textual 38](./textuals/diagram0038.png)
+
+![textual 39](./textuals/diagram0039.png)
+
+![textual 40](./textuals/diagram0040.png)
+
 1. White: **Ke1, Bh1, pawns a2, a3, b2, g2 (6)** and Black: **Ke8, Ba8, pawns a6, a7, b7 (5)** — the positions of the bishops and of the pawns a2, a3, a6, a7 are impossible.
 2. White: **Kd1, Qg1, Bf1, pawns e2, f2, g2, h2 (7)** and Black: **Ke8, Ra8, Rb8, Bc8, pawns a7, b7, c7, d7 (8)** — the positions of the white queen and the black rook on b8 are impossible.
 3. White: **Kh1, Bf1, pawns e2, f2, g2, h2 (6)** and Black: **Kb8, Bc8, pawns a7, b7, c7, d7 (6)** — the positions of both kings are impossible. Clearly, the kings of the opposing sides could not possibly reach those squares with the pawns and bishop arranged in that way. Naturally, other kinds of incorrect positions are also possible, but they will be discussed later.
@@ -1233,6 +1283,8 @@ High demands are placed on White's first move, which usually creates a threat, t
 White's moves are crude if they are accompanied by a capture, especially if a black piece rather than a pawn is captured. Capturing a piece on the first move is altogether inadmissible. Checks on the first move of the solution do sometimes occur, but later in the variation there must be at least one quiet move.
 
 It is aesthetically undesirable for the key move to take away a free square from the black king. And if that cannot be avoided, one must provide the enemy king with a new square. Better still, if in the problem new squares are opened for the black king while the previously free ones are not taken away. This requirement is illustrated with exceptional clarity in the following problem.
+
+![textual 41](./textuals/diagram0041.png)
 
 **L. Knotek. White Memorial Tourney, 1953, 1st prize.** White: **Kb1, Qa1, Bd6, Na8, pawns c4, c7 (6)** and Black: **Kb7, Nd7, pawn c5 (3)** — mate in three.
 
