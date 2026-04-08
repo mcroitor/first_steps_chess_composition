@@ -147,7 +147,7 @@ In the first half of the 18th century, F. Stamma became widely known. Despite mi
 
 № 8. A combinational sacrifice is carried out: **1. Rc1! Rxc1 2. a7 Ka3 3. Kc3! Ka2 4. a8Q+ Kb1 5. Qa3**, with inevitable **6. Qb2#**.
 
-The founder of French comic opera, Francois-Andre Danican Philidor, became even more famous as a chess player. In 1749 he published *Analysis of the Game of Chess*. No chess book had yet enjoyed such a fate: over the following 200 years it was published more than one hundred times.
+The founder of French comic opera, Francois-Andre Danican Philidor, became even more famous as a chess player. In 1749 he published *Analysis of the Game of Chess*. No chess book had yet enjoyed such a good fate: over the following 200 years it was published more than one hundred times.
 
 **№ 9. F. Philidor, 1749, Win**  
 ![№ 9. F. Philidor, 1749, Win](./diagrams/diagram0009.png)
