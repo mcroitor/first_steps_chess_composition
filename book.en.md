@@ -1386,6 +1386,8 @@ Finally, let us consider the special defensive idea of checks against the white 
 
 In conclusion, let us analyze another position by the same author, taken from grandmaster V. F. Rudenko's book *Pursuit of the Theme*. It develops a combination of a whole complex of both attacking and defensive ideas.
 
+![textual 42](./textuals/diagram0042.png)
+
 **K. Mansfield. "Hampshire Telegraph and Post", 1919, 1st prize.** White: **Kh2, Qe6, Rc1, Rd5, Ba2, Ba5, Na1, Nb3, pawns c6, d2 (10)** and Black: **Kc4, Qc2, Ra4, Rh4, Bf1, Nc3, Ne4, pawns a3, h3 (9)** — mate in two.
 
 The problem is opened by the splendid key **1. Qf5!**, creating the threat **2. Rd4#** thanks to the inclusion of the white queen on b5. The main variations, **1...Qd3 2. Nd4#** and **1...Nb5 2. Nc5#**, end in striking battery mates using at once two weakening ideas, blocking of d3 and pinning of the black queen. Close to these central variations are **1...Nxd5 2. Qxf1#** and **1...Ne2 2. d3#**, with blocking of d5 and pinning of the black queen, interference with the black bishop, and unpinning of the white pawn.
@@ -1399,6 +1401,8 @@ So, the themes.
 The **Azerbaijani theme**, or the **Vladimirov theme**, is close to the Banny theme, but in it the defenses a-b are answered by mates A-B, the first moves of the tries. The theme is formulated thus: the key moves of the tries become in the solution mating moves in reply to the very moves that had refuted those same tries.
 
 It should be noted that, thanks to a proposal by Soviet grandmaster Ya. G. Vladimirov, after whom the theme had previously been named, justice was restored: its mechanism is now called the Azerbaijani theme, after the place of residence of the three principal authors of the idea, who lived in Azerbaijan.
+
+![textual 43](./textuals/diagram0043.png)
 
 **R. Aliovsadzade, M. Vagidov, Ya. Vladimirov, and I. Lukimovich. "Chess", 1977, special prize.** White: **Kd7, Ra4, Rd1, Bd3, Nc2, Nd2, pawns e2, e7, f3, g7 (10)** and Black: **Kd5, Rb4, Rg4, Ba5, pawns c5, c7, e5 (7)** — mate in two.
 
@@ -1434,15 +1438,21 @@ The white combinations theme is carried out originally in № 66. Here White's t
 
 The **Bristol theme**, or path-clearing theme, was discovered by the English problemist F. Healey in 1861. Its essence lies in clearing a line: a piece, moving along its line of action, clears the way for another piece moving in the same direction.
 
+![textual 44](./textuals/diagram0044.png)
+
 **F. Healey. Bristol Tourney, 1861, 1st prize.** White: **Kh2, Qg6, Rd1, Rf3, Ba1, Nb6, Nf7, pawns a3, c3, d2, d5, g2 (12)** and Black: **Kc5, Bb5, Nb7, pawns a4, c4, f4, g7 (7)** — mate in three. **1. Rh1!** zugzwang: **1...B- 2. Qb1 Bb5 3. Qg1#**.
 
 In three variations of position № 67 the **anti-Bristol theme** is carried out: the black queen, moving toward the bishop, closes its way to the needed square. **1. Qe2!** with the threat **2. Qf3+**: **1...Qc3 2. Nxb7**, **1...Qd4 2. Kxc7**, and **1...Qe5 2. Nf7**, each followed by mates **3. Nb6#** or **3. Ne7#**, because Black has no move **2...Bf6**.
 
 The **Bukovinian theme** is a theme of the non-orthodox genre of chess composition: in a helpmate, where by stipulation Black does not oppose White's intentions as in ordinary problems, but on the contrary helps White to mate the black king in the prescribed number of moves and usually starts the solution, some square near the black king is controlled by a white piece which Black eliminates, but then Black himself blocks the square that had been controlled. The author is the Ukrainian problemist and doctor of physical-mathematical sciences N. I. Nagnibida of Chernivtsi.
 
+![textual 45](./textuals/diagram0045.png)
+
 **N. Nagnibida. "Probleemblad", 1979, 1st honorable mention.** White: **Kf1, Rg2, Be6, Nd3, Nf7, pawn d6 (6)** and Black: **Kc6, Qh7, Re3, Rf8, Bg4, Ne8, Nf2, pawns b5, b6, d7, e4, e5 (12)** — helpmate in two, with two solutions. **1. Nxd3!** the piece controlling c5 is removed, **1...Rd2 2. Nc5!** now Black himself blocks that same square, **2...Bd5#**. The play is analogous in the second solution: **1. Bxe6! Rg6 2. Bd5! Nd8#**.
 
 The **Hamburg theme** is a logical combination in which the refutation of the main plan in the try and the new defense against the main plan that appears as a result of a preparatory maneuver are both carried out by moves of one black piece, while the preparatory maneuver itself is carried out by a move of another black piece.
+
+![textual 46](./textuals/diagram0046.png)
 
 **1. Bremer. German Circle Tourney, 1948, 2nd prize.** White: **Ka5, Rb5, Rd5, Na3, Na6, pawns b4, e3, f2 (8)** and Black: **Kc6, Rg7, Bg4, Bh8, Nh2, pawns c3, e4, f7 (8)** — mate in three.
 
@@ -1470,6 +1480,8 @@ It is a beautiful study, whose value lies not only in the final position, where 
 
 The **Dresden theme** is a logical combination in which the refutation of the main plan in the try and the preparatory maneuver are carried out by moves of one black piece, while the new defense arising against the main plan is carried out by a move of another black piece.
 
+![textual 47](./textuals/diagram0047.png)
+
 **B. Ebner. "Die Schwalbe", 1973, 2nd prize.** White: **Kh8, Re7, Bh4, Nf1, Nh2, pawn f2 (6)** and Black: **Kf4, Ra3, Ba4, Nb6, pawns c3, f5, h5 (7)** — mate in three.
 
 The carrying out of each main plan is hindered by the black bishop: *1. Ng3* with the threats *2. Ne2#* and *2. Nxh5* fails because of *1...Bd1!*, while *1. Ne3?* with the threat *2. Ng2#* fails because of *1...Bc6!* After **1. Re6!**, the black defenses to the threat **2. Bg3+ Kg5 3. f4#** force an interference with the bishop, for instance by **1...c2**. Now the defense **1...Bd1** no longer prevents the main plan, but gives rise to a new defense, **2...Rxg3**, after which White finishes with **3. fxg#**. This is the Dresden theme.
@@ -1489,6 +1501,8 @@ Lively introductory play leads to a beautiful stalemate with the white bishop en
 
 **Defense on the attraction square** is a complex of a threat and two or more variations interconnected in such a way that the black defensive moves against the threat become defenses to it in the thematic variations.
 
+![textual 48](./textuals/diagram0048.png)
+
 **L. Kubbel. "Chess in the USSR", 1939, 3rd honorable mention.** White: **Ke7, Qd3, Rf7, Ne2, pawns b3, b7, d2, d5, f2 (9)** and Black: **Ke5, Rb4, Rg4, Ba3, Bh3, pawns b6, d6, g6 (8)** — mate in three.
 
 After **1. Nc3!**, White threatens to attract the black rooks onto e4: **2. Qe3+ Rge4 3. f4#** or **2...Rbe4 3. d4#**, with self-pinning. Those same black moves form the thematic variations: **1...Rge4 2. b8Q!** and **3. Qxd6#** or **3. Qh8#**, there is no *2...Rbf4*; and **1...Rbe4 2. b8N!** and **3. Nc6#** or **3. Nd7#**, there is no *2...Rgc4*, with mutual interference of the black rooks moving toward one another. The tries *1. b8Q? Rbd4!* and *1. b8N? Rgd4!* fit the content well. This is Rudenko's commentary.
@@ -1503,6 +1517,8 @@ After **1. Nc3!**, White threatens to attract the black rooks onto e4: **2. Qe3+
 **Nitvelt defense** is a combination in which Black's defense against the threat is carried out by self-pinning, with the aim that if the threat is carried out White will directly unpin the self-pinned black piece.
 
 In the Nitvelt theme this self-pinning is the weakening moment used by White. The Nitvelt defense also includes the combination in which the defense to the threat is performed by an already pinned black piece moving along the line of the pin, with the same aim: that White should directly unpin that pinned piece if the threat is carried out.
+
+![textual 49](./textuals/diagram0049.png)
 
 **P. Mussuri. "Problems and Studies", 1929, 2nd prize.** White: **Kc2, Qh3, Re8, Rh4, Bh2, Bh7, Nd3, Nd8, pawns b3, d6, e4 (11)** and Black: **Kd4, Rg6, Bf4, Nb8, Nh6, pawns b4, b5, e3, f2 (9)** — mate in two.
 
@@ -1560,8 +1576,8 @@ Kiev chess composers B. Avsharov, E. Samotugov, A. Dzektser, and especially B. K
 
 **Fortress** is a study theme that is a variety of positional draw and consists in the weaker side saving itself by creating an impregnable position. It was proposed by the Soviet study composer F. M. Simkhovich.
 
-**№ 78. I. Khashsk, "Chess in the USSR", 1965, 4th prize, Draw**  
-![№ 78. И. Хашск, «Шахматы в СССР», 1965, 4-й приз, Ничья](./diagrams/diagram0078.png)
+**№ 78. I. Hasek, "Chess in the USSR", 1965, 4th prize, Draw**  
+![№ 78. И. Хашек, «Шахматы в СССР», 1965, 4-й приз, Ничья](./diagrams/diagram0078.png)
 
 № 78. The fortress is formed by bishop and pawns against queen, with the black king shut out of the game. **1. Ne5 e1Q 2. Ng6+ hxg6 3. Bxd5**.
 
@@ -1597,6 +1613,8 @@ The **Lviv theme** is a cyclic alternation of the types of pieces participating 
 It is easy to see that, first, each variation begins with the move by which the preceding one ends; and second, there is complete graphical unity of adjacent moves, regardless of whether White or Black is moving.
 
 **Moscow theme** means that the threat of a double check is parried by a black move containing two defensive ideas.
+
+![textual 50](./textuals/diagram0050.png)
 
 **V. Shif. Tourney dedicated to the Third International Tournament in Moscow, 1936, 1st honorable mention.** White: **Kc7, Qg2, Ra6, Bb5, Bd8, Nc2, Nh5 (7)** and Black: **Kf5, Qe1, Re4, Re8, Bh7, pawns c3, d4, e7, f2, f4 (10)** — mate in two.
 
@@ -1661,6 +1679,8 @@ The essence of the Roman theme consists in such a decoying of the black piece th
 
 In studies the Roman theme was first achieved by the Latvian grandmaster G. K. Mattison, 1894-1932. As an example of the study embodiment of the Roman theme we give a work by the founder of the modern artistic study, Honored Artist of the RSFSR A. A. Troitsky.
 
+![textual 51](./textuals/diagram0051.png)
+
 **A. Troitsky. "Deutsche Schachzeitung", 1913.** White: **Kf7, Nc2, pawns g2, h2, h6 (5)** and Black: **Kf4, Rf1, pawns a2, h4 (4)** — win.
 
 **1. h7 Kg5+ 2. Ke7!**
@@ -1695,6 +1715,8 @@ The solution is the symmetrical move of the bishop to the left: **1. Bb6!** zugz
 
 **Systematic ideas** are ideas in a study, more rarely in a problem, consisting in the fact that one or more pieces in their movement form a certain periodically repeated system.
 
+![textual 52](./textuals/diagram0052.png)
+
 **G. Kasparyan. M. I. Chigorin Memorial, 1949-1950, 2nd prize.** White: **Kg2, Bf6, Bf7, Nc5, pawn a3 (5)** and Black: **Ke2, Re3, Bb5, Bf8, pawn a7 (5)** — draw.
 
 **1. Bh5+ Ke1 2. Bh4 Kd2 3. Bg5 Bxc5 4. Kf2 Kd3 5. Bg6+ Re4+ 6. Kf3 Bc6 7. a4! Kd4 8. Bf6 Re5+ 9. Kf4 Bd6 10. a5! Kd5 11. Bf7+ Re6+ 12. Kf5 Bd7 13. a6!** — draw.
@@ -1724,17 +1746,23 @@ The **Bogdanov theme** is one in which the mating or intermediate moves of the s
 
 The solution is **1. Nc6! (C)**, the third mating move of the set play: **1...Bxf6 2. Ng3#** and **1...Nd8 2. Nfd6#**, and so on. Later work on the theme showed that it can be successfully combined with other themes.
 
+![textual 53](./textuals/diagram0053.png)
+
 **E. Bogdanov and A. Vasilenko, "Glas Lyudu", 1983.** White: **Kh7, Qh5, Rb6, Rd7, Bg8, pawns e6, c7 (7)** and Black: **Kf6, Ra8, Ba1, pawns d6, f7 (5)** — mate in two.
 
 In Meredith form the idea of combining the present theme with alternation of the first move and the threat is expressed. At first everything is ready: *1...Kxe6 2. Rb6xd6# (A)* and *1...d5 2. exf# (B)*. Then comes the try *1. Rb6xd6? (A)* with the threat *2. exf# (B)*; *1...Ra6 2. c8N#* and *1...fxe 2. Rxe6*, but *1...Be5!* Finally the solution is **1. exf! (B)** with the threat **2. Rb6xd6# (A)**; **1...Ra6 2. f8Q#** and **1...Be5 2. Qg6#**.
 
 The **Brabec theme** is one in which in the set play and in the solution, in two variations, the defensive motifs alternate cyclically. It was revealed in 1970 by the Czechoslovak problemist Juraj Brabec.
 
+![textual 54](./textuals/diagram0054.png)
+
 **J. Brabec. "Slovak Chess Union", 1970, 1st prize.** White: **Kh5, Qc1, Rc4, Rg8, Be8, Be1, Ne7, Nf7, pawns d5, h2 (10)** and Black: **Kf4, Re3, Rf2, Be4, Bg7, Nh3, pawns c7, f3, h7 (9)** — mate in two.
 
 *1. d6?* with the threat *2. Nd5#*: *1...Rd2* (direct defense) *2. Bg3#*, *1...Bd4* (unpinning) *2. Rg4#*, but *1...c6!* Then *1. Bf5?* with the threat *2. Rxe4#*: *1...Rd2* (unpinning) *2. Bg3#*, *1...Bd4* (interference) *2. Rg4#*, but *1...Ng5!* The solution is **1. Nf5!** with the threat **2. Qxe3#**: **1...Rd2** (interference) **2. Bg3#** and **1...Bd4** (direct defense) **2. Rg4#**.
 
 The **Visserman theme** is one in which a white piece captures a black one on a thematic square, which is then used either by occupation of that square or by crossing it with another white piece.
+
+![textual 55](./textuals/diagram0055.png)
 
 **E. Visserman. "NBBG", 1946.** White: **Kc7, Bf7, Bg5, Nd2, Ne2, pawns f2, h4 (7)** and Black: **Ke5, Nb7, pawns f4, f5, g6, g7 (6)** — mate in four.
 
@@ -1790,6 +1818,8 @@ In the first two variations the Levman theme is complicated by unpinning a white
 
 The **Loshinsky theme** is a complex of two or more variations in which a white piece, in reply to a move by an equally moving black piece, moves toward it or pursues it along the same line. See also № 20.
 
+![textual 56](./textuals/diagram0056.png)
+
 **L. Loshinsky. K. Gavrilov Memorial Tourney, 1947-1948, 1st prize.** White: **Ke1, Qa3, Rg3, Bf3, Bf4, Nb2, Nh4, pawns b5, c4, d3, e7, h7 (12)** and Black: **Kd4, Qa8, Ra6, Rg5, Be4, Na2, pawns a5, f5 (8)** — mate in three.
 
 Here the Loshinsky theme is carried out in a diagonal mechanism, with bishops. **1. Na4!** with the threat **2. Qb2+ Kxd3 3. Be2#**: **1...Bd5**, unblocking e4, **2. Be4**, but not *2. Bxd5? Re6-!*, then **2...fxe 3. Qc5#** or **2...Qc6 3. Nf3#**. **1...Bc6 2. Bd5!**, but not *2. Be4?* because of *2...fxe!*, or *2. Bxc6?* because of *2...Qxc6!*. And **1...Bb7 2. Bc6!**, but not *2. Be4?* because of *2...fxe!*, and not *2. Bd5?* or *2. Bxb7?* because of *2...Re6+!*
@@ -1840,11 +1870,15 @@ Diagram № 103. **1. d5! Qxd5 2. Ra8+ Qxa8 3. Rg8#** and **1...Bxd5 2. Rg8+ Bxg
 
 The combination of mutual interference of two equally moving black pieces on one square without the sacrifice of a white piece is the **Wurzburg-Plachutta theme**, discovered by W. Shinkman's nephew O. Wurzburg in 1909.
 
+![textual 57](./textuals/diagram0057.png)
+
 **O. Wurzburg. "Zlata Praha", 1909.** White: **Kg8, Qb7, Re8, Nf3, Ng7 (5)** and Black: **Kf6, Rc4, Rd3, Na7, Nd8, pawns c7, g4, g5, g6 (9)** — mate in three.
 
 The first example of a Plachutta interference without sacrifice of a white piece on the intersection square. **1. Ne5!** with the threat **2. Qb2!**; **1...Rcd4 2. Qd5! Rxd5 3. Nxg4#** and **1...Rdd4 2. Qe4! Rxe4 3. Nd7#**.
 
 The combination of one black piece interfering with another black piece of the same movement is called the **Golzhausen theme**.
+
+![textual 58](./textuals/diagram0058.png)
 
 **W. Golzhausen. "Rigaer Tageblatt", 1908.** White: **Kh1, Rd7, Be1, Nf4, Nh5, pawn f3 (6)** and Black: **Ke5, Rb3, Rc5, Ba7, Bb1, Na5, pawns c3, c4, c7, f5, f7 (11)** — mate in three.
 
@@ -1944,6 +1978,8 @@ The vivid, tactically rich play required considerable technical concessions: the
 
 The **Fedorovich theme** is one in which the refutations of mating moves in the tries or false trails become, in the solution, defenses to which there follow mates not prepared in the initial position and also impossible in the tries or false trails for some reason caused by the black defense and eliminated by the key move. The author is the Sambor problemist R. Fedorovich, a pseudonym of R. F. Zalokotsky.
 
+![textual 59](./textuals/diagram0059.png)
+
 **R. Fedorovich. "Chervony Prapor", 1982.** White: **Ka2, Qa4, Rb6, Rf7, Bf8, Ne4, Nf4, pawn f3 (8)** and Black: **Ke5, Qc7, Rg1, Bb7, Ne1, pawns c6, d2, d7, e6 (9)** — mate in two.
 
 To create the threat *2. Qe4#*, the knight on e4 must retreat. But where? If *1. Nd6?*, stopping the pawn d7 from playing d7-d5, there is the reply *1...c5!*, which includes the bishop on b7 on the mating square of the threat and thus eliminates the mate of the threat itself. Trying to preserve the threat, the white knight by its key move stops the other pawn, c6, whose advance refuted the first try: *1. Nc5?*, but then *1...d5!*
@@ -1954,11 +1990,15 @@ The **Fleck theme** has several forms. The first is that after the key move Whit
 
 The second is a synthesis of repeated threats and supplementary defense. In the position White carries out a repeated threat, while Black's moves separate the mates exactly, which is supplementary defense.
 
+![textual 60](./textuals/diagram0060.png)
+
 **I. Banai. "Magyar Sakkvilag", 1941, honorable mention.** White: **Kh1, Qa4, Rd4, Rg7, Bg2, Nd3, Nh5, pawns b3, d6, e5, g4 (11)** and Black: **Ke6, Qa8, Rc7, Rf8, Bd8, Be8, Nc6, Nf7, pawns b4, e4 (10)** — mate in two.
 
 **1. Bxe4!** with the threat **2. Bf5#**: **1...Nfd6 2. Bd5#**, but not *2. Nhf4#?*; **1...Nfxe5 2. Nc5#**, but not *2. Ndf4#?*; and **1...Ncxe5 2. Ndf4#**, but not *2. Nc5#?*.
 
 The third is the **Fleck-Karlstrom theme**: after the key move several threats arise; the number of defenses in the position must equal the number of threats, and in play they eliminate all the threats at once, so the mating moves are different.
+
+![textual 61](./textuals/diagram0061.png)
 
 **A. Karlstrom. "Problemisten", 1947.** White: **Ka4, Qh6, Rg1, Rg4, Bg7, Na6, Ne7, pawns a2, b2, b3, b4 (11)** and Black: **Kd4, Qe5, Re4, Rh7, Bh8, Na8, pawns a3, a5, d3 (9)** — mate in two.
 
@@ -1977,6 +2017,8 @@ In the retro play four promoted pieces are captured, White's bishop and two quee
 
 And here is the critical position of the problem, that is, the position from which the proof of its legality begins.
 
+![textual 62](./textuals/diagram0062.png)
+
 White: **Kg5, Qb8, Ra1, Rd6, Bc1, Bd7, Nh8, pawns a2, b2, c3, d2, e2, f7, g4, h5 (15)** and Black: **Kd8, Qe8, Rb7, Rc7, Ba7, Bd3, Na8, Nc8, pawns a6, b6, c6, d5, e6, e7, g6, h7 (16)**. White to move.
 
 The **Hannelius theme**, named after the Finnish problemist Jan Hannelius, is close to the Dombrovskis theme, but in it defense a is met by mate B, and defense b by the mate of threat A. In this theme the mate from the threat of one try appears in the solution after the move that refutes the other try, and vice versa.
@@ -1994,6 +2036,8 @@ The **Elbe theme** is a complex of two logical themes, Dresden and Hamburg, appe
 
 This substantial and technically difficult theme is brilliantly realized in two variations in the following three-mover.
 
+![textual 63](./textuals/diagram0063.png)
+
 **L. Loshinsky. "Die Schwalbe", 1971, 1st-2nd prizes.** White: **Ka4, Re7, Rg4, Be2, Be5, Na6, Nd4, pawns b6, c7, d3, g3, g6 (12)** and Black: **Kd5, Re3, Rh8, Be1, pawns b4, e4, g7 (7)** — mate in three.
 
 The tries *1. Bd1?* and *1. Rg5?* reveal Black's possibilities of preventing the completion of White's main plans, that is, the threats *2. Bb3#* and *2. Rd7#*, by corresponding captures on d3.
@@ -2002,11 +2046,15 @@ Therefore the move **1. Kb5!** with the threat **2. dxe+ Rxe4 3. Bc4#** induces 
 
 The **Ukrainian theme** is the cyclic alternation of threats and mates in the variation. This idea was developed by the Kharkiv composer S. A. Shedey in 1967.
 
+![textual 64](./textuals/diagram0064.png)
+
 **S. Shedey. "British Chess Magazine", 1970, 2nd prize.** White: **Kf6, Qh3, Bb7, Na3, Ne6, pawns c3, c5, c6 (8)** and Black: **Ke4, Bh1, Na1, Na5, pawns g2, h6 (6)** — mate in two.
 
 *1. Ba6?* with the threat *2. Qd3# (A)*: *1...Kd5 2. Qf3# (B)*, but *1...Nc4!*; *1. Nd4?* with the threat *2. Qf3# (B)*: *1...Kd5 2. Qf5# (C)*, but *1...g1N!*; and **1. Nc4!** with the threat **2. Qf5# (C)**: **1...Kd5 2. Qd3# (A)**.
 
 An important point here is the condition that Black's thematic defensive move must be the same in all phases.
+
+![textual 65](./textuals/diagram0065.png)
 
 **V. Melnichenko. "64", 1968, 3rd honorable mention.** White: **Kh6, Qc7, Rf7, Rh5, Bg5, Bh3, Nd6, Ne1, pawns b2, b5, e6 (11)** and Black: **Kd4, Bd3, Na4, pawns d5, e3, e4, e7, g6 (8)** — mate in two.
 
@@ -2048,6 +2096,8 @@ Diagram № 119. The set play is *1...Rf2 2. Bb3#* and *1...b4 2. Ra5#*. The tri
 
 The **Kharkiv theme**, or the theme of legalization of refutations, was proposed by the Kharkiv problemist A. Mochalkin. Its formulation is that in one phase of a two-move problem the refutation of a try is accomplished by several possibilities simultaneously, while in another phase, try or solution, those refuting moves become thematic defenses.
 
+![textual 66](./textuals/diagram0066.png)
+
 **A. Mochalkin and S. Shedey. "Khliborob Ukrainy", 1986.** White: **Kh2, Qb4, Ra4, Bh7, Ne3, Ng4, pawns e5, g2, h4 (9)** and Black: **Kf4, Qd4, Re4, pawn f6 (4)** — mate in two.
 
 This is an example illustrating the synthesis of the theme of legalization of refutations of false tries with classical themes.
@@ -2081,7 +2131,9 @@ A second thematic complex is: **1. Nd7?** with the threat **2. Qb4#**, but **1..
 
 The **Shedey theme** is one in which in a multi-phase problem the mating move of White from one phase becomes the mate in each subsequent phase, but now against different black defenses. The author is international master S. A. Shedey of Kharkiv.
 
-**S. Shedey. "Shakhmaty", 1963, 1st-2nd prizes.** White: **Kh6, Qb7, Ra3, Bd1, Be1, Nc3, Nd2, pawns c5, d4, d6, c6, f5, g4 (13)** and Black: **Kf4, Rb8, Rf2, Bb2, Nh3, pawns c6, g2, h4, h7 (9)** — mate in two, with White's thematic move indicated.
+![textual 67](./textuals/diagram0067.png)
+
+**S. Shedey. "Shakhmaty", 1963, 1st-2nd prizes.** White: **Kh6, Qb7, Ra3, Bd1, Be1, Nc3, Nd2, pawns c5, d4, d6, e6, f5, g4 (13)** and Black: **Kf4, Rb8, Rf2, Bh2, Nh3, pawns c6, g2, h4, h7 (9)** — mate in two, with White's thematic move indicated.
 
 **1...Ke3 2. Ne2#** and **1...Kg3 2. Nd5#**. *1. Qxc6?* with the threat **2. Nd5#** is met by *Rb3!*; the correct move is **1. Qg7!** with the threat **2. Qe5#**: **1...Ke3 2. Nd5#** and **1...Kg3 2. Ne2#**.
 
@@ -2241,6 +2293,8 @@ By the way, the second method of composing studies mentioned by Réti is called 
 
 Let us consider several examples of these methods of composition. The first two are taken from the magazine 64-Chess Review for 1981.
 
+![textual 68](./textuals/diagram0068.png)
+
 **Capablanca-Steiner. Los Angeles, 1933.** White: **Kh1, Qh5, Ra1, Rf1, Nh4, pawns a2, c2, c3, d3, e4, g2, h2 (12)**; Black: **Kg7, Qd8, Ra8, Rg8, Ne7, pawns a7, b7, c6, e5, e6, f6, h7 (12)**; White to move.
 
 In this position the former world champion unexpectedly shattered the opponent's defense by a rook sacrifice: **1. Rxf6! Kxf6 2. Rf1+ Kf5 3. Nxf5! exf 4. Rxf5+ Ke7 5. Qf7+ Kd6 6. Rf6+ Kc5 7. Qxb7 Qb6 8. Rxc6+! Qxc6 9. Qb4#**.
@@ -2259,6 +2313,8 @@ This moment from practical play is already embodied in a study, № 125. Here Bl
 **6. Rd2+ Ke6 7. Rd6+ Kf5 8. Qg7 Qg6 9. Rxf6+ Qxf6 10. Qg4#**.
 
 The next two examples are taken from A. O. Herbstman's book Selected Chess Studies.
+
+![textual 69](./textuals/diagram0069.png)
 
 White: **Kc2, Ra6 (2)**; Black: **Ke8, Rf4, Nc1, Nc4 (4)** — draw.
 
@@ -2290,6 +2346,8 @@ Repeating the bait device, let us place a white pawn on h7, move the black king 
 It is quite likely that the artistic thinking of the Volgograd master when developing the idea he found had somewhat different contours, but there can be no doubt that in this case he proceeded from the final position and by retro-analysis, that is, in reverse order, built the introductory play upon it, making use along the way of technical devices such as pursuit of a piece, **Kb3**, bait, of which there are three in the study, the bishop on a6, the knight on f4, and the pawn on h7, decoy, and indirect attack.
 
 And now let us look into the workshop of international grandmaster G. M. Kasparyan.
+
+![textual 70](./textuals/diagram0070.png)
 
 The position, White: **Kg3, Re7 (2)**; Black: **Kh5, Ng5, pawns g6, h6 (4)**, is remarkable in that mutual zugzwang arises: White to move draws, Black to move wins. The grandmaster recognized it as exceptional and began its further development: he moved the rook to a6, the knight to b7, and the pawn from g6 to h7, adding a white knight on f3 and a black bishop on d7, thus obtaining an interesting introductory play:
 
@@ -2325,6 +2383,8 @@ Suppose, he writes, that we want to construct a study with the following stalema
 
 To facilitate creation of the introductory play, let us rotate the board by 90 degrees and obtain the following position: White, **Ka8**; Black, **Nc6, Bc8**. By moving the bishop to a6 and adding a white pawn on c7, we get the concluding move c7-c8Q and Bxa6xc8, stalemate. By adding a black pawn on d7, we see that before this Black's last move must have been Nb8-c6.
 
+![textual 71](./textuals/diagram0071.png)
+
 Continuing to work in the same way, we can obtain the following study: **V. Korolkov, "Shakhmaty", 1929**. White: **Kb7, Ba4, pawn c6 (3)**; Black: **Kh7, Be4, Nb8, pawns d4, d7 (5)**. Draw: **1. Bc2 d3 2. Bxd3 Bxd3 3. c7 Ba6+ 4. Ka8 Nc6 5. c8Q Bxc8**, stalemate.
 
 Thus a study has been composed satisfying the basic requirements for the construction of a work of chess art. But in working on it we had the possibility of going another way and using other possibilities for creating the introductory play.
@@ -2343,7 +2403,11 @@ The pawn configuration determines the defensive and attacking possibilities of t
 
 Let us give an example of the development of related positions, from the moment of discovering the primary idea, through the detection of additional subtleties, to the final shaping of the composition, as carried out by the famous Soviet classic of the pawn study M. A. Zinar.
 
+![textual 72](./textuals/diagram0072.png)
+
 Once, having noticed a study by A. Votava published in Deutsche Schachzeitung in 1954, White: **Kc6, pawn h2 (2)**; Black: **Ka4, pawns c7, d5 (3)**, win, and having analyzed its solution, **1. Kc5! d4 2. Kc4 d3 3. Kc3 c5 4. h4 c4 5. h5 Ka3 6. h6 d2 7. Kxd2 (c2)** with a win, M. A. Zinar became interested in the curious design of the author. In that study, in the form of a miniature, a triple refusal of capture had been achieved.
+
+![textual 73](./textuals/diagram0073.png)
 
 Everything would have been splendid, but Zinar noticed a great ideological resemblance to a study quartet by the founder of the pawn study, N. D. Grigoriev, from 1928: White: **Ke1, pawn h2 (2)**; Black: **Ka2, pawn c7 (2)**. Win: **1. Kd2! Kb2!**, if *1...Kb3 2. h4 c5 3. Kc1* with a win, **2. Kd3! Kb3 3. Kd4! Kb4 4. h4 b5+ 5. Ke3!**, the counter-check maneuver, **5...Kb3**, Black having failed to exploit the gain of check loses a tempo, **6. h5 c4 7. h6 c3 8. h7 c2 9. Kd2! Kb2 10. h8Q+**, and Black will not get a queen.
 
@@ -2362,6 +2426,8 @@ Removing the first move of the solution, we arrive at the position: White: **Kd5
 The solution is **1. Kd4! e3! 2. Kd3! e2 3. Kxe2 Kc3 4. h4!**, after *4. Kd1?* the black king reaches the pawn square, **4...Kc2 5. Ke3!**, that is, now as in Grigoriev's study, **5...Kc3 6. Ke4! Kc4 7. h5 d5+ 8. Kf3! d4 9. h6 d3 10. h7 d2 11. Ke2 Kc3 12. Kd1**, with a win.
 
 The result is Votava's design without its beginning plus Grigoriev's design without its end. Yes, but the price of connecting two truncated ideas was high, five technical pawns. Would it not be better to replace the blocking of the diagonal by lengthening the route of the h-pawn?
+
+![textual 74](./textuals/diagram0074.png)
 
 In Zinar's study, published in Radyanska Ukraina in 1986, White: **Kd5, pawns a2, a4, b5, g2, h3 (6)**; Black: **Kb4, pawns a5, b6, d7, e4, h6 (6)**, the route of the rook pawn is lengthened. But this cost a pretty penny: there are no longer five but seven technical pawns on the board, two to lengthen the route, and the pawn a4 to eliminate counterplay against the a-pawn.
 
@@ -2406,6 +2472,8 @@ As we have already said, in the position just considered the white rook can be m
 In cases where there is a choice among several possibilities, it is necessary to examine the positions carefully in order to select the one that is more convenient for further deepening of the combination.
 
 In the present case the hanging position of the white rook tells against moving it to d6, d8, or b8, whereas the move to b6, where it is protected by the king, gives the possibility of lengthening the play by one more move. This is achieved by moving the rook to d6, better a6, and the black king to b7. Then a little study with a three-move solution already results.
+
+![textual 75](./textuals/diagram0075.png)
 
 White: **Ka5, Rd6 (2)**; Black: **Kb7, pawn c2 (2)** — draw: *1. Rb6+*, but not *1. Rd7? Kc8!* with a win for Black, *1...Kc7 2. Rb4 c1Q 3. Rc4+ Qxc4*, stalemate.
 
@@ -2478,12 +2546,16 @@ Diagram № 129. **1. Qb5!** - zugzwang: **1...Nb- 2. Qxb1#** and **1...Nc2! 2. 
 
 Diagram № 130. **1. Rh7!** (freeing the seventh rank) **1...d2 2. Ra8!** (freeing the a-file) **2...d3 3. Qa7!!** and **4. Qg7#**. Cook: *1. Re7! d2 2. Re5! d3 3. Rxb4! Kd4 (or Kxb4) 4. Qxb2 (or Qa5)#*.
 
+![textual 76](./textuals/diagram0076.png)
+
 **I. Kulis and M. Marandyuk, 1982**. White: **Kb1, Qb8, Rf1, Rg5, Be6, Bg1, Ne5, Nf4, pawn g3 (9)** and Black: **Ke4, Qe7, Ba8, Bc3, Nf6, pawns c5, c7, d3, d7 (9)** - mate in two. **1...c6 2. Bf5#**, try **1. Qh8? Nh7 2. Bf5# - 1...Qh7!**, try **1. Qb5? c4 2. Bf5#**, but **1...Qd6!**; correct is **1. Qb2! Bd2 2. Bf5#**. Fourfold change of defenses with an ambush of the white queen. Cook: *1. Bh3*.
 
 **№ 131. V. Kopaev, 1982, Mate in 3**  
 ![№ 131. В. Копаев 1982 Мат в 3 хода](./diagrams/diagram0131.png)
 
 № 131. **1. Be5!** with the threat **2. Qe8+ Bd7 3. Qxd7#**: **1...Qg6+ 2. Rxg6+ hxg6 3. Rc3#** or **2...Nf6+ 3. Rfxf6#**; **1...Nf6+ 2. Rxf6 - Rxf6 3. Rc2#**; **1...Qf5 2. Rc3+ Nxc3 3. Rg6#**; and **1...Qe5 2. Rc2+ Qc3 3. Rfxc3#** - cyclic alternation of four white moves. Cook: *1. Rc2+*.
+
+![textual 77](./textuals/diagram0077.png)
 
 **A. Spirin, 1981**. White: **Ke2, Qg6, Rb4, Bf8, Nb1, Nb6, pawns b7, c4, e4, g5 (10)** and Black: **Kd4, Ba3, pawns b2, b3, c5, d5, d7, e5, e6 (9)** - mate in three. The author's idea is very original. *1. b8Q? Bxb4 2. Bd6*, but *1...Bb? 2. Qd6* is stalemate; and *1. b8N? Bxd7*, but *1...Bxb4*. Correct is **1. b8B! cxb8 2. Cbd6!** and **3. Bc5#**, and **1...Bxb4 2. Bfd6!** and **3. Bxe5#**. However, the problem can also be solved by other moves, for example *1. Rxb3, 1. Bd6, 1. Qf7, 1. Qf6*, and so on.
 
@@ -2492,9 +2564,15 @@ Diagram № 130. **1. Rh7!** (freeing the seventh rank) **1...d2 2. Ra8!** (free
 
 № 132. **1. Bc7!** with the threat **2. Bb3**: **1...Qg8 2. Rd5+ Ke6 3. Re5+ Kf7 4. Be8#**, **1...Rxe2 2. Rc6+ Kd4 3. Rc4+ Ke3 4. Bb6#**, and **...Kf4 4. Rd4#** - three variations with distant blocking of squares g8, e2, and g5. However, *1. Bb3* also solves.
 
+![textual 78](./textuals/diagram0078.png)
+
 **A. Kuzovkov, 1982**. White: **Kh2, Qf6, Bf2, Bg6, Nc5, Nd1, pawns f5, g3, h4 (9)** and Black: **Kg4, Qa7, Ra3, Re8, Ba1, Bc2, Nb5, Nd4, pawns c6, c7, e2, e4, f3, g5, h6 (15)** - mate in four. **1. Nd7!** with the threat **2. Qxg5+ hxg5 3. Nf6#**: **1...Ne6 2. Bd4! Qxd4 3. Ne6+** and **2...Bxd4 3. Ne3+**; **1...Nb3 2. Qd4! Qxd4 3. Nf6+** and **2...Bxd4 3. Ne3+**. Cook: *1. Qf7!*
 
+![textual 79](./textuals/diagram0079.png)
+
 **S. Sukharev, 1982**. White: **Ke2, Be3, Bg4, Nf6, pawns b4, e4, g2, h6 (8)** and Black: **Kh8, Ba6, pawns a7, b5, b6, b7, e5, f7, g6, h7 (10)** - mate in eight. **1. Ke1! g5 2. Bd1! g4 3. Bc1! g3 4. Ba4 bxa4 5. b5**, and then the bishop route on moves 6-8: Ba3-f8-g7. Cook: *1. Bf2 g5 2. Bh5 g4 3. Bh4 g3 4. Nd7* and so on.
+
+![textual 80](./textuals/diagram0080.png)
 
 **M. Liburkin, "64", 1935**. White: **Kf5, Rc7, Rh7, Bg5, pawns b5, e4 (6)** and Black: **Kg1, Qh1, Bh2, pawns b6, b7, e5, f2, f3, f6, g2, g3 (11)** - win. One of the first studies in which White answers Black's promotion to bishop or knight with a corresponding underpromotion to knight and bishop.
 
@@ -2516,15 +2594,21 @@ If *1...f1B*, then the play is the same up to move 9, and then *9. b8N! a4 10. N
 
 Unfortunately, the study has a cook: *1. Rc1+ (N) 2. Be3+ f2 3. Bf4 exf4 4. Rhc7 f3 5. R7c6 bxc6 6. bxc6 b5 7. c7 b4 8. c8N b3 9. Rb1 b2 10. e5 fxe5 11. Nd6 e4 12. Nb5 e3 13. Nd4 e2 14. Nxf3#*. In addition, in the second variation 9. b8B is also possible. (Note by R. Kofman.)
 
+![textual 81](./textuals/diagram0081.png)
+
 **V. Karpov, 1980**. White: **Kc1, Qg8, Rb5, Rd1, Be3, Bf5, Na7, Nh5, pawns b3, c5, d4, f6 (12)** and Black: **Kd5, Be8, Bg3, Nc4, Ne6, pawns a3, d7 (7)** - mate in two.
 
 The try *1. Bf4?* with the threat *2. c6#*: **1...Ne5 2. dxe#**, **1...Nd6 2. cxd#**, and **1...Bf7 2. Qa8#**, is refuted by *1...Nd2!*. The solution is **1. f7!** with the threat **2. Nf6#**: **1...Nxd4 2. fxe#**, **1...Nc5 2. fxeN#**, and **1...Be5 2. Qg2#**.
 
 Cook: *1. Nf4*.
 
+![textual 82](./textuals/diagram0082.png)
+
 **E. Spirin, 1980**. White: **Ka8, Qg4, Rc8, Ng1, Ng5, pawns c2, d2, f4 (8)** and Black: **Kd4, Re1, Rh3, Ba2, Bh8, Nf2, pawns d5, e3, h7 (9)** - mate in two. The false play *1. Qf5?* with threats *2. Ne6#* and *2. c3#* is refuted by *1...exd!*; *1. Qf3?* with the threat *2. Ne6#*: *1...exd 2. c3#* is met by *1...Rh6!*; and *1. Qe2?* with the threat *2. c3#*: *1...exd 2. Ne6#* is met by *1...Rc1!*. The solution is **1. Qd7!** with the threat **2. Qa7#**: **1...Nd3 2. c3#**, **1...Ne4 2. Ne6#**, **1...Rh6 2. N1f3#**, and **1...Rb1 2. Ne2#**.
 
 Cook: *1. Qxh3*.
+
+![textual 83](./textuals/diagram0083.png)
 
 **N. Ivanov and Ya. Rssomakho, 1980**. White: **Kf2, Qd8, Re3, Rh5, Be3, Bd5, Nf4, Ng2, pawns c4, e2, g4 (11)** and Black: **Kc5, Qd4, Rf5, Rf6, Bc5, Bh7, pawns c7, e4, e6, f7 (10)** - mate in three. **1. Bc6!** with the threat **2. Bxd4+ Bxd4 3. Qxc7#**: **1...Rh6 2. Kf1!** threatening **3. Re4#**, **2...Rfxh5 3. Nd3#**; and **1...Bd6 2. Kg1!** threatening **3. Nd3#**, **2...Qxc3 3. Rxe4#**; also **1...Qxc3 2. Qxf4+ Kd4 3. Rxe4#**, or **2...Bd6 3. Nd3#**.
 
@@ -2537,9 +2621,13 @@ Diagram № 133. Initially there is *1...Kd4 2. Rd2#* and *1...Bxa3 2. Qf1#*; af
 
 Cook: *1. Rd7*.
 
+![textual 84](./textuals/diagram0084.png)
+
 **A. Lobusov, 1980**. White: **Kh8, Qd2, Rg4, Be8, Bg7, Nb7, Ne4, pawn a4 (8)** and Black: **Kd5, Qa3, Rc8, Rd6, Bd3, Bd8, pawns c5, c6, e7, h6 (10)** - mate in three. **1. Qf4!** with the threat **2. Qxd6+ exd6 3. Bf7#**: **1...c4 2. Bf7+ e6 3. Qf5#**, **1...Bc7 2. Qf5+ e5 3. Nf6#**, and **1...Rc7 2. Nf6+ exf6 3. Qxd6#**.
 
 Cook: *1. Qh2*.
+
+![textual 85](./textuals/diagram0085.png)
 
 **Yu. Marker, 1980**. White: **Kg3, Qc1, Re6, Rf5, Bb1, Bh8, Ne7, Ng7, pawns a4, b4, c4, g5 (12)** and Black: **Kd4, Qf6, Re5, Bh1, Ne8, Nh3, pawns b3, c6, g4 (9)** - mate in three. **1. Nc8!** with the threat **2. Qd2+**: **1...Rb5! 2. Re4+! Bxe4 3. Ne6#** and **1...Re2 2. Rd5+! Bxd5 3. Nf5#**. Also **1...Qxg5 2. Rd6+! Nxd6 3. Ne6#**, and **1...Qd8 2. Rf4+! Nxf4 3. Nf5#**.
 
@@ -2559,6 +2647,8 @@ Diagram № 135. **1. Qc1! Kb4 2. Rg5 Kb3 3. Rb5#**, **1...Kd4 2. Rg5 Kd3 3. Rd5
 
 Cook: *1. Qf8*.
 
+![textual 86](./textuals/diagram0086.png)
+
 **M. Marandyuk, 1980**. White: **Kd2, Rc1, Rd7, Ba3, Nc4, Nc5, pawns b5, c7, e3, e7, f2 (11)** and Black: **Kd5, Ra6, Re8, Nd6, pawns a4, d3, e4, f3, h6 (9)** - mate in four.
 
 **1. Kc3!** - zugzwang! **1...Rb6 2. Rd1!** with the threat **3. Rxd3+ exd3 4. e4#**; **2...Rxg7 3. c8N!** and **4. Nxb6 (or Nxe7)#**; and **1...Re6 2. Rh1!** with the threat **3. Rh5#** - **2...Rd8 3. c8Q!** and **4. Qxc6 (or Qxg8)#**.
@@ -2571,6 +2661,8 @@ Cook: *1. Rd8*, and there is no defense against **2. c8Q**, for example **1...Rx
 № 136. **1. Qf5! Kg2 2. Qb1! Kxh3 3. Qf5+ Kg2 4. Qf3+ Kg1 5. Qh3** (there is no pawn on h3) **5...Kxh1 6. Qf1#**.
 
 Cook: *1. Qe4 Kf1 2. Qxe3 Ke1 3. Qd3! Kf1 4. Qd1+ Kg2 5. e3* (or e4) *Kxh3 6. Qf3#*.
+
+![textual 87](./textuals/diagram0087.png)
 
 **S. Sukharev, 1980**. White: **Kc6, Ra3, Rd1, Bb3, Bb4, pawns a2, c2, d4, f6 (9)** and Black: **Kb1, Ba1, Nc1, pawns b2, b5, c3, c7, d2, d6, f7 (10)** - mate in nine.
 
@@ -2585,9 +2677,13 @@ Cook: *1. Ra8 d5 2. Bxc3 b4 3. Re8* (or g8) *bxc3 4. Re6* (or g6) *and 5. f7, 6.
 
 Cook: *1. f4 hxg5 2. Ng5 Kh5 3. Bc5! Kh6 4. Bf8 Kh5 5. Ke4 Kh4 6. Nf6 g3 7. Kf3 (or Kg6)#*.
 
+![textual 88](./textuals/diagram0088.png)
+
 **A. Begdzhanov, 1982.** White: **Ka1, Qh8, Ne2, Nf6, pawns a2, a4, a5, b3 (5)** and Black: **Ke5, pawns a2, a4, a5, b3** - mate in five. **1. Nc3!** zugzwang: **1...Kd6 2. Qc8 Ke5 3. Nce4 Kf4 4. Qc5! Kf3 5. Qf2#**; **1...Kf4 2. Qh3! Ke5 3. Ncd5 Kd6 4. Qe3! Kc6 5. Qb6#**; **1...Ke6 2. Nce4! Kc5 3. Qc8! Kf4 4. Qc5 Kf3 5. Qf2#** or **2...Kf3 3. Qh2! Ke6 4. Qh5! Ke7 5. Qe8#**; **1...Kf5 2. Ncd5 Ke6 3. Qh3! Kd6 4. Qe3! Kc6 5. Qb6#** or **2...Kc6 3. Qb8! Kf5 4. Qe8! Kg5 5. Qh5#**; also **1...Kd4 2. Nfd5+ Kc5 3. Qe5! Kc4 4. Nb4! axb4 5. Qd5#**, or **2...Kc3 3. Qh4+ Kc5 4. Qf4! Kc6 5. Qc7#**, or **3...Kd3 4. Qg4! Kd2 5. Qd1#**.
 
 Cook: *1. Ng3!*
+
+![textual 89](./textuals/diagram0089.png)
 
 **Yu. Gordian, 1982.** White: **Kg2, Rc3, Re6, Bd2, Nd8, Ne3, pawns e2, f3, h4 (9)** and Black: **Kf4, Qb1, Ra4, Bd1, Be5, Ng8, pawns c6, d5, f6, f7, g6 (11)** - mate in four. **1. Rc5!** with the threat **2. Nxd5 Kf5 3. Rxf6+!** and **4. Ne7#**: **1...Ra7! 2. Nc2+! Kf5 3. e4+! dxe4 4. Nd6#**, and **1...Qb7 2. Nc4+! Kf5 3. e4+! dxe4 4. Nd6#**.
 
@@ -2607,9 +2703,13 @@ However, a cook was found: *1. Qb4!* - counter-battery.
 
 Cook: *1. Nd7*.
 
+![textual 90](./textuals/diagram0090.png)
+
 **V. Sitnikov, 1982**. White: **Ke1, Qf8, Rd3, Rf1, Ba7, Bh7, Ne7, Nf2 (8)** and Black: **Ke5, Qa6, Rg6, Rh6, Ba2, Nb7, Nb8, pawns b5, c3, e6, h4 (11)** - mate in two. Initially: *1...Qd6 2. Re3#* and *1...Nd6 2. Bd4#*. In the try *1. Nd5?* with threat *2. Qf4#*: *1...Bxd5 2. Bd4#* and *1...exd5 2. Re3#* - but *1...Qa4!* refutes. Solution: **1. Ne4!** with threat **2. Qf4#**: **1...Kxe4 2. Re3#** and **1...Rf6 2. Bd4#**.
 
 Cook: *1. Rd4*.
+
+![textual 91](./textuals/diagram0091.png)
 
 **V. Gladkikh, 1979**. White: **Kh3, Qe5, Rf6, Ba4, Bd4, Nd3, Ng4, pawns c2, c7, g2 (10)** and Black: **Kc4, Qe1, Rf2, Rg7, Bc8, Bh2, Ne6, Nf5, pawns b3, d5, e3, f3, f4, g5, h6 (15)** - mate in three. **1. Bb2!** with threat **2. Qd4!** and **3. Nge5#**: **1...Ne- 2. Rxf5**, **1...Nf- 2. Rxe6**, **1...Ned4! 2. Qe6!**, and **1...Nfd4! 2. Qf5!**.
 
@@ -2622,11 +2722,15 @@ Cook: *1. Bxb3+*.
 
 Cook: *1. Rxg4* and *1. Qf1*.
 
+![textual 92](./textuals/diagram0092.png)
+
 **A. Lobusov, 1982**. White: **Kf1, Qg4, Rd3, Rh5, Bh6, Ng2, Nh4, pawn e2 (8)** and Black: **Ke4, Ra6, Rf6, Bb7, Be1, Ng1, Nh8, pawns a5, b2, c3, d4, f4, h2 (13)** - mate in three.
 
 **1. Bg7!** with threat **2. Qf5+! Rxf5 3. Rxd4#**: **1...Bc8 2. Rxd4+! Kxd4 3. Qxf4#**, **1...Bf2 2. Qxf4+! Rxf4 3. Re5#**, and **1...Rd6 2. Re5+! Kxe5 3. Qf5#**.
 
 Cook: *1. Rxd4+* and *1. Nf3*.
+
+![textual 93](./textuals/diagram0093.png)
 
 **F. Davidenko, 1981**. White: **Ka2, Qg2, Ra5, Rd6, Bb5, Bf4, Nd5, Nf7, pawn e7 (9)** and Black: **Kf5, Qa7, Ra8, Rh5, Bh2, Nh3, pawns a6, d2, e4, g5, g7, h4 (12)** - mate in three.
 
@@ -2697,15 +2801,21 @@ However, *1. Re3* also wins, for example: *1...Qa4* (or *1...Qa6 2. Bf6!*) *2. N
 
 Dual: after *1. Ke1 Be6* both *2. Qe2* and *2. Qd1* are possible.
 
+![textual 94](./textuals/diagram0094.png)
+
 **Yu. Gashev, 1980**. White: **Ke8, Qe3, Bd2, Bh7, Nc6, Nd6, pawn c3 (7)** and Black: **Kd1, Rf1, Bh8, pawns a2, b2, f7, g2, h2 (8)** - mate in seven. **1. Bd3!** with threat **2. Qe2#**: **1...g1N! 2. Ne4!** with threat *3. Nf2+*; **2...h1N! 3. Be1** with threat *4. Qd2#*; **3...b1N! 4. Nb4** with new threat *5. Bc2#*; **4...a1N! 5. Bc2+ Nxc2 6. Qd3+ Kc1 7. Qxc2#**, or **6...Kc1 7. Nxc2#**.
 
 Dual: *2. Bxf1 a1Q 3. Bd3! Qa8+ 4. Kd7!*
+
+![textual 95](./textuals/diagram0095.png)
 
 **B. Gelpernas, 1980**. White: **Kg8, Qb4, Bd5 (3)** and Black: **Ka1, Nf2, pawns a4, b5, d6, d7, f6, g3, h2 (9)** - mate in twenty-one.
 
 **1. Qd2! Kb1 2. Ba2+ Ka1 3. Bf7! Kb1!** (the continuation 3...d5 shortens the solution) **4. Bg6+ f5!** (very bad is *4...Ka1?* because of *5. Qc1 Ka2 6. Bf7+ d5 7. Bxd5#*) **5. Bxf5+ Ka1 6. Qb4!** - first pendulum swing... **6...Ka2 7. Bb1+ Ka1 8. Bg6! Ka2 9. Bf7+ d5** (here too *9...Ka1 10. Qa3+ Kb1 11. Bg6+ Ne4 12. Bxe4#* is weak) **10. Bd5+ Ka1 11. Qd2!** - second... **11...Kb1 12. Ba2+ Ka1 13. Bf7! Kb1 14. Bg6+ Nd3! 15. Bxd3+ Ka1 16. Qb4!** - and third... - **16...Ka2 17. Bb1+ Ka1 18. Be4 Ka2 19. Bd5+ Ka1 20. Qa3+ Kb1 21. Be4#**.
 
 There is a dual: *15. Qxd3+ Kb2 16. Qd2+ Ka3 17. Bf7 d5 18. Bxd5 b4 19. Qa2#*.
+
+![textual 96](./textuals/diagram0096.png)
 
 **S. Makhno, 1979**. White: **Kc7, Ba5, Ba8, Nd6, Nf8, pawns d2, e3, g4, g5 (9)** and Black: **Ke5, Bc1, Bc2, Na2, Nh8, pawns c4, d5, g7 (8)** - mate in nine.
 
@@ -2720,7 +2830,11 @@ Also, after *2. Kd7!* mate is delivered in eight moves: *2...Ba4 3. Ke7 Bb5 4. N
 
 Unfortunately, there is an unpleasant dual: *3. Nd7* and so on.
 
+![textual 97](./textuals/diagram0097.png)
+
 **V. Udartsev, 1982**. White: **Kc1, Qc5, Rd8, Bf2, Nc7, Ng3, pawns b3, d4, e3, f4 (10)** and Black: **Kd3, Re4, Ba5, Nc4, Nd6, pawns b5, c2, c3, e7, f3, f5 (11)** - mate in three. **1. Na6!** with threat **2. Qxc4+**: **1...Rxe3 2. Qxf5+ Kxd4 3. Qe4#** or **2...Nxf5 3. Nc5#**. In the line **1...Nxe3 2. Qxb5+ Kxd4 3. Qc4#** there is a dual: after *2...Kxd4* both *3. Qc4#* and *3. Qd5#* are possible. If *2...Nxb5*, then *3. Nc5#*.
+
+![textual 98](./textuals/diagram0098.png)
 
 **V. Udartsev, 1982**. White: **Kb6, Qf3, Rb5, Rc6, Ba3, Na7, Nf7, pawns d2, d3, e2, c4 (11)** and Black: **Kd4, Qg1, Rb1, Rh6, Bf8, Bh7, Nh3 (7)** - mate in two. False play: **1. Ka6?** with threat **2. Rd5#**: **1...Rh5 2. Rc4#** and **1...Rd6 2. Bc5#**, refuted by **1...Qg5!**. Also **1. Kb7?** with threat **2. Rc4#**: **1...Rc1 2. Rd5#** and **1...Qc1 2. Qe3#**, but **1...Rb4!**. And **1. Rb2?** with threat **2. Nb5#**: **1...Rh5 2. Rc4#** and **1...Rxb2+ 2. Bxb2#**, but again **1...Qg5!**. The solution is **1. Rf6!** with threat **2. Nc6#**: **1...Rc1 2. Rd5#** and **1...Qc1 2. Qe3#**.
 
@@ -2732,6 +2846,8 @@ However, the try *1. Ka6?* is refuted by a dual: the intended *1...Qg5!* and the
 № 145. **1. Bf8!** with threat **2. Bg7#**: **1...Rg2+ 2. Kh6 Rg1 3. Ba3 Rg2 4. Bb4 Rg3 5. Bc5 Rg4 6. Bd6 Rg5 7. Be7**, and White wins.
 
 False trail: *1. Bc5? Rd2 2. Bb4 Rc2* and *3. Rc6+* with draw. Duals: *3. Bc5 Rd1 4. Ba3 Rd2 5. Bb4* etc., or *4. Bc5 Rg4 5. Bd6!*
+
+![textual 99](./textuals/diagram0099.png)
 
 **M. Liburkin, "1234 Modern Endgame Studies", 1938**. White: **Ka2, Rd1, pawns a6, c6, d4, d7, e6, f3, g6, h3 (10)** and Black: **Kh1, Ng1, pawns a7, c5, c7, d2, e7, g2, g7, h2 (10)** - win. A study with five promotions to knight.
 
@@ -2831,11 +2947,15 @@ III. **2...Kg7 3. f8B+! Kxh7 4. Bxh5**, and White wins.
 
 However, in the first variation after *3...Kg7 4. Bxh5 Rxg2 (or Re5, Re7)!* the study is unsound.
 
+![textual 100](./textuals/diagram0100.png)
+
 **G. Amiryan, 1982**. White: **Kf5, Qe2, Nh3, pawns b3, c2, d4, e6 (7)** and Black: **Kg3, Qh1, Rc6, Ba3, Nd7, pawns c3, f7, g2 (8)** - win.
 
 **1. Qe3+ Kh2 2. Ng1** - **3. Nf3+ Kg3 4. Ne5+ Kh2 5. Ng4#**; **2...Rc5 3. dxc5 Bxc5 4. Nf3+ Kg3 5. Nd4+! Kh2 6. Qf4+ Kg1 7. Ne2#**; **2...Bc1 3. Kg4 f5+ 4. Kh4 Ne5 5. dxe5 Rc4+ 6. bxc4 Bxe3 7. Nf3#**; and **2...Qxg1 3. Qh6+ Kg3 4. Qf4+ Kh3 5. Qg4+ Kh2 6. Qh4#**.
 
 However, after *1...Kh4! 2. Ng1 fxe6+* the study is unsound.
+
+![textual 101](./textuals/diagram0101.png)
 
 **E. Enkin, 1981**. White: **Kg3, Re8, Bd7, Nc1, pawns d3, e2, f3, g6, h5 (9)** and Black: **Kf6, Qh6, Ba8, Bg7, Ne1, pawns b6, c6, d4, e3, g5 (10)** - mate in sixteen.
 
@@ -2845,7 +2965,11 @@ After eliminating the knight, one must attract the bishop to d4 and remove the p
 
 **9. d4! Bxd4 10. Rxc6+ Ke5 11. Nd3+ Kd5 12. Nb4+ Ke5 13. Re6+ Kf5**. And finally, the main plan: **14. Rxb6 Ke5 15. Nd3+ Kd5 16. Be6#** - a correct mate. But after *9...Be5+!* the problem is unsound.
 
+![textual 102](./textuals/diagram0102.png)
+
 **V. Shanshin, 1982**. White: **Kg3, Qg4, Rc1, Rd8, Be7, Ne2, Ne8, pawns c7, f2 (9)** and Black: **Ke5, Ra7, Rh5, Bb6, Bb7, Nh7, Nh8, pawns b4, d3, d4, f7, h3 (12)** - mate in two. *1. Nf4?* with threat *2. Nxd3#*, but *1...Ba6!*; and according to the author *1. Nd6!?*, but due to *1...f5!* the problem is unsound.
+
+![textual 103](./textuals/diagram0103.png)
 
 **V. Sychev, 1979**. White: **Ka2, Qe5, Bb7, Bc3, Na3, Ng4, pawn b2 (7)** and Black: **Kd3, Qh2, Rd6, Rh5, Bd7, Bg5, Nf5, Ng3, pawns c4, c7, d2, f2, h6 (13)** - mate in three. **1. Bf3!** with threat **2. Qe3+** and **3. Ne5#**. **1...Be3!** (after *1...Bb5* there follows *2. Qf4!*) **2. Qb5! Bxb5 3. Ne5#**; and **1...Ne3!** (if *1...Nf7*, then *2. Qc5!*) **2. Qd4+! Rxd4 3. Ne5#**.
 
