@@ -874,7 +874,7 @@ Here in № 47 the mate in the line **1. Bc6 e1Q 2. Bg2+ Kg1 3. Nf3#** is pure a
 
 In the line **1...e1N 2. Bb5+ Nd3 3. Qd1#** the mate is also correct, because the white bishop actively participates in the mating picture by pinning the knight, refuting 3...Ne1! Thus it is highly significant when, in creating a mate or stalemate, a white piece participates by pinning and blocking a square near the black king.
 
-The convention of model mate consists in the fact that, whenever possible, Black is obliged to make moves that lead to the creation of a correct mating position.
+The convention of model mate consists in the fact that, whenever possible, Black is obliged to make moves that lead to the creation of a model mating position.
 
 For example, here in the threat line Black captures the bishop: **1...bxc6 2. Nf3!** and **3. Qh3#**, or **2...e1Q 3. Nh2#**; that is, two pure and economical mates. So altogether there are three variations with four model mates (see IL № 27).
 
