@@ -172,7 +172,7 @@ The period up to the middle of the 19th century was a synthetic one for both pro
 
 ![textual 02](./textuals/diagram0002.png)
 
-Julius Mendheim, who was among the first to recognize the beauty of correct mates, actively developed the battery idea, which remains relevant today. A battery is a position of two pieces of one color on the same line, where moving the front piece (the one that gives the battery its name) activates the long-range piece behind it: White **Kg1, Qe3, Ra3, Be5, Bg2, Nd4, pawns a5, f2** (8); Black **Ka7, Qg6, Rf8, Rg8, Bb8, Bc8, Nb4, pawns a6, b7, d5, e6** (11). Mate in nine: **1. Nb5++ Ka8 2. Qa7+! Bxa7 3. Nc7+ Kb8 4. Nxa6++ Ka8 5. Nc7+ Kb8 6. Nd5+ Ka8 7. Nb6+ Bxb6 8. ab+ Ka6 9. Ra6#**.
+Julius Mendheim, who was among the first to recognize the beauty of model mates, actively developed the battery idea, which remains relevant today. A battery is a position of two pieces of one color on the same line, where moving the front piece (the one that gives the battery its name) activates the long-range piece behind it: White **Kg1, Qe3, Ra3, Be5, Bg2, Nd4, pawns a5, f2** (8); Black **Ka7, Qg6, Rf8, Rg8, Bb8, Bc8, Nb4, pawns a6, b7, d5, e6** (11). Mate in nine: **1. Nb5++ Ka8 2. Qa7+! Bxa7 3. Nc7+ Kb8 4. Nxa6++ Ka8 5. Nc7+ Kb8 6. Nd5+ Ka8 7. Nb6+ Bxb6 8. ab+ Ka6 9. Ra6#**.
 
 By 1836, the first chess magazine in the world, *Palamedes*, had been founded; its publisher was Louis-Charles Labourdonnais, one of the strongest players of his time.
 
@@ -371,9 +371,9 @@ As for chess composition, by virtue of its specific features it has its own laws
 
 As already noted, chess composition finally took shape as an independent creative field in the middle of the last century. This period is considered the initial stage in the formation of a number of schools, trends, and styles. A little later, three independent directions of problem composition were clearly and distinctly formed: the *Czech*, *German*, and *English* schools.
 
-Works of the Czech school are characterized by the presence of at least three variations ending in correct mates; that is, the primary element of the problem was taken to be a combination of beautiful mating positions that are simultaneously clean and economical. A *clean mate* is a mate in a problem or study in which every square is unavailable to the king for a single reason only: either occupied by its own pieces or attacked exactly once by an opponent's piece. An *economical mate* is a mate in a problem or study in which all pieces take part, except the white king and pawns because of their limited mobility.
+Works of the Czech school are characterized by the presence of at least three variations ending in model mates; that is, the primary element of the problem was taken to be a combination of beautiful mating positions that are simultaneously pure and economical. A *pure mate* is a mate in a problem or study in which every square is unavailable to the king for a single reason only: either occupied by its own pieces or attacked exactly once by an opponent's piece. An *economical mate* is a mate in a problem or study in which all pieces take part, except the white king and pawns because of their limited mobility.
 
-In problems of the German (or Old German) school, the principal element was considered to be a striking, clearly executed combination in one main line, accompanied by sacrifices of White's pieces and ending, as a rule, in a correct mate.
+In problems of the German (or Old German) school, the principal element was considered to be a striking, clearly executed combination in one main line, accompanied by sacrifices of White's pieces and ending, as a rule, in a model mate.
 
 Unlike the German school, the English school regarded the two-mover as its main genre. The fundamental requirements of this school are diversity and breadth of play with the greatest possible constructive clarity. And these are most simply and vividly realized in two-move form.
 
@@ -686,7 +686,7 @@ Accordingly, the composer must strive to reduce the number of technical pieces, 
 **№ 42. R. Kofman, 1939, Mate in 3 moves**  
 ![№ 42. Р. Кофман, 1939, Мат в 3 хода](./diagrams/diagram0042.png)
 
-In a simple form (№ 42) the author succeeded for the first time in presenting the complex-block theme in three variations within a three-mover with correct mates: **1. Bc2! Ra6 2. d4+ (threat) cxd3 3. f4#**, **1...c4 2. Nc6+ Kd5 3. Be4#**, and **1...cxb2 2. Nxb4 Rf5 3. Re4#**.
+In a simple form (№ 42) the author succeeded for the first time in presenting the complex-block theme in three variations within a three-mover with model mates: **1. Bc2! Ra6 2. d4+ (threat) cxd3 3. f4#**, **1...c4 2. Nc6+ Kd5 3. Be4#**, and **1...cxb2 2. Nxb4 Rf5 3. Re4#**.
 
 The principles of economy of form are strictly observed here: the economy of means is impressive, and the naturalness of the construction is particularly striking.
 
@@ -822,7 +822,7 @@ White in turn answers a check with a check, but a more formidable one!
 
 Promotion of the pawn to a knight, sacrifices of Black's pieces, the Roman theme, mutual checks by both sides, and finally an effective mate: it is remarkable how harmoniously all this has merged in Z. Birnov's charming miniature (see IL № 13).
 
-"Only one extra unit in the initial position, and yet how many bright new colors the study begins to display. Here there is an introduction pleasantly linked with the finale (the appearance of the white knight), and genuinely thematic play (creating the conflict that leads to the noted adjacency of the movement lines of the white rook and the black pawn), and the same economical correct mate resolving the dispute between White and Black" (commentary by international master Ap. Kuznetsov).
+"Only one extra unit in the initial position, and yet how many bright new colors the study begins to display. Here there is an introduction pleasantly linked with the finale (the appearance of the white knight), and genuinely thematic play (creating the conflict that leads to the noted adjacency of the movement lines of the white rook and the black pawn), and the same economical model mate resolving the dispute between White and Black" (commentary by international master Ap. Kuznetsov).
 
 The following examples illustrate the possibilities of finding introductory play without adding extra material.
 
@@ -874,9 +874,9 @@ Here in № 47 the mate in the line **1. Bc6 e1Q 2. Bg2+ Kg1 3. Nf3#** is pure a
 
 In the line **1...e1N 2. Bb5+ Nd3 3. Qd1#** the mate is also correct, because the white bishop actively participates in the mating picture by pinning the knight, refuting 3...Ne1! Thus it is highly significant when, in creating a mate or stalemate, a white piece participates by pinning and blocking a square near the black king.
 
-The convention of correct mate consists in the fact that, whenever possible, Black is obliged to make moves that lead to the creation of a correct mating position.
+The convention of model mate consists in the fact that, whenever possible, Black is obliged to make moves that lead to the creation of a model mating position.
 
-For example, here in the threat line Black captures the bishop: **1...bxc6 2. Nf3!** and **3. Qh3#**, or **2...e1Q 3. Nh2#**; that is, two pure and economical mates. So altogether there are three variations with four correct mates (see IL № 27).
+For example, here in the threat line Black captures the bishop: **1...bxc6 2. Nf3!** and **3. Qh3#**, or **2...e1Q 3. Nh2#**; that is, two pure and economical mates. So altogether there are three variations with four model mates (see IL № 27).
 
 When composing studies, the initial position should approximate a practical game position as closely as possible. We offer two studies for your attention.
 
@@ -1063,7 +1063,7 @@ An **ideological predecessor** is a composition that either partially coincides 
 
 1. with different thematic pieces;
 2. in a greater number of variations;
-3. in combination with other ideas, correct mates, thematic false trails, or illusory play;
+3. in combination with other ideas, model mates, thematic false trails, or illusory play;
 4. with substantial enrichment of the play, improvement of the construction, and so on.
 
 And now a few examples.
@@ -1512,7 +1512,7 @@ After **1. Nc3!**, White threatens to attract the black rooks onto e4: **2. Qe3+
 **№ 71. V. Granzhzhkovsky, "Shakhy", 1947, 1st prize, Mate in 3**  
 ![№ 71. В. Гранжжковский «Шахы», 1947, 1-й приз, Мат в 3 хода](./diagrams/diagram0071.png)
 
-№ 71. The first three-variation three-mover on this theme. **1. Be8!** with the threat **2. Ng4!** and **3. Nxh6#**: **1...Rg4! 2. Nf7! R- 3. Nxh6#**, **1...Bg4! 2. Nc4! Bh3 3. Nxe3#**, and finally **1...g4! 2. Qd5! Kg5 3. Nxf3#**. The threat and the first two variations end in correct mates.
+№ 71. The first three-variation three-mover on this theme. **1. Be8!** with the threat **2. Ng4!** and **3. Nxh6#**: **1...Rg4! 2. Nf7! R- 3. Nxh6#**, **1...Bg4! 2. Nc4! Bh3 3. Nxe3#**, and finally **1...g4! 2. Qd5! Kg5 3. Nxf3#**. The threat and the first two variations end in model mates.
 
 **Nitvelt defense** is a combination in which Black's defense against the threat is carried out by self-pinning, with the aim that if the threat is carried out White will directly unpin the self-pinned black piece.
 
@@ -2963,7 +2963,7 @@ However, after *1...Kh4! 2. Ng1 fxe6+* the study is unsound.
 
 After eliminating the knight, one must attract the bishop to d4 and remove the pawn on c6.
 
-**9. d4! Bxd4 10. Rxc6+ Ke5 11. Nd3+ Kd5 12. Nb4+ Ke5 13. Re6+ Kf5**. And finally, the main plan: **14. Rxb6 Ke5 15. Nd3+ Kd5 16. Be6#** - a correct mate. But after *9...Be5+!* the problem is unsound.
+**9. d4! Bxd4 10. Rxc6+ Ke5 11. Nd3+ Kd5 12. Nb4+ Ke5 13. Re6+ Kf5**. And finally, the main plan: **14. Rxb6 Ke5 15. Nd3+ Kd5 16. Be6#** - a model mate. But after *9...Be5+!* the problem is unsound.
 
 ![textual 102](./textuals/diagram0102.png)
 
