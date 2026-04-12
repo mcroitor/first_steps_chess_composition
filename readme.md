@@ -9,8 +9,10 @@ The markdown version of book *Арчаков - Первые шаги в шахм
 
 * [ ] re-check content
 * [ ] create Olive base
-* [ ] translate text defined positions to diagrams
+* [x] translate text defined positions to diagrams
 * [x] create English version of book
+* [x] create German version of book
+* [ ] create Romanian version of book
 
 ## Thanks
 

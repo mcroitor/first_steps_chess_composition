@@ -3353,9 +3353,9 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Andrejew W. — № 133
 - Arulaid A. — № 31
 - Baslow J. — № 159
-- Bayer K. — № 18
+- Bayer C. — № 18
 - Banny J. — № 90
-- Bartolowitsch X. — № 54, № 63
+- Bartolović X. — № 54, № 63
 - Barulin M. — № 76
 - Bwee T. X. — № 65
 - Binzer G. — № 158
@@ -3367,7 +3367,7 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Bremer Z. — № 74
 - Brunner E. — № 102, № 111
 - Weinschtein A. — № 64
-- Welimirowitsch M. — № 117
+- Velimirović M. — № 117
 - Westbury E. — № 53
 - Wladimirow J. — № 25
 - Galitzki A. — № 16, № 17
@@ -3379,8 +3379,8 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Grigoriejew N. — № 33
 - Gugel L. — № 120
 - Guljajew A. — № 156
-- Gurgenidse B. — № 31
-- Gurgenidse D. — № 50
+- Gurgenidze B. — № 31
+- Gurgenidze D. — № 50
 - Getgart G. — № 92
 - Dawidenko F. — № 129
 - Damiano — № 6
@@ -3400,12 +3400,12 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Keres P. — № 34
 - Kesl I. — № 157
 - Kling I. — № 32, № 39
-- Kokkelkorn K. — № 73, № 86, № 109
+- Kockelkorn C. — № 73, № 86, № 109
 - Kondratjuk N. — № 160
 - Kopajew W. — № 131
 - Koppin A. — № 99
 - Kopping P. — № 67
-- Kotz I. — № 73, № 86, № 109
+- Kohtz J. — № 73, № 86, № 109
 - Kofman R. — № 42
 - Kralin N. — № 46
 - Krjutschkow — № 47
@@ -3470,7 +3470,7 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Froalkin A. — Nr. 114
 - Hannelius Ya. — Nr. 115
 - Haschek I. — Nr. 78
-- CChlubna F. — Nr. 155
+- Chlubna F. — Nr. 155
 - Zepler E. — Nr. 110
 - Chebanov N. — Nr. 137
 - Chepizhny V. — Nr. 66, Nr. 116
