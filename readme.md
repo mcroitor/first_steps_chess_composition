@@ -12,10 +12,10 @@ The markdown version of book *Арчаков - Первые шаги в шахм
 * [x] translate text defined positions to diagrams
 * [x] create English version of book
 * [x] create German version of book
-* [ ] create Romanian version of book
+* [x] create Romanian version of book
 
 ## Thanks
 
 * **Mikalai Sihnevich** - for help with bug fixing in diagrams
 * **Narajan Shankar Ram** - for re-checking English version of book
-* **Thomas Maeder** - for re-checking German version of book
+* **Thomas Maeder, Hauke Reddmann** - for re-checking German version of book

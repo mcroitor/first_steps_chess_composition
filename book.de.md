@@ -12,7 +12,7 @@
 > schk., 1987. —144 S.— (Wenn die Hausaufgaben erledigt sind).— 25 Kopeken. 150 000 Exemplare.
 > In diesem Buch wird über die Entwicklungsgeschichte, Ästhetik und Ethik sowie die Thematik der Schachkomposition sowie über die Technik der Erstellung von Schachproblemen und Studien berichtet.
 > Es richtet sich an Schüler der Mittel- und Oberstufe sowie an einen weiten Leserkreis.
-> Das Manuskript wurde rezensiert von: Schiedsrichter republikanischer Kategorie A. B. Moldawansky, Internationalem Schiedsrichter und Meister des Sports der UdSSR V. A. Melnichenko.
+> Das Manuskript wurde rezensiert von: Schiedsrichter republikanischer Kategorie A. B. Moldawansky, Internationaler Schiedsrichter und Meister des Sports der UdSSR V. A. Melnichenko.
 
 ## ZEICHENERKLÄRUNG
 
@@ -37,6 +37,34 @@ $$
 
 © Verlag "Radyanska Schkola", 1987
 
+---
+
+- [ERSTE SCHRITTE IN DER SCHACHKOMPOSITION](#erste-schritte-in-der-schachkomposition)
+  - [ZEICHENERKLÄRUNG](#zeichenerklärung)
+  - [VOM AUTOR](#vom-autor)
+  - [KOMPOSITION — DIE POESIE DES SCHACHS](#komposition--die-poesie-des-schachs)
+  - [OBLIGATORISCHE UND KÜNSTLERISCHE ANFORDERUNGEN AN DIE SCHACHKOMPOSITION](#obligatorische-und-künstlerische-anforderungen-an-die-schachkomposition)
+  - [THEMATIK VON SCHACHAUFGABEN UND STUDIEN](#thematik-von-schachaufgaben-und-studien)
+  - [PRAKTIKUM FÜR SCHACHKOMPONISTEN](#praktikum-für-schachkomponisten)
+    - [Aufgabe Nr. 1. Nebenlösung beseitigen](#aufgabe-nr-1-nebenlösung-beseitigen)
+    - [Aufgabe Nr. 2. Das Dual beseitigen](#aufgabe-nr-2-das-dual-beseitigen)
+    - [Aufgabe Nr. 3. Unlösbarkeit beheben](#aufgabe-nr-3-unlösbarkeit-beheben)
+    - [Aufgabe Nr. 4. Stellen Sie die Positionen anhand der Lösung wieder her](#aufgabe-nr-4-stellen-sie-die-positionen-anhand-der-lösung-wieder-her)
+    - [Haben Sie richtig korrigiert](#haben-sie-richtig-korrigiert)
+  - [Anhang](#anhang)
+    - [Großmeister der UdSSR in Schachkomposition](#großmeister-der-udssr-in-schachkomposition)
+    - [Meister des Sports der UdSSR in Schachkomposition](#meister-des-sports-der-udssr-in-schachkomposition)
+    - [Kandidat des Meisters des Sports in Schachkomposition](#kandidat-des-meisters-des-sports-in-schachkomposition)
+    - [Erste Klasse in Schachkomposition](#erste-klasse-in-schachkomposition)
+    - [Zweite Klasse in Schachkomposition](#zweite-klasse-in-schachkomposition)
+    - [Dritte Klasse in Schachkomposition](#dritte-klasse-in-schachkomposition)
+    - [Bedingungen für die Erfüllung der Klassenanforderungen](#bedingungen-für-die-erfüllung-der-klassenanforderungen)
+    - [Lösungen der Probleme und Studien](#lösungen-der-probleme-und-studien)
+  - [VERWENDETE LITERATUR](#verwendete-literatur)
+  - [PERSONENVERZEICHNIS](#personenverzeichnis)
+
+---
+
 ## VOM AUTOR
 
 Man fragt mich oft, wie ich begonnen habe, Schachkompositionen zu entwerfen. Natürlich habe ich zuerst gelernt, Schach zu spielen. Danach war ich Meister der Schule, des Aero-Clubs, des Bataillons, der Lehranstalt usw. Parallel zum praktischen Spiel befasste ich mich mit dem Lösen von Problemen und Studien. Mein erstes Problem entwarf ich, nachdem ich das Buch von W. N. Panow "Schach für Anfänger" gelesen hatte. Ich schickte es an den Wettbewerb der Zeitung "Junger Leninets" und erhielt die Antwort, dass mein "Werk" mehrere Nebenlösungen habe (deren Existenz ich nicht geahnt hatte), die Idee jedoch interessant sei. "Arbeiten Sie weiter", ermutigte mich die Redaktion.
@@ -52,9 +80,9 @@ Um zu lernen, wie man Schachaufgaben und Studien komponiert, ist es notwendig:
 
 Ein Wendepunkt im Leben eines Schachkomponisten tritt ein, wenn er, geprägt vom Werk anderer, beginnt, durch sein eigenes Schaffen Schachliebhaber zu prägen.
 
-Ich gestehe offen, dass mich das Angebot, ein Buch über die Komposition von Schachaufgaben und Studien zu schreiben, ins Grübeln gebracht hat. Denn während die Fragen der Lösung von Schachkompositionen bereits weitgehend in der Literatur beleuchtet wurden (zum Beispiel in den Büchern "Wie man Schachaufgaben löst" von A. P. Guljajew und "Wie man SchachStudien löst" von Ju. L. Awerbach), gibt es über deren Komposition nur wenig Material.
+Ich gestehe offen, dass mich das Angebot, ein Buch über die Komposition von Schachaufgaben und Studien zu schreiben, ins Grübeln gebracht hat. Denn während die Fragen der Lösung von Schachkompositionen bereits weitgehend in der Literatur beleuchtet wurden (zum Beispiel in den Büchern "Wie man Schachaufgaben löst" von A. P. Guljajew und "Wie man Schachstudien löst" von Ju. L. Awerbach), gibt es über deren Komposition nur wenig Material.
 
-Zum Thema der Studienkomposition gelang es mir nur, den Artikel "Über die Studienkomposition" im Buch "Ausgewählte SchachStudien" von A. O. Gerbstman sowie den Artikel des Großmeisters W. A. Korolkow "Technologie der Schachetüde" zu finden, der im Februar 1968 in der offiziellen Zeitschrift der Ständigen Kommission für Schachkomposition der FIDE, "Problems", veröffentlicht wurde. Bereits bei der Vorbereitung des Manuskripts für die Veröffentlichung erwarb ich das hervorragende Buch des internationalen Großmeisters G. M. Kasparyan "Geheimnisse des Studienkomponisten".
+Zum Thema der Studienkomposition gelang es mir nur, den Artikel "Über die Studienkomposition" im Buch "Ausgewählte Schachstudien" von A. O. Herbstman sowie den Artikel des Großmeisters W. A. Korolkow "Technologie der Schachetüde" zu finden, der im Februar 1968 in der offiziellen Zeitschrift der Ständigen Kommission für Schachkomposition der FIDE, "Problems", veröffentlicht wurde. Bereits bei der Vorbereitung des Manuskripts für die Veröffentlichung erwarb ich das hervorragende Buch des internationalen Großmeisters G. M. Kasparyan "Geheimnisse des Studienkomponisten".
 
 Zur Komposition von Aufgaben stand mir lediglich der Artikel des internationalen Großmeisters L. I. Loschinsky "Turnierwettbewerb von Drei-Züger-Aufgaben" aus der Sammlung "Die Schachaufgabe" (1951) zur Verfügung. Und erst im Zuge der Arbeit an diesem Buch hatte ich das Glück, auf das Werk eines weiteren bekannten Großmeisters, W. F. Rudenko, zu stoßen – "Verfolgung des Themas" (1983), in dem das mich interessierende Material im ersten Teil "Schachkomposition" enthalten ist.
 
@@ -65,20 +93,20 @@ Das Buch, das Informationen über die Geschichte der Entwicklung der Schachkompo
 Im Buch werden die wichtigsten und aktuellsten Themen behandelt. Zur Charakterisierung dieser werden nur typische Beispiele aufgeführt, die für diejenigen, die ihre ersten Schritte in der Schachkomposition machen, verständlich sind. Der Autor strebte nach einer populären Darstellung des Materials, die allen Schachliebhabern zugänglich ist.
 
 Das Buch erhebt keinen Anspruch auf Vollständigkeit. Selbst wenn man kontinuierlich in die Tiefen des Ozeans eintaucht, ist es unmöglich, alle Perlen zu bergen. Wir räumen ein, dass bei einigen Lesern die Meinung entstehen könnte, dass bestimmte Probleme oder Studien in einer anderen thematischen Rubrik hätten aufgeführt werden sollen. Doch viele Kompositionen sind in ihrem Inhalt so ideenreich, dass sie mit gleichem Recht aus verschiedenen kreativen Aspekten betrachtet werden können.
-Wenn mein Buch einem angehenden Schachkomponisten in irgendeiner Weise hilft, den Pfad zur Poesie des Schachs zu finden, werde ich betrachten, dass ich meine Aufgabe erfüllt habe.
+Wenn mein Buch einem angehenden Schachkomponisten in irgendeiner Weise hilft, den Pfad zur Poesie des Schachs zu finden, werde ich meinen, dass ich meine Aufgabe erfüllt habe.
 
 ## KOMPOSITION — DIE POESIE DES SCHACHS
 
-Schachkomposition, das heißt das Erstellen von Schachproblemen und Studien, basiert auf den Mitteln und Regeln des praktischen Spiels und stellt einen eigenartigen Bereich der Kreativität dar. Sie offenbart die Schönheit von Schachkombinationen, die sich ständig weiterentwickeln und immer neue Liebhaber des weisen Spiels anziehen.
+Schachkomposition, das heißt das Erstellen von Schachproblemen und Studien, basiert auf den Mitteln und Regeln des praktischen Spiels und stellt einen speziellen Bereich der Kreativität dar. Sie offenbart die Schönheit von Schachkombinationen, die sich ständig weiterentwickeln und immer neue Liebhaber des weisen Spiels anziehen.
 
 Die Komposition wird bildlich als die Poesie des Schachs bezeichnet. Denn sie spiegelt die Praxis des Schachspiels wider, so wie die Kunst das reale Leben spiegelt. Ein wahrer Schachkomponist bringt die Figuren dazu, das Maximum auf dem Schachbrett zu leisten, ihre noch nicht erschlossene Kraft zu entfalten und nutzt die Gesetze und Regeln dieses alten Spiels umfassend aus. Genau diese schöpferischen Merkmale sind den sowjetischen Schachkomponisten in vollem Umfang eigen. Indem sie die besten Traditionen aller Schulen und Richtungen aufgreifen und weiterentwickeln, streben sie gleichzeitig danach, Innovation effektiv mit ästhetischen Prinzipien und einfachen Methoden des Ideenausdrucks zu verbinden.
 
-Die Entstehung der Schachkomposition wird auf die Wende vom VIII. zum IX. Jahrhundert datiert, als erste Versuche unternommen wurden, Mansubs zu erstellen ("Mansub" bedeutet wörtlich aus dem Arabischen "das, was errichtet, gestiftet oder eingerichtet wurde", also in unserem Verständnis – zusammengestellt). Ein charakteristisches Merkmal der Mansubs war vor allem ihre Nähe zur praktischen Partie. Aus moderner Sicht erscheinen sie inhaltlich naiv, leicht zu lösen und konstruktiv primitiv, mit einem erzwungenen Spielverlauf, der ausschließlich auf einen äußeren Effekt abzielt.
+Die Entstehung der Schachkomposition wird auf die Wende vom VIII. zum IX. Jahrhundert datiert, als erste Versuche unternommen wurden, Mansuben zu erstellen ("Mansub" bedeutet wörtlich aus dem Arabischen "das, was errichtet, gestiftet oder eingerichtet wurde", also in unserem Verständnis – zusammengestellt). Ein charakteristisches Merkmal der Mansuben war vor allem ihre Nähe zur praktischen Partie. Aus moderner Sicht erscheinen sie inhaltlich naiv, leicht zu lösen und konstruktiv primitiv, mit einem erzwungenen Spielverlauf, der ausschließlich auf einen äußeren Effekt abzielt.
 
-**Nr. 1. Matt Dilaram, Istanbuler Manuskript, 1140, Matt in 5 Zügen**  
-![Nr. 1. Matt Dilaram, Istanbuler Manuskript, 1140, Matt in 5 Zügen](./diagrams/diagram0001.png)
+**Nr. 1. Dilaram-Matt, Istanbuler Manuskript, 1140, Matt in 5 Zügen**  
+![Nr. 1. Dilaram-Matt, Istanbuler Manuskript, 1140, Matt in 5 Zügen](./diagrams/diagram0001.png)
 
-Wahrscheinlich eines der ersten Mansubs und zweifellos das berühmteste war das arabische Problem (Diagramm Nr. 1), das den poetischen Namen "Matt Dilaram" trägt. Folgende Legende erklärt diesen Namen.
+Wahrscheinlich eines der ersten Mansuben und zweifellos das berühmteste war das arabische Problem (Diagramm Nr. 1), das den poetischen Namen "Dilaram-Matt" trägt. Folgende Legende erklärt diesen Namen.
 
 Ein gewisser Adliger, ein leidenschaftlicher Schachspieler, der außergewöhnlich sicher in seinen schachlichen Talenten war, verspielte sein gesamtes Vermögen. Besessen von seinem Spieltrieb wettete er, dass er seinen Gegner dennoch besiegen würde, und setzte als letzten Einsatz seine geliebte Frau – die schöne Dilaram.
 
@@ -86,9 +114,9 @@ Doch das Glück schien ihn endgültig verlassen zu haben, und die Partie erreich
 
 Es gab nichts mehr zu verlieren, und Weiß spielte folgsam **1. Th8+! Kxh8 2. Lf5+** (nach den damaligen Regeln konnten die Alfil-Läufer nur genau ein Feld diagonal ziehen, konnten dafür aber Figuren überspringen) **2... Kg8**.
 
-Die Position schien zum Ausgangszustand zurückzukehren, aber **3. Th8+ Kxh8 4. g7+ Kg8 5. Kh6X**. Alles war gerettet...
+Die Position schien zum Ausgangszustand zurückzukehren, aber **3. Th8+ Kxh8 4. g7+ Kg8 5. Sh6X**. Alles war gerettet...
 
-Natürlich kann niemand die Authentizität dieser Überlieferung bestätigen. Andernfalls würde die Schachgeschichte die schöne Dilaram mit vollem Recht als Pionierin der Schachkomposition unter den Frauen anerkennen. In einem anderen Punkt ist diese Geschichte jedoch durchaus glaubwürdig: Sie lässt vermuten, dass Mansubs keine Endspiele aus gespielten Partien waren, sondern speziell konstruierte Positionen.
+Natürlich kann niemand die Authentizität dieser Überlieferung bestätigen. Andernfalls würde die Schachgeschichte die schöne Dilaram mit vollem Recht als Pionierin der Schachkomposition unter den Frauen anerkennen. In einem anderen Punkt ist diese Geschichte jedoch durchaus glaubwürdig: Sie lässt vermuten, dass Mansuben keine Endspiele aus gespielten Partien waren, sondern speziell konstruierte Positionen.
 
 **Nr. 2. Abu-Na'im, IX. Jahrhundert, Matt in 3 Zügen**  
 ![Nr. 2. Abu-Na'im, IX. Jahrhundert, Matt in 3 Zügen](./diagrams/diagram0002.png)
@@ -101,28 +129,28 @@ Um vorzugreifen, sagen wir, dass sich die Schule der sowjetischen Schachkomposit
 
 Je nach Aufgabenstellung unterscheidet man zwei Arten von Kompositionen – Aufgaben und Studien.
 
-Eine Schachaufgabe ist eine künstliche Position auf dem Brett, in der eine Seite (in der Regel Weiß) der anderen Seite (Schwarz) in einer bestimmten Anzahl von Zügen Matt setzt. Daher ist bei Aufgaben nicht die Anzahl der Figuren oder die Stärke der Seiten entscheidend. Schwarz mag nur den König haben, während Weiß seine gesamte Armee besitzt, doch dies bestimmt nicht den Erfolg von Weiß. Das Wichtigste ist, einen getarnten Weg zu finden, den gegnerischen König in der vorgegebenen Anzahl von Zügen zu mattieren.
+Eine Schachaufgabe ist eine künstliche Position auf dem Brett, in der eine Seite (in der Regel Weiß) der anderen Seite (Schwarz) in einer bestimmten Anzahl von Zügen Matt setzt. Daher ist bei Aufgaben nicht die Anzahl der Figuren oder die Stärke der Seiten entscheidend. Schwarz mag nur den König haben, während Weiß seine gesamte Armee besitzt, doch dies bestimmt nicht den Erfolg von Weiß. Das Wichtigste ist, einen getarnten Weg zu finden, den gegnerischen König in der vorgegebenen Anzahl von Zügen mattzusetzen.
 
 Eine Schachstudie ist ebenfalls eine künstliche Position, unterscheidet sich jedoch von der Aufgabe dadurch, dass sie näher am Endspiel einer praktischen Partie steht. In einer Studie beginnt Weiß (sofern in den Bedingungen nicht festgelegt ist, dass Schwarz den ersten Zug macht), aber das Ziel ist nicht das Matt in einer streng festgelegten Anzahl von Zügen, sondern das Gewinnen (ein entscheidender Vorteil) oder das Erreichen eines Remis. Die Anzahl der Züge ist (im Gegensatz zu Aufgaben) nicht durch eine konkrete Zahl begrenzt. An die Ausgangsposition einer Studie werden höhere Anforderungen gestellt. Sie sollte so weit wie möglich an eine Position aus einer tatsächlich gespielten Partie erinnern.
 
 Eine Studie zu lösen ist weitaus schwieriger als eine Aufgabe. Eine gute Studie ist in der Regel sehr individuell, und um ihre Lösung zu finden, bedarf es sowohl bestimmter Theoriekenntnisse als auch kreativer Intuition. Die Lösung einer Studie wird im Vergleich zur Analyse einer Partieposition dadurch erleichtert, dass in einer praktischen Partie die Chancen beider Seiten nicht immer klar sind, während Weiß in einer Studie einen mathematisch präzisen, trotz aller Versuche unvermeidlichen Weg (wenn auch den einzigen) zum Gewinn oder zum Remis hat.
 
-**Nr. 3. "Civis Bolonis", 13. Jahrhundert, Matt in 2 Zügen**  
-![Nr. 3. "Civis Bolonis", 13. Jahrhundert, Matt in 2 Zügen](./diagrams/diagram0003.png)
+**Nr. 3. "Civis Bononiae", 13. Jahrhundert, Matt in 2 Zügen**  
+![Nr. 3. "Civis Bononiae", 13. Jahrhundert, Matt in 2 Zügen](./diagrams/diagram0003.png)
 
-Die Besonderheit der Studie wird besser verständlich, wenn man ihre Entwicklung seit dem Mittelalter betrachtet. Ihr schachliches Erbe ist uns durch zwei italienische Manuskripte überliefert – "Bonus Socius" und "Civis Bolonie". Fast alle Kompositionen dieser Sammlungen hatten eine Lösung, die mit einem Matt endete, was bedeutet, dass sie nach unserer heutigen Einteilung als Probleme zu betrachten sind. Auf Diagramm Nr. 3 ist eines davon zu sehen: **1. Tf7+ K:f7 2. Sg6X**.
+Die Besonderheit der Studie wird besser verständlich, wenn man ihre Entwicklung seit dem Mittelalter betrachtet. Ihr schachliches Erbe ist uns durch zwei italienische Manuskripte überliefert – "Bonus Socius" und "Civis Bononiae". Fast alle Kompositionen dieser Sammlungen hatten eine Lösung, die mit einem Matt endete, was bedeutet, dass sie nach unserer heutigen Einteilung als Probleme zu betrachten sind. Auf Diagramm Nr. 3 ist eines davon zu sehen: **1. Tf7+ K:f7 2. Sg6X**.
 
-**Nr. 4. "Civis Bolonis", 14. Jahrhundert, Gewinn**  
-![Nr. 4. "Civis Bolonis", 14. Jahrhundert, Gewinn](./diagrams/diagram0004.png)
+**Nr. 4. "Civis Bononiae", 14. Jahrhundert, Gewinn**  
+![Nr. 4. "Civis Bononiae", 14. Jahrhundert, Gewinn](./diagrams/diagram0004.png)
 
-Daher ist es nicht überraschend, dass man beim Durchblättern dieser beiden Enzyklopädien nur eine einzige Studie (Nr. 4) finden kann, die zwar mittlerweile ein Klassiker geworden ist: **1. Th5!! T:h5 2. Ta6+ K:c5 3. Ta5+** und **4. T:h5** mit Gewinn.
+Daher ist es nicht überraschend, dass man beim Durchblättern dieser beiden Enzyklopädien nur eine einzige Studie (Nr. 4) finden kann, die allerdings mittlerweile ein Klassiker geworden ist: **1. Th5!! T:h5 2. Ta6+ K:c5 3. Ta5+** und **4. T:h5** mit Gewinn.
 
-Nach dem Erscheinen von "Bonus Socius" und "Civis Bolonie" vergingen weitere zwei Jahrhunderte, doch in der Komposition gab es kaum Veränderungen. Die europäischen Aufgaben waren faktisch dieselben Mansuben, nur unter einem anderen Namen. Man kann daher davon ausgehen, dass die Mansuben fast bis zur Mitte des 19. Jahrhunderts bestanden, als es zu ihrer klaren und formalen Unterteilung in Probleme und Studien kam. Tatsächlich finden sich bereits im Traktat von R. López (15. Jahrhundert) Positionen, die sowohl in ihrem Aufbau als auch in ihrer Lösung selbst aus heutiger Sicht durchaus als Studien zu bezeichnen sind.
+Nach dem Erscheinen von "Bonus Socius" und "Civis Bononiae" vergingen weitere zwei Jahrhunderte, doch in der Komposition gab es kaum Veränderungen. Die europäischen Aufgaben waren faktisch dieselben Mansuben, nur unter einem anderen Namen. Man kann daher davon ausgehen, dass die Mansuben fast bis zur Mitte des 19. Jahrhunderts bestanden, als es zu ihrer klaren und formalen Unterteilung in Probleme und Studien kam. Tatsächlich finden sich bereits im Traktat von R. López (15. Jahrhundert) Positionen, die sowohl in ihrem Aufbau als auch in ihrer Lösung selbst aus heutiger Sicht durchaus als Studien zu bezeichnen sind.
 
 **Nr. 5. R. López, 15. Jahrhundert, Gewinn**  
 ![Nr. 5. R. López, 15. Jahrhundert, Gewinn](./diagrams/diagram0005.png)
 
-Nr. 5. Weiß erreicht den Sieg durch die präzise Wahl des ersten Zuges: **1. Td4!** (Nur so!) **1... Ta2 2. Kc7 Tc2+ 3. Kb6 Tb2+ 4. Kc6 Tc2+ 5. Kb5 Th2 6. Th4**, und gewinnt.
+Nr. 5. Weiß erreicht den Sieg durch die präzise Wahl des ersten Zuges: **1. Td4!** (Nur so!) **1... Ta2 2. Kc7 Tc2+ 3. Kb6 Tb2+ 4. Kc6 Tc2+ 5. Kb5 Tb2+ 6. Tb4**, und gewinnt.
 
 **Nr. 6. Damiano, 16. Jahrhundert, Gewinn**  
 ![Nr. 6. Damiano, 16. Jahrhundert, Gewinn](./diagrams/diagram0006.png)
@@ -138,12 +166,12 @@ In Diagramm Nr. 7 findet sich eine Aufgabe mit einer ungewöhnlichen Bedingung: 
 
 Aufgaben mit Endspiel-Materialverhältnissen gab es schon vor Salvio, doch erst er hob die Nähe zu Endspielen in praktischen Partien deutlich hervor.
 
-In der ersten Hälfte des 18. Jahrhunderts erlangte P. Stamma große Bekanntheit. Trotz widersprüchlicher Bewertungen seines Werks ist Stamma's Bedeutung für die Entwicklung der Komposition enorm: die östliche Mansuba wurde wiederbelebt und erhielt einen neuen Atem.
+In der ersten Hälfte des 18. Jahrhunderts erlangte P. Stamma große Bekanntheit. Trotz widersprüchlicher Bewertungen seines Werks ist Stammas Bedeutung für die Entwicklung der Komposition enorm: die östliche Mansuba wurde wiederbelebt und erhielt einen neuen Atem.
 
 **Nr. 8. P. Stamma, 1737, Gewinn**  
 ![Nr. 8. P. Stamma, 1737, Gewinn](./diagrams/diagram0008.png)
 
-Nr. 8. Es wurde ein kombinatorisches Opfer vollzogen: **1. Tc1! T:c1 2. a7 Ka3 3. Kc3! Ka2 4. a8D+ Kb1 5. Da3** mit dem unvermeidlichen **6. Db2#**.
+Nr. 8. Es wurde ein kombinatorisches Opfer eingeleitet: **1. Tc1! T:c1 2. a7 Ka3 3. Kc3! Ka2 4. a8D+ Kb1 5. Da3** mit dem unvermeidlichen **6. Db2#**.
 
 Der Gründer der französischen Opéra Comique, François-André Danican Philidor, wurde als Schachspieler noch berühmter. Im Jahr 1749 veröffentlichte er das Buch "Analyse du jeu des Échecs" (Analyse des Schachspiels). Kein Schachbuch hatte zuvor ein so glückliches Schicksal: In den letzten 200 Jahren wurde es mehr als hundertmal herausgegeben.
 
@@ -155,13 +183,13 @@ In der Position (Nr. 9), die als Remis galt, fand Philidor eine Variante, die We
 **Nr. 10. D. Lolli, 1763, Gewinn**  
 ![Nr. 10. D. Lolli, 1763, Gewinn](./diagrams/diagram0010.png)
 
-In Diagramm Nr. 10 ist eine Etüde-Quartett (das heißt eine Vierfigurenetüde) dargestellt, die im dritten Teil des Buches von D. Lolli "Observations sur la théorie et la pratique du jeu des échecs" (Beobachtungen zur Theorie und Praxis des Schachspiels) enthalten ist. Die Lösung ist nicht schwierig, aber einprägsam: **1. Db3 Kd2 2. Db2 Kd1 3. Kf3! Kd2 4. Kf2 Kd1 5. Dd4+** und Weiß gewinnt.
+In Diagramm Nr. 10 ist eine Quartett-Studie (das heißt eine Studie mit vier Steinen) dargestellt, die im dritten Teil des Buches von D. Lolli "Observations sur la théorie et la pratique du jeu des échecs" (Beobachtungen zur Theorie und Praxis des Schachspiels) enthalten ist. Die Lösung ist nicht schwierig, aber einprägsam: **1. Db3 Kd2 2. Db2 Kd1 3. Kf3! Kd2 4. Kf2 Kd1 5. Dd4+** und Weiß gewinnt.
 
 ![textual 01](./textuals/diagram0001.png)
 
 Der folgende Vierzüger — Weiß: **Kd8, Da7, Tf5, Th7, Lb1, p p. a3, b2, e5** (8); Schwarz: **Kg8, Db5, Tg4, Tg5, La4, p p. c5, d5, f6, g7** (9) — eines unbekannten Autors, enthalten in einer türkischen Handschrift: **1. Df7+! K:f7 2. T:f6+ Kg8 3. Th8+ K:h8 4. Tf8#**.
 
-Die Zeit bis zur Mitte des 19. Jahrhunderts war für die Schachaufgabe und die Etüde eine Phase der Synthese, doch später entwickelten sie autonome Wege. Hier ist der deutsche Schachspieler und Komponist J. Mendheim zu erwähnen, der Autor mehrerer Bücher. Das bedeutendste davon ist "Aufgaben für Schachspieler", welches zweiundachtzig Werke enthält.
+Die Zeit bis zur Mitte des 19. Jahrhunderts war für die Schachaufgabe und die Studie eine Phase der Synthese, doch später entwickelten sie autonome Wege. Hier ist der deutsche Schachspieler und Komponist J. Mendheim zu erwähnen, der Autor mehrerer Bücher. Das bedeutendste davon ist "Aufgaben für Schachspieler", welches zweiundachtzig Werke enthält.
 
 **Nr. 11. J. Mendheim, 1832, Remis**
 ![Nr. 11. J. Mendgeheim, 1832, Remis](./diagrams/diagram0011.png)
@@ -170,7 +198,7 @@ Nr. 11. Ein Fund, der bereits Zeitgenossen Aufmerksamkeit verschaffte: **1. Sd7 
 
 ![textuell 02](./textuals/diagram0002.png)
 
-J. Mendgeheim, der als Erster die Schönheit der korrekten Mattsetzungen erkannte, entwickelte intensiv das bis heute aktuelle Spiel der Batterie, d. h. einer Stellung von zwei Figuren derselben Farbe auf einer Linie, bei der das Wegziehen der vorderen Figur (nach der die Batterie benannt ist) die Wirkung der weitreichenden Figur aktiviert: Weiß **Kg1, De3, Ta3, Le5, Lg2, Sd4, B a5, f2**(8); Schwarz — **Ka7, Dg6, Tf8, Tg8, Lb8, Lc8, Sb4, B a6, b7, d5, e6** (11). Matt in neun Zügen — **1. Sb5++ Ka8 2. Da7+! L:a7 3. Sc7+ Kb8 4. S:a6++ Ka8 5. Sc7+ Kb8 6. S:d5+ Ka8 7. Sb6+ L:b6 8. ab+ Sa6 9. T:a6X**.
+J. Mendgeheim, der als Erster die Schönheit der korrekten Mattsetzungen erkannte, entwickelte intensiv das bis heute aktuelle Spiel der Batterie, d. h. einer Stellung von zwei Figuren derselben Farbe auf einer Linie, bei der das Wegziehen der vorderen Figur (nach der die Batterie benannt ist) die Wirkung der weitreichenden Figur aktiviert: Weiß **Kg1, De3, Ta3, Le5, Lg2, Sd4, Ba5, f2**(8); Schwarz — **Ka7, Dg6, Tf8, Tg8, Lb8, Lc8, Sb4, Ba6, b7, d5, e6** (11). Matt in neun Zügen — **1. Sb5++ Ka8 2. Da7+! L:a7 3. Sc7+ Kb8 4. S:a6++ Ka8 5. Sc7+ Kb8 6. S:d5+ Ka8 7. Sb6+ L:b6 8. ab+ Sa6 9. T:a6X**.
 
 Das Jahr 1836 markiert zudem die Gründung der weltweit ersten Schachzeitschrift "Palamède", deren Herausgeber Louis-Charles Labourdonnais war — einer der stärksten Schachspieler jener Zeit.
 
@@ -181,7 +209,7 @@ Nr. 12. Die Stellung von Weiß ist so kritisch, dass Notmaßnahmen erforderlich 
 
 ![textuell 03](./textuals/diagram0003.png)
 
-Interessant ist auch die symbolische Aufgabe mit patriotischem Inhalt des ersten russischen Schachmeisters Alexander Dmitrijewitsch Petrow (1794–1867) mit dem Titel "Napoleons Flucht von Moskau nach Paris", die 1838 in der Zeitschrift "Palamède" veröffentlicht wurde (erstmals wurde diese Aufgabe in einer leicht anderen Form in A. D. Petrows Buch "Das Schachspiel in systematischer Ordnung" veröffentlicht, das bereits 1824 erschien) — Weiß: **Kh2, Dh1, Lg6, Se2, Sf1, B c2, c5, d4(8)**; Schwarz **Kb1, Tf4, Tf6, Le3, Sa5, Sd8, B a4, b2, c4, c7, e6, f2, g4, g7(14)** — Matt in vierzehn Zügen.
+Interessant ist auch die symbolische Aufgabe mit patriotischem Inhalt des ersten russischen Schachmeisters Alexander Dmitrijewitsch Petrow (1794–1867) mit dem Titel "Napoleons Flucht von Moskau nach Paris", die 1838 in der Zeitschrift "Palamède" veröffentlicht wurde (erstmals wurde diese Aufgabe in einer leicht anderen Form in A. D. Petrows Buch "Das Schachspiel in systematischer Ordnung" veröffentlicht, das bereits 1824 erschien) — Weiß: **Kh2, Dh1, Lg6, Se2, Sf1, Bc2, c5, d4(8)**; Schwarz **Kb1, Tf4, Tf6, Le3, Sa5, Sd8, Ba4, b2, c4, c7, e6, f2, g4, g7(14)** — Matt in vierzehn Zügen.
 
 Dies war vermutlich die weltweit erste originelle Aufgabe, die zu den symbolischen skakografischen Werken der Schachkomposition zählt. (Das Wort "Skakografie" leitet sich aus zwei griechischen Begriffen ab: scacho — Schach und grapho — schreiben.) "Skakografie", schrieb der russische Meister I. S. Schumow, "ist die Kunst, verschiedene Gegenstände oder abstrakte Vorstellungen auf dem Schachbrett darzustellen." Wie eine Art schachliches "Echo" reagierten symbolische Aufgaben auf verschiedene Ereignisse im politischen und militärischen Leben Russlands im 19. Jahrhundert.
 
@@ -212,7 +240,7 @@ Nr. 13. **1. D:f4+ K:f4 2. Tf1+ Kg4 3. Tf4+!** (Zwei effektvolle Opfer im Stil v
 
 Neben A. D. Petrow waren im Russland des 19. Jahrhunderts auch K. A. Jaenisch, I. S. Schumow und insbesondere A. W. Galitzki als Autoren interessanter Kompositionen sehr bekannt.
 
-![Textdiagramm 04](./textuals/diagram0004.png)
+![Txetdiagramm 04](./textuals/diagram0004.png)
 
 Der bedeutendste russische Meister und Komponist des letzten Jahrhunderts, K. A. Jaenisch, nannte eine seiner Aufgaben "Der eiserne Käfig von Tamerlan" — Weiß: **Kd1, Dd6, Td5, Tg6, Lh3, Se8, Sf7, pp. a7, e2, f2 (10)**; Schwarz: **Ke4, Da2, Sa3, Ld3, pp. c4, c5, d7, c3, e6, f4, g4, g7 (12)** — ein ersticktes Matt in zehn Zügen. So gerät der schwarze König in Gefangenschaft: **1. f3+ gxf3 2. exd4+ cxd4 3. Lf5+ exf5 4. Te6+ dxe6 5. Td4+ cxd4 6. La8+ Dd5 7. Lxd5+ exd5 8. Sf6+ gxf6 9. De5+ fxe5 10. Sg5#** — der König im Käfig!
 
@@ -260,12 +288,12 @@ Der herausragende Problemist A. W. Galitzki stand an den Anfängen der modernen 
 **Nr. 16. A. Galitzki, "Schachblatt", 1892, 1. Preis, Matt in 2 Zügen**  
 ![Schachdiagramm](./diagrams/diagram0016.png)
 
-Zum Beispiel (Nr. 16), mit einer schwierigen, effektvollen Hauptvariante: **1. La4!** (Zugzwang) — **1... Lex4 2. Ld1X**, die eine Falle des weißen Läufers enthält.
+Zum Beispiel (Nr. 16), mit einer schwierigen, effektvollen Hauptvariante: **1. La4!** (Zugzwang) — **1... Lxe4 2. Ld1X**, die eine Falle des weißen Läufers enthält.
 
-**Nr. 17. A. Galitzki, "Strategi", 1911, Matt in 3 Zügen**  
+**Nr. 17. A. Galitzki, "Strategie", 1911, Matt in 3 Zügen**  
 ![Schachdiagramm](./diagrams/diagram0017.png)
 
-Die Aufgabe (Nr. 17) zeichnet sich durch ein paradoxes Pferdeopfer aus. Das lineare *1. Se3(5)?* oder *1. h3?* führt zum Patt. Mit dem Manöver **1. Sb6** bereiten die Weißen auf den Zug **1... Kg4** die Antwort **2. Sbd5 Kh5 3. Sf6X** oder **2... h5 3. h3X** vor, und nach **1... axb** nutzen sie die Pattauflösung **2. h3 b5 3. g4X**.
+Die Aufgabe (Nr. 17) zeichnet sich durch ein paradoxes Springeropfer aus. Das lineare *1. Se3(5)?* oder *1. h3?* führt zum Patt. Mit dem Manöver **1. Sb6** bereiten die Weißen auf den Zug **1... Kg4** die Antwort **2. Sbd5 Kh5 3. Sf6X** oder **2... h5 3. h3X** vor, und nach **1... axb** nutzen sie die Pattauflösung **2. h3 b5 3. g4X**.
 
 Obwohl sich die Schachkomposition in Inhalt und Form in verschiedenen Entwicklungsphasen änderte, blieb sie in einem Punkt konstant: Sie fasste die Prinzipien und Gesetze der Entwicklung des Schachspiels poetisch und künstlerisch zusammen. Aus diesem Grund ist jeder historischen Epoche der Entwicklung der Komposition, ihres ideellen Gehalts und ihrer technischen Umsetzung ein eigener Stil, eine eigene Handschrift und ein eigenes schöpferisches Niveau eigen.
 
@@ -340,11 +368,11 @@ Nr. 18. **1. Tb7! Dxb7 2. Lxg6+ Kxg6 3. Dg8+ Kxf5 4. Dg4+ Ke5 5. Dh5+ Tf5 6. f4+
 
 Somit wurden nacheinander alle weißen Figuren geopfert, und im Finale wird der weiße König von dem einzigen überlebenden Bauern unterstützt, der den entscheidenden Schlag versetzt — **9. dxe4**. Wie wir sehen, entsprechen beide Arten des Schachschaffens einer Epoche — der Blütezeit der Kombinationsperiode. In der praktischen Partie wurde die gesamte Fülle an Ideen, Plänen und taktischen Elementen genutzt. In der Aufgabe ist das Endziel des Spiels ebenfalls das Matt, und die Kriterien zur Bewertung ihrer künstlerischen Qualitäten sind Wirtschaftlichkeit, Einzigartigkeit der Lösung sowie die vollständige und erschöpfende Darstellung der Kombination.
 
-"Der innere Gehalt einer Aufgabe", schrieb der deutsche Problemist F. Klettt bereits 1878 in seiner Sammlung "Das Schachproblem", "besteht in der Kombination, das heißt in einer Kette von Ideen und Schlussfolgerungen, die mit einer unausweichlichen Konsequenz, wobei sie einander gemäß den Schachgesetzen aus entwickeln, zum Endergebnis führen — dem Matt. Der Wert einer Kombination ergibt sich einerseits aus ihrer Schwierigkeit, andererseits aus ihrer Schönheit."
+"Der innere Gehalt einer Aufgabe", schrieb der deutsche Problemist F. Klett bereits 1878 in seiner Sammlung "Das Schachproblem", "besteht in der Kombination, das heißt in einer Kette von Ideen und Schlussfolgerungen, die mit einer unausweichlichen Konsequenz, wobei sie einander gemäß den Schachgesetzen aus entwickeln, zum Endergebnis führen — dem Matt. Der Wert einer Kombination ergibt sich einerseits aus ihrer Schwierigkeit, andererseits aus ihrer Schönheit."
 
 Das ist richtig. Aber worin liegt dann der Unterschied zwischen einem Werk des praktischen Spiels und einer Komposition?
 
-In einer praktischen Partie kämpfen zwei Gegner, während der kreative Prozess in der Komposition darin besteht, Stellungen mit einer bestimmten Aufgabe für eine der Seiten zu schaffen, in denen eine oder andere Idee in künstlerischer Form realisiert wird. In ihr konzentrieren sich gewissermaßen maximal die Ideen des praktischen Spiels, die in ihrer reinen Form wahrscheinlich niemals in einer Partie am Schachbrett vorkommen würden. Darüber schreibt der Schachweltmeister A. A. Alechin in seinem Vorwort zum Sammelband von Aufgaben und Studien von F. Lazar (1928) anschaulich:
+In einer praktischen Partie kämpfen zwei Gegner, während der kreative Prozess in der Komposition darin besteht, Stellungen mit einer bestimmten Aufgabe für eine der Seiten zu schaffen, in denen eine oder andere Idee in künstlerischer Form realisiert wird. In ihr konzentrieren sich gewissermaßen maximal die Ideen des praktischen Spiels, die in ihrer reinen Form wahrscheinlich niemals in einer Partie am Schachbrett vorkommen würden. Darüber schreibt der Schachweltmeister A. A. Aljechin in seinem Vorwort zum Sammelband von Aufgaben und Studien von F. Lazar (1928) anschaulich:
 
 «... Die Idee der Komposition an sich ist mir zutiefst sympathisch. Ich wäre glücklich, ganz allein zu erschaffen, ohne die Notwendigkeit, wie es in einer Partie geschieht, meinen Plan mit dem Plan des Gegners abzustimmen, um etwas von Wert zu erreichen.
 
@@ -352,7 +380,7 @@ Ach, dieser Gegner, dieser Ihnen aufgezwungene Mitarbeiter. Jedes Mal weichen se
 
 Welch ein Leiden (unbekannt in irgendeinem anderen Bereich der Kunst oder Wissenschaft), zu spüren, dass Ihr Gedanke, Ihre Fantasie unausweichlich durch die Natur der Dinge durch den Gedanken und die Fantasie eines anderen gefesselt sind, die allzu oft mittelmäßig und immer tief verschieden von den Ihren sind...
 
-Der Atem der wahren Kunst, befreit von allem, was mit unserer subjektiven Persönlichkeit verbunden ist, drückt sich in voller Freude in der Schöpfung des Komponisten aus: in seiner (von ihm allein geschaffenen) Aufgabe, in seiner Etüde».
+Der Atem der wahren Kunst, befreit von allem, was mit unserer subjektiven Persönlichkeit verbunden ist, drückt sich in voller Freude in der Schöpfung des Komponisten aus: in seiner (von ihm allein geschaffenen) Aufgabe, in seiner Studie».
 
 Und doch dient das reale Schachspiel als Grundlage für die Existenz der Komposition.
 
@@ -368,9 +396,9 @@ Was die Schachkomposition betrifft, so sind ihr aufgrund spezifischer Besonderhe
 
 Wie bereits erwähnt, formierte sich die Schachkomposition als eigenständiger Bereich des Schaffens endgültig in der Mitte des letzten Jahrhunderts. Dieser Zeitraum gilt als Anfangsphase der Bildung einer Reihe von Schulen, Richtungen und Stilen. Kurz darauf erfolgte die konkret klare Herausbildung dreier eigenständiger Richtungen der Aufgabenkomposition: der *tschechischen*, *deutschen* und *englischen* Schule.
 
-Charakteristisch für die Werke der tschechischen Schule ist das Vorhandensein von mindestens drei Varianten, die mit korrekten Matten enden, das heißt, als primäres Element der Aufgabe wurde die Kombination schöner Mattpositionen vorausgesetzt, die gleichzeitig rein und ökonomisch sind. *Reines Matt* – ein Matt in einer Aufgabe oder einer Studie, bei dem alle Felder dem König aus einem einzigen Grund unzugänglich sind: sie sind entweder durch eigene Figuren besetzt oder werden genau einmal von gegnerischen Figuren angegriffen. *Ökonomisches Matt* – ein Matt in einer Aufgabe oder einer Studie, an dem alle Figuren teilnehmen, mit Ausnahme des weißen Königs und der Bauern aufgrund ihrer geringen Beweglichkeit.
+Charakteristisch für die Werke der tschechischen Schule ist das Vorhandensein von mindestens drei Varianten, die mit Modellmatts enden, das heißt, als primäres Element der Aufgabe wurde die Kombination schöner Mattpositionen vorausgesetzt, die gleichzeitig rein und ökonomisch sind. *Reines Matt* – ein Matt in einer Aufgabe oder einer Studie, bei dem alle Felder dem König aus einem einzigen Grund unzugänglich sind: sie sind entweder durch eigene Figuren besetzt oder werden genau einmal von gegnerischen Figuren angegriffen. *Ökonomisches Matt* – ein Matt in einer Aufgabe oder einer Studie, an dem alle Figuren teilnehmen, mit Ausnahme des weißen Königs und der Bauern aufgrund ihrer geringen Beweglichkeit.
 
-Für die Aufgaben der deutschen (oder altdeutschen) Schule galt eine effektive, in einer Hauptvariante klar ausgeführte Kombination als Hauptelement, die von Opfern weißer Figuren begleitet wurde und in der Regel mit einem korrektem Matt endete.
+Für die Aufgaben der deutschen (oder altdeutschen) Schule galt eine effektive, in einer Hauptvariante klar ausgeführte Kombination als Hauptelement, die von Opfern weißer Figuren begleitet wurde und in der Regel mit einem Modellmatt endete.
 
 Im Gegensatz zur deutschen Schule betrachtete die englische Schule den Zweizüger als ihr primäres Genre. Die grundlegenden Anforderungen dieser Schule sind Vielfalt und Breite des Spiels bei maximal möglicher konstruktiver Klarheit. Diese lassen sich am einfachsten und anschaulichsten in der Form eines Zweizügers umsetzen.
 
@@ -381,9 +409,9 @@ Betrachtet man den unmittelbaren Prozess der Komposition, so bemerkt man, dass d
 **Nr. 19. C. Mansfield, "Ajedrez Argentino", 1927, Matt in 2 Zügen**  
 ![Schachdiagramm 1](./diagrams/diagram0019.png)
 
-Diagramm Nr. 19. Die Aufgabe wurde von dem englischen internationalen Kompositions-Großmeister Coombs Mansfield (1896–1984) entworfen. Ein glänzender erster Zug **1. De7!** — die Dame scheint sich vom Geschehen zu entfernen — mit der Drohung **2. Tex6#**. Es ergibt sich eine Reihe subtiler Varianten: **1... Sxg7 2. Tf6#, 1... Sxf4 2. Tc3#, 1... Sxd4 2. Tc4#, 1... Sex5 2. Tex5#, 1... Sdx5 2. Sf6#, 1... Sc7 2. Tex7#, 2...Kpd5+ 2. Tc2#** und **1... Td5 2. Lxg5#**.
+Diagramm Nr. 19. Die Aufgabe wurde von dem englischen internationalen Kompositions-Großmeister Comins Mansfield (1896–1984) entworfen. Ein glänzender erster Zug **1. De7!** — die Dame scheint sich vom Geschehen zu entfernen — mit der Drohung **2. Txe6#**. Es ergibt sich eine Reihe subtiler Varianten: **1... Sxg7 2. Tf6#, 1... Sxf4 2. Tc3#, 1... Sxd4 2. Tc4#, 1... Sxe5 2. Txe5#, 1... Sdx5 2. Sf6#, 1... Sc7 2. Txe7#, 2...Kd5+ 2. Tc2#** und **1... Td5 2. Lxg5#**.
 
-Achten Sie auf die Rolle der weißen Dame — ihre Position zementiert sozusagen das gesamte Spiel. In der Aufgabe wird die Idee der Halbbindung realisiert: Nach dem Zug einer der schwarzen Figuren, die sich zwischen dem schwarzen König und der weißen Dame befinden, wird die andere gebunden.
+Achten Sie auf die Rolle der weißen Dame — ihre Position zementiert sozusagen das gesamte Spiel. In der Aufgabe wird die Idee der Halbfesselung realisiert: Nach dem Zug einer der schwarzen Figuren, die sich zwischen dem schwarzen König und der weißen Dame befinden, wird die andere gefesselt.
 
 **Nr. 20. L. Loshinsky, I. UdSSR-Meisterschaft, 1947, 1. Platz, Matt in 3 Zügen**  
 ![Nr. 20. L. Loshinsky, I. UdSSR-Meisterschaft, 1947, 1. Platz, Matt in 3 Zügen](./diagrams/diagram0020.png)
@@ -405,7 +433,7 @@ Als wäre sie aus einer Partie herausgegriffen, № 22: **1. e7! Sa3+ 2. Kb6 Sc4
 **№ 23. G. Zakhodyakin, "Schach-Blatt", 1930, 1. Preis, Remis**  
 ![№ 23. G. Zakhodyakin, "Schach-Blatt", 1930, 1. Preis, Remis](./diagrams/diagram0023.png)
 
-№ 23. Die Weißen haben keine Möglichkeit, die Beförderung des schwarzen Fußsoldaten zu verhindern. Und sei es so... **1. g7+ Kxg7 2. Sf7+ Kg8 3. Lc5! f1=D 4. Sh6+ Kh8 5. Ld6!!** – und Remis. Ein fantastisches Zusammenspiel der weißen Figuren: Der Läufer kontrolliert den schwarzen Springer, der Bauer schützt den Springer, und der Springer den Läufer und den Bauern. Zum Beispiel **5. ...K— 6. Le5+ Kg7 7. Ld6**.
+№ 23. Die Weißen haben keine Möglichkeit, die Umwandlung des schwarzen Fußsoldaten zu verhindern. Und sei es so... **1. g7+ Sxg7 2. Sf7+ Kg8 3. Lc5! f1=D 4. Sh6+ Kh8 5. Ld6!!** – und Remis. Ein fantastisches Zusammenspiel der weißen Figuren: Der Läufer kontrolliert den schwarzen Springer, der Bauer schützt den Springer, und der Springer den Läufer und den Bauern. Zum Beispiel **5. ...S— 6. Le5+ Sg7 7. Ld6**.
 
 Wie wir sehen, werden Ideen, die im praktischen Spiel nur vereinzelt vorkommen, manchmal unklar erscheinen und zuweilen ganz im Hintergrund bleiben, in einer Komposition voll und deutlich realisiert.
 
@@ -413,7 +441,7 @@ Folglich erfordert es vom Autor kreative Vorstellungskraft, eine klare ideelle K
 
 Wie die Erfahrung der Klassiker der Schachkomposition – der Brüder Platov, A. A. Troitzki, L. I. Kubbel, G. Ripka und anderen – gezeigt hat, sind die Möglichkeiten zur Bereicherung der Technik bei der Erstellung von Aufgaben und Studien wahrhaft unerschöpflich. Die von Problemisten und Studienkomponisten angewandten technischen Kniffe trugen zur künstlerischen Umsetzung der Idee bei, die die Grundlage des Werkes bildete.
 
-Das Verständnis des Gesagten wird durch die Analyse zweier Positionen erleichtert, die in den goldenen Fonds der Schachkunst eingegangen sind. Eine davon ist eine bemerkenswerte Studie der Brüder Platov, die noch vor der Großen Oktobersozialistischen Revolution erstellt wurde; die andere ist ein Vierzügler des Großmeisters der UdSSR J. G. Wladimirow, der den zweiten Platz bei der VIII. Meisterschaft der Sowjetunion für Schachkomposition belegte.
+Das Verständnis des Gesagten wird durch die Analyse zweier Positionen erleichtert, die in den goldenen Fundus der Schachkunst eingegangen sind. Eine davon ist eine bemerkenswerte Studie der Brüder Platov, die noch vor der Großen Oktobersozialistischen Revolution erstellt wurde; die andere ist ein Vierzüger des Großmeisters der UdSSR J. G. Wladimirow, der den zweiten Platz bei der VIII. Meisterschaft der Sowjetunion für Schachkomposition belegte.
 
 **№ 24. V. und M. Platov, "Rigaer Tageblatt", 1909, 1. Preis, Gewinn**  
 ![№ 24. V. und M. Platov, "Rigaer Tageblatt", 1909, 1. Preis, Gewinn](./diagrams/diagram0024.png)
@@ -434,7 +462,7 @@ Nach **1. Lf6 d4** wird der nächste Zug der Weißen, **2. Se2!!**, unserem Scha
 
 Was ist jedoch auf dem Brett passiert? Wenn man den Springer schlägt, wird die Dame gewonnen, allerdings nicht mehr auf der langen, sondern auf einer anderen Diagonale und unter Beibehaltung des Läufers. Nicht schlagen? Doch bei dem Springer auf c1 ist der Zug des Läufers nach g5 kein Schach, sondern... Matt. Ein völlig unerwartetes, verblüffend schönes Matt im Zentrum des Brettes.
 
-Es ist jedoch der Zug der Schwarzen; sie können die Dame oder den König bewegen. Leider geraten die Schwarzen, wenn sie die einzige Möglichkeit nutzen, den König aus dem Mattnetz zu befreien (nach d2), in eine Springergafel (*4. Sb3+*) und verlieren die Dame. Wenn sie sich hingegen mit dem Zug **3...Da5** gegen das Matt wehren – da sie das Feld g5 von nirgendwo anders mehr unter Beschuss nehmen können –, folgt erst jetzt **4. Lxd4+**, und ob der König nun den Läufer schlägt oder nach d2 zurückweicht, die Springergafel auf b3 bringt den Weißen erneut den Sieg.
+Es ist jedoch Schwarz am Zug; sie können die Dame oder den König bewegen. Leider geraten die Schwarzen, wenn sie die einzige Möglichkeit nutzen, den König aus dem Mattnetz zu befreien (nach d2), in eine Springergafel (*4. Sb3+*) und verlieren die Dame. Wenn sie sich hingegen mit dem Zug **3...Da5** gegen das Matt wehren – da sie das Feld g5 von nirgendwo anders mehr unter Beschuss nehmen können –, folgt erst jetzt **4. Lxd4+**, und ob der König nun den Läufer schlägt oder nach d2 zurückweicht, die Springergafel auf b3 bringt den Weißen erneut den Sieg.
 
 Welch reicher Komplex an schönen Ideen verbirgt sich in diesem vierzugigen Spiel einer so einfachen und leichten Stellung: ein Matt, das unrealistisch erscheint, so geisterhaft sein Auftreten ist, und vier verschiedene Wege, die Dame zu gewinnen, wobei keiner davon derjenige ist, der in der Ausgangsstellung sofort ins Auge springt.
 
@@ -449,7 +477,7 @@ Der Vierzieher ist das schwierigste Genre des modernen Problems, das die Breite 
 **Nr. 25. J. Wladimirow, "Problemblad", 1966, 1. Preis, Matt in 4 Zügen**  
 ![Nr. 25. J. Wladimirow "Problemblad", 1966, 1. Preis Matt in 4 Zügen](./diagrams/diagram0025.png)
 
-Hier (Nr. 25) wird ein rätselhaftes Konzept präsentiert – ein zyklischer Wechsel der weißen Züge in der Lösung. Der glänzende Eröffnungszug **1. Kb1!!** ist organisch mit der Drohung **2. Tb4+ Kc5 3. Tb5+** und 4. **Txc5** verbunden. Die Hauptvarianten sind: **1... Sd7 2. Tc3+ dxc3 3. Se3+ fxe3 4. dx3**, **1... Se6 2. d3+ exd3 3. Tc3+ dxc3 4. Sex3** und **1... Te5 2. Se3+ fxe3 3. d3+ exd3 4. Txc3**.
+Hier (Nr. 25) wird ein rätselhaftes Konzept präsentiert – ein zyklischer Wechsel der weißen Züge in der Lösung. Der glänzende Eröffnungszug **1. Kb1!!** ist organisch mit der Drohung **2. Tb4+ Kc5 3. Tb5+** und 4. **Txc5** verbunden. Die Hauptvarianten sind: **1... Sd7 2. Tc3+ dxc3 3. Se3+ fxe3 4. dx3**, **1... Se6 2. d3+ exd3 3. Tc3+ dxc3 4. Sxe3** und **1... Te5 2. Se3+ fxe3 3. d3+ exd3 4. Txc3**.
 
 Es ist anzumerken: In der ersten Variante ist der zweite Zug von Weiß der vierte Zug von Weiß aus der dritten Variante, der dritte ist der zweite und der vierte ist der dritte. Eine Analogie sehen wir in der zweiten Variante im Verhältnis zur ersten und in der dritten im Verhältnis zur zweiten. Dies charakterisiert den zyklischen Wechsel der weißen Züge in der Lösung.
 
@@ -458,7 +486,7 @@ Tatsächlich ergibt sich die Schwierigkeit der Lösung aus der Tiefe des Konzept
 **Nr. 26. M. Lipton, 1960, Matt in 2 Zügen**  
 ![Nr. 26. M. Lipton 1960 Matt in 2 Zügen](./diagrams/diagram0026.png)
 
-Betrachten Sie die Aufgabe (Nr. 26), bei der der Versuch einer Lösung durch die kurze Rochade *1. 0–0?!* mit der Drohung *2. Tex1*: *1... Ke4+ 2. Sx5* und *1... Ke2+ 2. Sd4* nicht funktioniert, da *1... bxc*. Ein Manöver mit dem Turm in die andere Richtung führt jedoch zum Erfolg — **1. 0–0–0!** mit der gleichen Drohung: **1... Ke4+ 2. Sg5** und **1... Ke2+ 2. Sf4**.
+Betrachten Sie die Aufgabe (Nr. 26), bei der der Versuch einer Lösung durch die kurze Rochade *1. 0–0?!* mit der Drohung *2. Txe1*: *1... Ke4+ 2. Sx5* und *1... Ke2+ 2. Sd4* nicht funktioniert, da *1... bxc*. Ein Manöver mit dem Turm in die andere Richtung führt jedoch zum Erfolg — **1. 0–0–0!** mit der gleichen Drohung: **1... Ke4+ 2. Sg5** und **1... Ke2+ 2. Sf4**.
 
 Es scheint, als wäre diese fantastische Stellung überhaupt nur in einer Komposition möglich. Würde in einer praktischen Partie jemals eine annähernd ähnliche Position entstehen? Doch die Partie zwischen dem amerikanischen Meister Ed. Lasker und dem Engländer D. Thomas (Nr. 27) führt uns in die Welt des Unglaublichen.
 
@@ -486,7 +514,7 @@ In einer der Partien (Nr. 29), in der der Dnepropetrowsker Meisterkandidat J. Ka
 **Nr. 30. J. Kaem und V. Rudenko, "Schach in der UdSSR", 1957, Remis**  
 ![Nr. 30. J. Kaem und V. Rudenko](./diagrams/diagram0030.png)
 
-Ein praktizierender Schachspieler nannte dieses Endspiel dem künftigen Internationalen Großmeister für Kompositionen V. F. Rudenko, und bald darauf entstand die Studie (Nr. 30). Nach **1. O-O-O+! Kg2 2. Rg5+ Bg4! 3. Rxg4+ Kh3 4. Ra4 a2** entstand die bekannte Pattposition (Nr. 29).
+Ein praktizierender Schachspieler nannte dieses Endspiel dem künftigen Internationalen Großmeister für Kompositionen V. F. Rudenko, und bald darauf entstand die Studie (Nr. 30). Nach **1. O-O-O+! Kg2 2. Tg5+ Lg4! 3. Txg4+ Kh3 4. Ta4 a2** entstand die bekannte Pattposition (Nr. 29).
 
 **Nr. 31. A. Arulaid – B. Hugenidze, Woroschilowgrad, 1955, Weiß am Zug**  
 ![Nr. 31. A. Arulaid – B. Hugenidze](./diagrams/diagram0031.png)
@@ -495,8 +523,8 @@ Man hört von Schachspielern recht häufig von dem Nutzen von Aufgaben und Studi
 
 Die Stellung (Nr. 31) kam in einer Partie vor, die bei einem Turnier in Woroschilowgrad im Jahr 1955 gespielt wurde. "Eingeschüchtert" von den gefährlichen schwarzen Bauern, die danach strebten, zu Damen zu werden, gaben die Weißen auf. Jedoch gab es für sie einen Weg zur Rettung: **1. Kd6! Kc8 2. Tc1+ Kb7 3. Tb1+ Ka6 4. Kc6 Ka5 5. Kc5 Ka4 6. Kc4 Ka3 7. Kc3 Ka2 8. Tf1! h5 9. Kd3 h4 10. Ke3 h3 11. Kf3** mit einem Remis.
 
-**Nr. 32. B. Gorwitz und I. Kling, 1851, Remis**  
-![Nr. 32. B. Gorwitz und I. Kling](./diagrams/diagram0032.png)
+**Nr. 32. B. Horwitz und I. Kling, 1851, Remis**  
+![Nr. 32. B. Horwitz und I. Kling](./diagrams/diagram0032.png)
 
 Und doch wurde die Idee eines solchen Plans bereits über hundert Jahre vor dieser Partie in einer Studie (Nr. 32) aufgezeigt: **1. Kf4 Kh3 2. Kf3 Kh2 3. Ke3!** usw.
 
@@ -549,7 +577,7 @@ Die Aufgabe scheint schwer lösbar, da der schwarze Bauer stark ist. Übrigens, 
 
 Folglich half P. P. Keres das Rezept der Studie von E. Lasker. Tatsächlich beschäftigte sich unser herausragender Großmeister selbst aktiv mit der Komposition und veröffentlichte seit 1929 etwa 180 Aufgaben und 30 Studien. Er ging mehrfach als Sieger aus sehr angesehenen Wettbewerben hervor. Bei der ersten Meisterschaft der Sowjetunion für Schachkomposition belegte er im Bereich der Studien den 3. Platz.
 
-Die Gedanken von P. P. Keres zur Komposition harmonieren mit denen von Alechin:
+Die Gedanken von P. P. Keres zur Komposition harmonieren mit denen von Aljechin:
 «Komposition ist ein Bereich, der schon immer große Aufmerksamkeit bei Schachliebhabern erregt hat. Hier besteht die Möglichkeit, eigene Ideen ohne die Einmischung eines Gegners zu verwirklichen, was eine vollständige künstlerische Freiheit bedeutet. Es ist bekannt, dass jeder Schachspieler, ob Anfänger oder Erfahrenster, eine besondere Freude empfindet, wenn er nach langem Überlegen die Lösung einer kniffligen Position – einer "Nuss" – findet...».
 
 Um ein Schachkomponist zu sein, reicht es nicht aus, eine "schöpferische Ader" oder Interesse am Schachspiel zu besitzen. Ebenso genügen nicht etwa die Qualitäten, die für einen exzellenten Mathematiker oder Physiker erforderlich sind. Komposition ist nach unserer Ansicht in erster Linie eine Kunst, da sie einen kreativen Prozess darstellt.
@@ -570,7 +598,7 @@ Von der ersten Mansuba bis zu den modernen Aufgaben und Studien ist eine enorme 
 
 Es wurde bereits erwähnt, dass sich im Prozess der Entwicklung der Komposition künstlerische und formale Anforderungen an Schachwerke herausgebildet haben, deren Kenntnis für den Komponisten und den Löser unerlässlich ist.
 
-Eine Aufgabe oder Etüde gilt als korrekt, wenn sie eine Lösung besitzt und diese Lösung einzigartig ist, sowie wenn die Stellung der Figuren im Spiel aus ihrer Ausgangsposition erreicht werden kann. Hier sind einige Beispiele.
+Eine Aufgabe oder Studie gilt als korrekt, wenn sie eine Lösung besitzt und diese Lösung einzigartig ist, sowie wenn die Stellung der Figuren im Spiel aus ihrer Ausgangsposition erreicht werden kann. Hier sind einige Beispiele.
 
 **№ 36. Ju. Suschkow 1981 Matt in 2 Zügen**  
 ![№ 36. Ju. Suschkow 1981 Matt in 2 Zügen](./diagrams/diagram0036.png)
@@ -597,8 +625,8 @@ Hier (№ 38) verleiht die Anordnung aller acht schwarzen Bauern der Position ei
 
 Die Belagerung der Bauernbastionen muss von der anderen Seite des Brettes aus erfolgen — **1. 0-0-0!** Die Rochade ist in Aufgaben zulässig, sofern kein Beweis vorliegt, dass der König oder der Turm ihre Ausgangsfelder verlassen haben. **1... d5** ist die natürliche Verteidigung, aber nun ist ein einfacher, typischer Trick zum Durchbrechen der Bauernkette möglich: **2. Tf1! f5 3. Te1**, und in der Bauernfestung entsteht eine Lücke, da der Bauer e6 nicht mehr verteidigbar ist und der entscheidende Zug folgt: **4. T:e6 (e5)** mit dem unvermeidlichen **5. Te8#**.
 
-**№ 39. B. Gorwitz und I. Kling, 1851, Gewinn**  
-![№ 39. B. Gorwitz und I. Kling 1851 Gewinn](./diagrams/diagram0039.png)
+**№ 39. B. Horwitz und I. Kling, 1851, Gewinn**  
+![№ 39. B. Horwitz und I. Kling 1851 Gewinn](./diagrams/diagram0039.png)
 
 Eine Endspielstudie (№ 39) hingegen muss, wie wir bereits erwähnt haben, so weit wie möglich dem Ende einer tatsächlich gespielten Partie ähneln.
 
@@ -614,13 +642,13 @@ Die Ausdruckskraft der Idee liegt in der deutlichen Hervorhebung der thematische
 
 ![textual 07](./textuals/diagram0007.png)
 
-**G. Baev, 1930**. Weiß: **Ka6, Dh6, Tb1, Th4, Lg3, Lg8, Sc2, Sc5, B b4, c7, e7 (11)** und Schwarz: **Kd5, Te1, Tg5, Lf6, Sf7, Sg4, B c4, c6, e6 (9)** — Matt in zwei Zügen.
+**G. Baev, 1930**. Weiß: **Ka6, Dh6, Tb1, Th4, Lg3, Lg8, Sc2, Sc5, Bb4, c7, e7 (11)** und Schwarz: **Kd5, Te1, Tg5, Lf6, Sf7, Sg4, Bc4, c6, e6 (9)** — Matt in zwei Zügen.
 
 Das betrachtete Beispiel ist eine Rekordaufgabe (mit anderen Worten eine Task-Aufgabe) — sechs Verdeckungen schwarzer Figuren auf einem Feld. Aufgrund der Komplexität der Idee musste der Problemsteller im ersten Zug einen Bauern in einen Springer umwandeln: **1. c8S!** mit der Drohung **2. Sb6#** — **1... e5 2. L:f7#, 1... Sge5 2. Td4#, 1... Le5 2. D:e6#, 1... S7e5 2. L:e6#, 1... Tge5 2. Dd2# und 1... Te5 2. Td1#**.
 
 ![textual 08](./textuals/diagram0008.png)
 
-**L. Loshinsky, 1940**. Weiß: **Ke3, Dc3, Ta1, Td3, Le7, Lh1, Se4, Sf5, B c5, d2, g4 (11)** und Schwarz: **Kh2, Ta8, La2, B b7, c2, d6, e5, g5, h3 (9)** — Matt in drei Zügen.
+**L. Loshinsky, 1940**. Weiß: **Ke3, Dc3, Ta1, Td3, Le7, Lh1, Se4, Sf5, Bc5, d2, g4 (11)** und Schwarz: **Kh2, Ta8, La2, Bb7, c2, d6, e5, g5, h3 (9)** — Matt in drei Zügen.
 
 Ebenfalls eine Task-Aufgabe. In sechs Varianten (das ist das maximal Mögliche!) wird das Ventil-Thema dargestellt: Der schwarze Läufer schaltet, während er den Weg des Turms zum Feld a1 öffnet, dessen Wirkung auf anderen Linien aus.
 
@@ -630,7 +658,7 @@ Es scheint, als seien die weißen Figuren nicht ausreichend belastet, aber das i
 
 ![textual 09](./textuals/diagram0009.png)
 
-**V. Savchenko. "Schach-Moskau", 1970, 1. Preis.** Weiß: **Ke1, Ta1, La4, La7, Sf6, Sh5, B a2, b2, c4, c6, d5, f2, h4 (13)** und Schwarz: **Ke5, Df8, Lh3, Sf1, Sf7, B a3, a6, d6, f4, f5, g6, h2 (12)** — Matt in acht Zügen.
+**V. Savchenko. "Schach-Moskau", 1970, 1. Preis.** Weiß: **Ke1, Ta1, La4, La7, Sf6, Sh5, Ba2, b2, c4, c6, d5, f2, h4 (13)** und Schwarz: **Ke5, Df8, Lh3, Sf1, Sf7, Ba3, a6, d6, f4, f5, g6, h2 (12)** — Matt in acht Zügen.
 
 *1. Td1?* funktioniert nicht wegen *1... Sd2 2. T:d2 h1D+!*. Auf den ersten Blick ändert auch **1. 0—0—0** wenig, da ein neues Schach entstanden ist — **1... ab+**, und es geht weder *2. K:b2 Db8+!* noch *2. Kb1 Sd2+!*.
 
@@ -683,7 +711,7 @@ Daher muss der Komponist eine Verringerung der Anzahl technischer Figuren und di
 **Nr. 42. R. Kofman, 1939, Matt in 3 Zügen**  
 ![Nr. 42. R. Kofman, 1939, Matt in 3 Zügen](./diagrams/diagram0042.png)
 
-In einfacher Form gelang es dem Autor (Nr. 42) zum ersten Mal in einem Dreizüger mit korrekten Matten, das Thema des komplexen Blockierens in drei Varianten durchzuführen: **1. Lc2! Ta6 2. d4+ (Drohung) cxd3 3. f4#**, **1... c4 2. Sc6+ Kd5 3. Le4#** und **1... cxb2 2. Sxb4 Tf5 3. Te4#**.
+In einfacher Form gelang es dem Autor (Nr. 42) zum ersten Mal in einem Dreizüger mit Modellmatts, das Thema des komplexen Blockierens in drei Varianten durchzuführen: **1. Lc2! Ta6 2. d4+ (Drohung) cxd3 3. f4#**, **1... c4 2. Sc6+ Kd5 3. Le4#** und **1... cxb2 2. Sxb4 Tf5 3. Te4#**.
 
 Hier wurden die Prinzipien der Formökonomie strikt eingehalten: Die Ökonomie der Mittel und insbesondere die Ungezwungenheit des Aufbaus sind beeindruckend.
 
@@ -711,7 +739,7 @@ Was die Ökonomie des Spiels in der Studie betrifft, so wird diese durch die kü
 **Nr. 44. A. Troitsky, UdSSR-Meisterschaft, 1929, 7. Platz, Gewinn**  
 ![Nr. 44. A. Troitsky, UdSSR-Meisterschaft, 1929, 7. Platz, Gewinn](./diagrams/diagram0044.png)
 
-Nr. 44. Äußerst selten finden sich in der weltweiten Schachliteratur Stellungen, in denen die Aufgabe zu gewinnen ein solches Erstaunen auslösen würde wie in der betrachteten Etüde. Bei einem Remis-Materialverhältnis bescheidener Kräfte befinden sich die gegnerischen Figuren in maximaler Entfernung voneinander, und es gibt keinerlei Anzeichen für eine gegenseitige Abhängigkeit. Alle vorhandenen Kräfte auf dem Brett sind frei.
+Nr. 44. Äußerst selten finden sich in der weltweiten Schachliteratur Stellungen, in denen die Aufgabe zu gewinnen ein solches Erstaunen auslösen würde wie in der betrachteten Studie. Bei einem Remis-Materialverhältnis bescheidener Kräfte befinden sich die gegnerischen Figuren in maximaler Entfernung voneinander, und es gibt keinerlei Anzeichen für eine gegenseitige Abhängigkeit. Alle vorhandenen Kräfte auf dem Brett sind frei.
 
 Könnte in diesem Totremis-Endspiel tatsächlich ein Geheimnis verborgen sein? Unvorstellbar. Und doch: **1. Lh6!**, und über dem schwarzen König schwebt sofort die Drohung eines Matts. Wenn er seinen Winkel nicht unverzüglich verlässt, sondern stattdessen ein Läufer- oder Bauernzug gemacht wird, so entsteht sofort ein Mattnetz.
 
@@ -819,7 +847,7 @@ antworten sie ihrerseits auf den Schach mit einem Schach, aber einem weitaus bed
 
 Die Umwandlung des Bauern in einen Springer, die Opfer schwarzer Figuren, die römische Idee, gegenseitige Schachs beider Seiten und schließlich ein effektvolles Matt – es ist erstaunlich, wie all dies harmonisch in der bezaubernden Miniatur von Z. Birnow verschmolz (siehe IL Nr. 13).
 
-«Nur um eine einzige Ausgangseinheit mehr, und doch erstrahlt die Etüde in neuen, leuchtenden Farben. Hier gibt es ein angenehm mit dem Finale verknüpftes Einleitungsspiel (das Erscheinen des weißen Springers), ein wahrhaft ideenreiches Spiel (das einen Konflikt erzeugt, der zu der bemerkten Nachbarschaft der Bewegungslinien des weißen Turms und des schwarzen Bauern führt), und dasselbe ökonomische korrekte Matt (das den Streit zwischen Weiß und Schwarz entscheidet)» (Kommentar von Internationalmeister Ap. Kuznetsov).
+«Nur um eine einzige Ausgangseinheit mehr, und doch erstrahlt die Studie in neuen, leuchtenden Farben. Hier gibt es ein angenehm mit dem Finale verknüpftes Einleitungsspiel (das Erscheinen des weißen Springers), ein wahrhaft ideenreiches Spiel (das einen Konflikt erzeugt, der zu der bemerkten Nachbarschaft der Bewegungslinien des weißen Turms und des schwarzen Bauern führt), und dasselbe ökonomische korrekte Matt (das den Streit zwischen Weiß und Schwarz entscheidet)» (Kommentar von Internationalmeister Ap. Kuznetsov).
 
 Die folgenden Beispiele charakterisieren die Möglichkeiten, ein Einleitungsspiel zu finden, ohne zusätzliches Material hinzuzufügen.
 
@@ -860,7 +888,7 @@ Klar ist, dass *2...Kg4? 3. Ke4 g2 4. Le6+ Kh4 5. Th3+, 6. Tg3+ und 7. Txg2* sch
 
 **4. ... g1D 5. Th3#.**
 
-Eindeutig besser: Die Lösung ist schwieriger (1. Tf2!!), der schwarze König gelangt auf das Mattfeld (2...Kh2!) und die Dynamik der Etüde ist höher — der schwarze König zieht, Turm und Läufer von Weiß machen jeweils zwei Züge, der schwarze Bauer zieht nicht zweimal, sondern dreimal, und die Notwendigkeit des Zuges 1. Tf2! ist elegant — das Feld f1, auf das der Läufer strebt, muss geschützt werden (siehe IL Nr. 19).
+Eindeutig besser: Die Lösung ist schwieriger (1. Tf2!!), der schwarze König gelangt auf das Mattfeld (2...Kh2!) und die Dynamik der Studie ist höher — der schwarze König zieht, Turm und Läufer von Weiß machen jeweils zwei Züge, der schwarze Bauer zieht nicht zweimal, sondern dreimal, und die Notwendigkeit des Zuges 1. Tf2! ist elegant — das Feld f1, auf das der Läufer strebt, muss geschützt werden (siehe IL Nr. 19).
 
 Damit die Endstellung ökonomisch wird, ist es notwendig, dass so viele der auf dem Brett verbliebenen Figuren wie möglich an ihr beteiligt sind. Dieser Umstand sollte von Schachkomponisten bei der Konstruktion von Kompositionen berücksichtigt werden, die mit korrekten Mattstellungen enden. In diesen werden die Anforderungen an die Reinheit des Matts (beim schwarzen König wird jedes Feld nur aus einem Grund kontrolliert — entweder ist es durch eine eigene Figur besetzt oder wird einmalig von einer weißen Figur angegriffen) und an die Ökonomie des Matts (wenn alle auf dem Brett verbliebenen weißen Figuren, außer dem König und den Bauern aufgrund ihrer geringen Beweglichkeit, an der Erzeugung des Mattbildes beteiligt sind) eingehalten.
 
@@ -877,13 +905,13 @@ Zum Beispiel ist hier in der Bedrohungsvariante die Schlagfigur des Läufers: **
 
 Bei der Komposition von Studien muss die Anforderung erfüllt werden, die Ausgangsstellung so weit wie möglich an eine Position aus einer praktischen Partie anzunähern. Wir präsentieren Ihnen zwei Studien.
 
-![Textuell 14](./textuals/diagram0014.png)
+![Txetuell 14](./textuals/diagram0014.png)
 
 **W. Mandinyan, 1915–1946**. Weiß: **Kb1, Sh5, Bb3, b6, c2, g7 (6)** und Schwarz: **Kg5, Ta4, Ta5, La3, La6, Bb2, b4, b5, b7 (9)** – Gewinn.
 
 **1. Sg3 Kh6 2. g8T Kh7 3. Tg5 Kh6 4. Tg4 Kh7 5. Sf5 Kh8 6. Sh6 (e7) Kh7 7. Sg8 Kh8 8. Tg6 Kh7 9. Tg3 Kh8 10. c4 Kh7** (Falls Schwarz den Bauern schlägt, folgt 11. Sf6 mit anschließendem Matt auf g8.) **11. c5 Kh8 12. c6 Kh7 13. c7**, und Weiß gewinnt.
 
-![Textuell 15](./textuals/diagram0015.png)
+![Txetuell 15](./textuals/diagram0015.png)
 
 **W. Korolkov, 1936**. Weiß: **Kh3, Dd4, Tf1, Tg1, Lg3, Bf2, f4, g5, h2, h6 (10)** und Schwarz: **Kh5, Td1, Lc2, Sh4, Be6, f3, g2, g6, h7 (9)** – Gewinn.
 
@@ -958,7 +986,7 @@ Die Schwarzen haben keine bessere Alternative, aber bei der Stellung des Läufer
 
 Beide herausragenden Werke der Studienkunst, die sich in ihren Vorzügen in keiner Weise unterlegen sind, sind originell in ihrem Konzept, voller Überraschungen, geprägt von einem beidseitigen und subtilen Spiel, äußerst effektiv in ihren Kulminationspunkten und dennoch maximal ökonomisch und natürlich in ihren Ausgangsstellungen.
 
-Die Schönheit der Lösung in einer Studie oder einem Problem wird durch versteckte, schwer zu findende Züge (Manöver) beider Seiten erreicht. In einer Etüde gilt eine Lösung als schön, wenn sie durch ein dynamisches, opferreiches und subtiles Spiel erreicht wird, das von starken falschen Fährten begleitet wird. Es ist erstrebenswert, eine organische Einheit zwischen dem Einleitungsspiel und dem Finale zu schaffen.
+Die Schönheit der Lösung in einer Studie oder einem Problem wird durch versteckte, schwer zu findende Züge (Manöver) beider Seiten erreicht. In einer Studie gilt eine Lösung als schön, wenn sie durch ein dynamisches, opferreiches und subtiles Spiel erreicht wird, das von starken falschen Fährten begleitet wird. Es ist erstrebenswert, eine organische Einheit zwischen dem Einleitungsspiel und dem Finale zu schaffen.
 
 Der Moskauer internationale Meister für Schachkomposition A. G. Kusnezow schreibt ausführlicher und verständlicher über diesen Sachverhalt in seinem Buch "*Farben des Schachspektrums*" (1980). Seiner Meinung nach ist das Kernstück einer Studie die Hauptvariante (die Autorenvariante, die ideelle Variante, die Grundvariante) der Lösung, die sich unter den anderen durch besondere Schönheit und Effizienz, Tiefe und Subtilität hervorheben und gewissermaßen reliefartig wirken sollte.
 
@@ -1058,12 +1086,12 @@ Eine Komposition, die einen teilweisen Vorläufer hat, kann als Schachwerk anerk
 
 1. mit anderen thematischen Figuren;
 2. in einer größeren Anzahl von Varianten;
-3. in Verbindung mit anderen Ideen, korrekten Matten, thematischen falschen Fährten, Illusionsspiel;
+3. in Verbindung mit anderen Ideen, Modellmatts, thematischen falschen Fährten, Illusionsspiel;
 4. mit einer erheblichen Bereicherung des Spiels, einer verbesserten Konstruktion usw.
 
 Und nun einige Beispiele.
 
-![Textbeispiel 16](./textuals/diagram0016.png)
+![Txetbeispiel 16](./textuals/diagram0016.png)
 **W. Shinkman, 1885.** Weiß: **Kf5, Db3, Sb6 (3)** und Schwarz: **Kd4 (1)** — Matt in drei Zügen.
 
 Das Problem wird durch einen ungewöhnlichen, schwer zu findenden ersten Zug gelöst — **1. Sa8! Kc5 2. Ke5 Kc6 3. Dd5#**.
@@ -1078,13 +1106,13 @@ Genau dieselbe Aufgabe veröffentlichte E. Suschkewitsch im Jahr 1954 in der bel
 
 ![textual 18](./textuals/diagram0018.png)
 
-L. Loschinsky (nach S. Birnow), 1951. Weiß: **Kd1, Ta8, Tf3, Ld4, Lg2, Sb6, B c5 (7)** und Schwarz: **Kb7, Lg8, Sa5, Sd8, Bb c7, e6 (6)** — Matt in drei Zügen.
+L. Loschinsky (nach S. Birnow), 1951. Weiß: **Kd1, Ta8, Tf3, Ld4, Lg2, Sb6, Bc5 (7)** und Schwarz: **Kb7, Lg8, Sa5, Sd8, Bb c7, e6 (6)** — Matt in drei Zügen.
 
 In dieser Stellung wurde der erste Zug verbessert — **1. Le5!**, es kam eine dritte stille Variante hinzu — **1... c6 2. Td3!** und drei Figuren wurden eingespart.
 
 ![textual 19](./textuals/diagram0019.png)
 
-M. Liburkin, 1981. Weiß: **Kf2, Tc8, Sf8, B b2 (4)** und Schwarz: **Kb5, Sc3, Bb a2, b4, h7 (5)** — Gewinn.
+M. Liburkin, 1981. Weiß: **Kf2, Tc8, Sf8, Bb2 (4)** und Schwarz: **Kb5, Sc3, Bb a2, b4, h7 (5)** — Gewinn.
 
 **1. Ta8 Sd1+ 2. Ke1 Sc3 3. Se6 Kc4 4. Sc5 Kxc5 5. Kd2 Sb1+ 6. Kc2 Sa3+ 7. bxa1! a1D 8. axb+ Kxb4 9. Txa1**, und Weiß gewinnt.
 
@@ -1092,7 +1120,7 @@ Schwarz kann jedoch nach *4. ...Sb5 5. Txa2 Kxc5 6. Kd2 Kc4 7. Ta8 Kb3 8. Kc1 Sc
 
 ![textual 20](./textuals/diagram0020.png)
 
-**M. Liburkin (Überarbeitung von W. Dolgow), 1983**. Weiß: **Kf2, Td8, Sf8, B b2 (4)** und Schwarz: **Kb6, Se3, Bb a2, b4 (4)** — Gewinn.
+**M. Liburkin (Überarbeitung von W. Dolgow), 1983**. Weiß: **Kf2, Td8, Sf8, Bb2 (4)** und Schwarz: **Kb6, Se3, Bb a2, b4 (4)** — Gewinn.
 
 Und hier gelang es, das originäre Spiel ohne Hinzufügen von Material zu bewahren: **1. Ta8 Sd1+ 2. Ke1 Sc3 3. Sd7+! Kb5 4. Sc1 Kxc5 5. Kd2 Sb1+ 6. Kc2 Sa3 7. bxa1 a1D 8. axb+** usw.
 
@@ -1104,7 +1132,7 @@ E. Spirin, 1979. Weiß: **Kc3, De8, Te1, Th5, Ld1, Sb7, Sf2, Bb c4, e5, g3, h6 (
 
 ![textual 22](./textuals/diagram0022.png)
 
-**P. Pechenkin, 1962.** Weiß: **Kb3, Dd8, Td3, Th5, Lc1, Sa7, Se2, Bb b4, d5, f3, g6 (11)** und Schwarz: **Kd6, Ld7, Sc7, Se7, B e5 (5)** — Matt in zwei Zügen.
+**P. Pechenkin, 1962.** Weiß: **Kb3, Dd8, Td3, Th5, Lc1, Sa7, Se2, Bb b4, d5, f3, g6 (11)** und Schwarz: **Kd6, Ld7, Sc7, Se7, Be5 (5)** — Matt in zwei Zügen.
 
 **1. Sd4!** mit analogem Spiel — dies ist ein starker ideeller Vorgänger.
 
@@ -1237,7 +1265,7 @@ Große Schwierigkeiten beim Beweis der Unlösbarkeit ergeben sich in Studien ana
 
 **A. Bor**, 1981. Weiß: **Kd3, Tb8, Lb4, Se7, Bauern d5, f6 (6)** und Schwarz: **Kf7, Td7, Ld6, Bauern c5, h7 (5)** — Gewinn.
 
-In der Lösung des Autors endet der kombinatorische Kampf mit einem ökonomischen Matt: **1. Th8! Kxf6 2. Sg8+ Kg6! 3. Lc3 Le5! 4. Lxe5 Txd5+ 5. Ke4 Tex5! 6. Kxe5 Kg7** (der Turm ist gefangen, aber ...) **7. Sh6! Kxh8 8. Kf6 c4 9. Kf7 c3 10. Kf8 c2 11. Sf7X**.
+In der Lösung des Autors endet der kombinatorische Kampf mit einem ökonomischen Matt: **1. Th8! Kxf6 2. Sg8+ Kg6! 3. Lc3 Le5! 4. Lxe5 Txd5+ 5. Ke4 Txe5! 6. Kxe5 Kg7** (der Turm ist gefangen, aber ...) **7. Sh6! Kxh8 8. Kf6 c4 9. Kf7 c3 10. Kf8 c2 11. Sf7X**.
 
 Ein Gewinn nach ***3... Td8*** ist jedoch nicht ersichtlich, zum Beispiel: ***4. Le5 Lxe5 5. Se7 Kf6 6. Txd8 Kxe7 7. Tc8 Ld4 oder 4. Kc4 Te8 5. Lf6 Te3 6. Kb5 Lf8 7. Kc6 Lg7 8. d6! Lxh8 9. d7 Td3 10. Lxh8 Kf7! 11. Sf6 Ke7*** usw., womit letztendlich die Unlösbarkeit der Studie bewiesen ist.
 
@@ -1245,7 +1273,7 @@ Ein Gewinn nach ***3... Td8*** ist jedoch nicht ersichtlich, zum Beispiel: ***4.
 
 ![textual 37](./textuals/diagram0037.png)
 
-**Autor unbekannt, 19. Jahrhundert**. Weiß: **Kh3, De7, Ta8, Te2, Lc1, Lf3, Sc7, Sf8, Bauer g2 (9)** und Schwarz: **Kg8, Bauern f4, f5, f6, f7, h4, h5, h6, h7 (9)** — siehe Text.
+**Autor unbekannt, 19. Jahrhundert**. Weiß: **Kh3, De7, Ta8, Te2, Lc1, Lf3, Sc7, Sf8, Bauer g2 (9)** und Schwarz: **Kg8, Bauern f4, f5, f6, f7, h4, h5, h6, h7 (9)** — siehe Txet.
 
 Diese Aufgabe ging seinerzeit durch die gesamte Schachwelt und begeisterte durch ihre Ungewöhnlichkeit. Sie trägt den Namen "Der schlaue Soldat" (in Russland ist diese Stellung unter dem Titel "Wie man unter den Zaren durch die Reihen trieb" bekannt), und die Aufgabenstellung lautete, Matt mit dem Bauern g2 in vierzehn Zügen zu setzen.
 
@@ -1302,7 +1330,7 @@ In diesem Fall ist Weiß die aktive Seite, da die Initiative in ihrer Hand liegt
 
 **Fesselung** — eine bestimmte Figur kann sich nicht bewegen, da eine gegnerische Figur sonst eine wertvollere Figur schlagen würde, also aufgrund der Wirkung einer anderen Fernfigur, zum Beispiel auf den gegnerischen König, falls die ihn deckende Figur versuchen würde, wegzuziehen.
 
-**Lösen der Bindung** – eine gebundene Figur erlangt wieder Bewegungsfreiheit, beispielsweise indem eine andere Figur (eigene oder gegnerische) auf ein Feld zwischen der gebundenen Figur und dem König zieht (indirektes Lösen der Bindung) oder indem die bindende Figur die Bindungslinie verlässt (direktes Lösen der Bindung).
+**Lösen der Bindung** – eine gefesselte Figur erlangt wieder Bewegungsfreiheit, beispielsweise indem eine andere Figur (eigene oder gegnerische) auf ein Feld zwischen der gefesselten Figur und dem König zieht (indirektes Lösen der Bindung) oder indem die bindende Figur die Bindungslinie verlässt (direktes Lösen der Bindung).
 
 Schließlich steht in der Reihe der defensiven Ideen einer Aufgabe die Idee des **Schachs gegen den weißen König**, also die Bedrohung des gegnerischen Königs.
 
@@ -1344,14 +1372,14 @@ Eine der grundlegenden taktischen Ideen – die Interferenz einer weißen Figur 
 
 Hier (Nr. 58) wird das Somow-Thema in drei Varianten ausgedrückt. Nach **1. f4!** führen die Verteidigungen gegen die Drohung **2. Te5x** zur Einschaltung weißer Figuren: **1... d6**, wobei die weiße Dame auf das Feld b6 einschaltet, und es wird möglich, den Läufer a4 von diesem Feld auszuschalten — **2. Tb5x**, **1... Ld6** — aufgrund der Einschaltung der weißen Dame auf e6 ist die Ausschaltung des weißen Turms e2 möglich — **2. Se3x**, **1... Te6** — aufgrund der Einschaltung des Läufers h8 auf dem Feld d4 ist die Ausschaltung des Turms b4 möglich — **2. c4x**.
 
-Die Bindung, wie wir bereits erwähnt haben, kann entweder durch eine Halbbindung oder durch die Selbstbindung eigener Figuren erfolgen.
+Die Bindung, wie wir bereits erwähnt haben, kann entweder durch eine Halbfesselung oder durch die Selbstbindung eigener Figuren erfolgen.
 
-**Halbbindung** — eine Stellung auf dem Schachbrett, bei der zwei schwarze Figuren auf einer Linie zwischen einer weißen Fernfigur und dem schwarzen König stehen, und das Verlassen dieser Linie durch eine von ihnen zur Bindung der anderen führt.
+**Halbfesselung** — eine Stellung auf dem Schachbrett, bei der zwei schwarze Figuren auf einer Linie zwischen einer weißen Fernfigur und dem schwarzen König stehen, und das Verlassen dieser Linie durch eine von ihnen zur Bindung der anderen führt.
 
 **Nr. 59. A. Ellermann, «Good Companion», 1921, 1. Preis, Matt in 2 Zügen**  
 ![Nr. 59. A. Ellermann, «Good Companion», 1921, 1. Preis, Matt in 2 Zügen](./diagrams/diagram0059.png)
 
-Nr. 59. Die Halbbindung wird in fünf Varianten und im Zusammenhang mit anderen taktischen Ideen realisiert: **1. Sd7!** mit der Drohung **2. Sb6x**: **1... D:e6 2. T:d6x, 1... D:f3 2. S:f6x, 1... Ld4+ 2. Sc5x, 2...Lf4 2. Dd1x** und **1... Lg3 2. f4x**.
+Nr. 59. Die Halbfesselung wird in fünf Varianten und im Zusammenhang mit anderen taktischen Ideen realisiert: **1. Sd7!** mit der Drohung **2. Sb6x**: **1... D:e6 2. T:d6x, 1... D:f3 2. S:f6x, 1... Ld4+ 2. Sc5x, 2...Lf4 2. Dd1x** und **1... Lg3 2. f4x**.
 
 Die Selbstbindung kann direkt sein, wenn eine schwarze Figur auf die Bindungslinie zieht, und indirekt — wenn der schwarze König selbst auf diese Linie zieht.
 
@@ -1378,7 +1406,7 @@ Nr. 62. Ein effektiver erster Zug löst die thematische Figur und führt zu eine
 
 Abschließend analysieren wir eine weitere Stellung desselben Autors, die wir aus dem Buch des Großmeisters W. F. Rudenko "Die Verfolgung des Themas" entnommen haben. In ihr wird eine Kombination eines ganzen Komplexes sowohl angreifender als auch verteidigender Ideen entwickelt.
 
-![Textuelle Darstellung 42](./textuals/diagram0042.png)
+![Txetuelle Darstellung 42](./textuals/diagram0042.png)
 
 **C. Mansfield. "Hampshire Telegraph and Post", 1919, 1. Preis**. Weiß: **Kh2, De6, Tc1, Td5, La2, La5, Sa1, Sb3, Bauern c6, d2 (10)** und Schwarz: **Kc4, Dc2, Ta4, Th4, Lf1, Sc3, Se4, Bauern a3, h3 (9)** — Matt in zwei Zügen.
 
@@ -1412,7 +1440,7 @@ Im Zweizüger (Nr. 63) wurden zwei Albino-Mechanismen in Scheinspuren verwendet:
 **Nr. 64. A. Weinshtein, "Pionerskaja Pravda", 1931, 1. Preis, Matt in 2 Zügen**  
 ![Nr. 64. A. Weinshtein, "Pionerskaja Pravda", 1931, 1. Preis, Matt in 2 Zügen](./diagrams/diagram0064.png)
 
-In der Aufgabe (Nr. 64) ist eine Synthese dieser beiden Kombinationen dargestellt. Nach **1. De8!**, wobei man sich gegen die Drohung **2. Sdf6X** verteidigt, befreien die Schwarzen ihren gebundenen Läufer g6 in der Hoffnung, dass Weiß diesen bei dem Versuch, die Drohung durchzuführen, entbindet – darin liegt der Kern der Anti-Getgart-Verteidigung. Der Zug **1... f5** führt jedoch zu einer Überdeckung desselben Läufers auf einer anderen Diagonale, wovon die Weißen Gebrauch machen, indem sie **2. Sef6X** spielen, wodurch der überdeckte Läufer entbunden wird – dies ist das Thema der Getgart-Überdeckung.
+In der Aufgabe (Nr. 64) ist eine Synthese dieser beiden Kombinationen dargestellt. Nach **1. De8!**, wobei man sich gegen die Drohung **2. Sdf6X** verteidigt, befreien die Schwarzen ihren gefesselten Läufer g6 in der Hoffnung, dass Weiß diesen bei dem Versuch, die Drohung durchzuführen, entbindet – darin liegt der Kern der Anti-Getgart-Verteidigung. Der Zug **1... f5** führt jedoch zu einer Überdeckung desselben Läufers auf einer anderen Diagonale, wovon die Weißen Gebrauch machen, indem sie **2. Sef6X** spielen, wodurch der überdeckte Läufer entbunden wird – dies ist das Thema der Getgart-Überdeckung.
 
 **Weiße Korrektur** ist ein Mechanismus, der vier Elemente einer Aufgabe zu einem zusammenhängenden Komplex synthetisiert: einen indifferenten ersten Zug einer weißen Figur; die durch diesen indifferenten Zug erzeugte Drohung; die Widerlegung der Drohung und einen präzisen, korrigierenden Zug derselben weißen Figur, der die Widerlegung ihres indifferenten Zuges verhindert.
 
@@ -1436,7 +1464,7 @@ Das Thema der weißen Kombinationen ist in Problem Nr. 66 originell umgesetzt. H
 
 In drei Varianten der Stellung (Nr. 67) wird das **Anti-Bristol-Thema** realisiert — die schwarze Dame schließt dem Läufer, indem sie ihm entgegenzieht, den Weg zum benötigten Feld. **1. De2!** mit der Drohung **2. Df3+: 1... Dc3 2. S:b7, 1... Dd4 2. K:c7** und **1... De5 2. Sf7**: jeweils mit Matt 3. Sb6X oder 3. Se7X, da Schwarz den Zug 2...Lf6 nicht hat.
 
-**Bukowiner Thema** — ein Thema des unorthodoxen Genres der Schachkomposition: In einer Aufgabe zum kooperativen Matt (laut Bedingung wirken in solchen Aufgaben die Schwarzen den Plänen von Weiß nicht entgegen, wie bei Aufgaben des gewöhnlichen Typs, sondern helfen ihnen im Gegenteil, den schwarzen König in einer vorgegebenen Anzahl von Zügen zu mattieren; in der Regel beginnen sie auch die Lösung) wird ein beliebiges Feld in der Nähe des schwarzen Königs von einer weißen Figur kontrolliert, welche von Schwarz eliminiert wird, aber das kontrollierte Feld wird dann von Schwarz selbst blockiert. Autor ist der ukrainische Problemist, Doktor der physikalisch-mathematischen Wissenschaften N. I. Nagnibida (Stadt Czernowitz).
+**Bukowiner Thema** — ein Thema des unorthodoxen Genres der Schachkomposition: In einer Aufgabe zum kooperativen Matt (laut Bedingung wirken in solchen Aufgaben die Schwarzen den Plänen von Weiß nicht entgegen, wie bei Aufgaben des gewöhnlichen Typs, sondern helfen ihnen im Gegenteil, den schwarzen König in einer vorgegebenen Anzahl von Zügen mattzusetzen; in der Regel beginnen sie auch die Lösung) wird ein beliebiges Feld in der Nähe des schwarzen Königs von einer weißen Figur kontrolliert, welche von Schwarz eliminiert wird, aber das kontrollierte Feld wird dann von Schwarz selbst blockiert. Autor ist der ukrainische Problemist, Doktor der physikalisch-mathematischen Wissenschaften N. I. Nagnibida (Stadt Czernowitz).
 
 ![textual 45](./textuals/diagram0045.png)
 
@@ -1468,7 +1496,7 @@ Hier (Nr. 68) wird das Thema in einer Rekordzahl (im Sinne von Tasker) an Varian
 
 Nr. 69. **1. Kh6! Le5 2. Kg7! Lh2 3. c4! bc 4. e5! Lxe5! 5.bc Lxf6+ 6. gf Th8 7. Kxh8 Kd7 8. Kg8! Ke6 9. Kg7** mit Gewinn.
 
-Eine schöne Etüde, deren Wert nicht nur in der Endposition liegt, in der der König über den Turm dominiert, sondern auch im gesamten vorangegangenen feinen Spiel zur Erzeugung eines Zugzwangs. Die Endposition der Etüde hat natürlich eine große praktische Bedeutung.
+Eine schöne Studie, deren Wert nicht nur in der Endposition liegt, in der der König über den Turm dominiert, sondern auch im gesamten vorangegangenen feinen Spiel zur Erzeugung eines Zugzwangs. Die Endposition der Studie hat natürlich eine große praktische Bedeutung.
 
 **Dresden-Thema** – eine logische Kombination, bei der die Widerlegung des Hauptplans im Probespiel und das vorbereitende Manöver durch Züge einer schwarzen Figur erfolgen, während die daraus resultierende neue Verteidigung gegen den Hauptplan durch den Zug einer anderen schwarzen Figur erfolgt.
 
@@ -1504,7 +1532,7 @@ Verteidigung auf dem Drohfeld ist ein Komplex aus einer Drohung und zwei oder me
 **Nr. 71. W. Granzhkovsky "Shakhy", 1947, 1. Preis, Matt in 3 Zügen**  
 ![Nr. 71. W. Granzhkovsky "Shakhy", 1947, 1. Preis, Matt in 3 Zügen](./diagrams/diagram0071.png)
 
-Nr. 71. Das erste dreivariante Drei-Züger zu diesem Thema. **1. Le8!** mit der Drohung **2. Sg4! — 3. S:h6X: 1... Tg4! 2. Sf7! T— 3. S:h6X, 1... Lg4! 2. Sc4! Lh3** und **3. S:e3X** und schließlich **1... g4! 2. Dd5! Kg5 3. S:f3X**. Die Drohung und die ersten zwei Varianten enden mit korrekten Matten.
+Nr. 71. Das erste dreivariante Drei-Züger zu diesem Thema. **1. Le8!** mit der Drohung **2. Sg4! — 3. S:h6X: 1... Tg4! 2. Sf7! T— 3. S:h6X, 1... Lg4! 2. Sc4! Lh3** und **3. S:e3X** und schließlich **1... g4! 2. Dd5! Kg5 3. S:f3X**. Die Drohung und die ersten zwei Varianten enden mit Modellmatts.
 
 **Nitwelt-Verteidigung** — eine Kombination, bei der die Verteidigung der Schwarzen gegen eine Bedrohung durch eine Selbstfesselung erfolgt, mit dem Ziel, dass die Weißen die gefesselte schwarze Figur im Falle der Ausführung der Bedrohung direkt lösen.
 
@@ -1557,7 +1585,7 @@ Nr. 75. Nach **1. Sg5** öffnen die Schwarzen, um sich gegen die Bedrohung **2. 
 **№ 76. M. Barulin, «Bristol Times», 1930, Matt in 2 Zügen**  
 ![№ 76. M. Barulin, «Bristol Times», 1930, Matt in 2 Zügen](./diagrams/diagram0076.png)
 
-№ 76. Nach **1. La5 d3** ist der schwarze Läufer f4 gebunden, und die Frontbatterie kann mattsetzen. Der Läufer c6 hat zwei Möglichkeiten, den Turm freizuspielen; jedoch ist der Zug 2. Le4? ein Versuch, da der schwarze Läufer entbunden wird; die Lösung ist nur **2. Lf3X**. Ähnlich verhält es sich nach 1... Lc1: Nur **2. e3X** setzt matt, nicht aber 2. e4X? aufgrund der Entbindung des schwarzen Bauern.
+№ 76. Nach **1. La5 d3** ist der schwarze Läufer f4 gefesselt, und die Frontbatterie kann mattsetzen. Der Läufer c6 hat zwei Möglichkeiten, den Turm freizuspielen; jedoch ist der Zug 2. Le4? ein Versuch, da der schwarze Läufer entbunden wird; die Lösung ist nur **2. Lf3X**. Ähnlich verhält es sich nach 1... Lc1: Nur **2. e3X** setzt matt, nicht aber 2. e4X? aufgrund der Entbindung des schwarzen Bauern.
 
 **Springer-Rad** — ein Mechanismus des achtfachen Spiels eines weißen oder schwarzen Springers, der im Zentrum des Brettes steht.
 
@@ -1703,7 +1731,7 @@ Nr. 88. Hier wird das Sambor-Thema erstmals durch das Spiel einer Turmbatterie a
 
 Die Lösung erfolgt durch den symmetrischen Zug des Läufers nach links: **1. Lb6!** — Zugzwang: **1... Tc3 2. Te3#, 1... Tc2 2. Te2# und 1... Tc1 2. Te1#**. Zusatzspiel: **1... S5— 2. Sc7#, 1... S7— 2. Sf6# und 1... Tc4 2. bxc#**.
 
-**Systematische Ideen** — Ideen in einer Etüde (seltener in einem Problem), bei denen eine oder mehrere Figuren in ihrer Bewegung ein bestimmtes, periodisch wiederkehrendes System bilden.
+**Systematische Ideen** — Ideen in einer Studie (seltener in einem Problem), bei denen eine oder mehrere Figuren in ihrer Bewegung ein bestimmtes, periodisch wiederkehrendes System bilden.
 
 ![textual 52](./textuals/diagram0052.png)
 
@@ -1738,7 +1766,7 @@ Gelöst wird es durch **1. Sc6! (C)** — der dritte mattsetzende Zug des illuso
 
 ![textual 53](./textuals/diagram0053.png)
 
-**E. Bogdanov und A. Vasilenko, "Głos ludu", 1983**. Weiß: **Kh7, Dh5, Tb6, Td7, Lg8, B e6, c7 (7)** und Schwarz: **Kf6, Ta8, La1, B d6, f7 (5)** — Matt in zwei Zügen.
+**E. Bogdanov und A. Vasilenko, "Głos ludu", 1983**. Weiß: **Kh7, Dh5, Tb6, Td7, Lg8, Be6, c7 (7)** und Schwarz: **Kf6, Ta8, La1, Bd6, f7 (5)** — Matt in zwei Zügen.
 
 In der Meredith-Form wird die Idee ausgedrückt, das betrachtete Thema mit einem Wechsel nach dem Typ "erster Zug – Drohung" zu verbinden. Zuerst ist alles bereit: *1... K:e6 2. Tb6xd6+ (A)* und *1... d5 2. exf+ (B)*, dann ein falsches Spiel *1. Tb6xd6? (A)* — Drohung *2. exf+ (B)*; *1... Ta6 2. Sc8+* und *1... fxe 2. T:e6*, aber *1... Le5!* und schließlich die Lösung **1. exf! (B)** — Drohung **2. Tb6xd6+ (A); 1... Ta6 2. Df8+** und **1... Le5 2. Dg6+**.
 
@@ -1746,7 +1774,7 @@ In der Meredith-Form wird die Idee ausgedrückt, das betrachtete Thema mit einem
 
 ![textual 54](./textuals/diagram0054.png)
 
-**J. Brabec. «Slowakischer Schachbund», 1970, 1. Preis**. Weiß: **Kh5, Dc1, Tc4, Tg8, Le8, Le1, Se7, Sf7, B d5, h2 (10)** und Schwarz: **Kf4, Ta3, Tf2, Le4, Lg7, Sh3, B c7, f3, h7 (9)** — Matt in zwei Zügen.
+**J. Brabec. «Slowakischer Schachbund», 1970, 1. Preis**. Weiß: **Kh5, Dc1, Tc4, Tg8, Le8, Le1, Se7, Sf7, Bd5, h2 (10)** und Schwarz: **Kf4, Ta3, Tf2, Le4, Lg7, Sh3, Bc7, f3, h7 (9)** — Matt in zwei Zügen.
 
 *1. d6?* mit der Drohung *2. Sd5+: 1... Td2* (direkte Verteidigung) *2. Lg3+, 1... Ld4* (Lösen der Bindung) *2. Tg4+* — aber *1... c6!; 1. Lf5?* mit der Drohung *2. T:e4+: 1... Td2* (Lösen der Bindung) *2. Lg3+, 1... Ld4* (Blockierung) *2. Tg4+* — aber *1... Sg5!* und **1. Sf5!** mit der Drohung **2. D:e3+: 1... Td2** (Blockierung) **2. Lg3+** und **1... Ld4** (direkte Verteidigung) **2. Tg4+**.
 
@@ -1754,11 +1782,11 @@ In der Meredith-Form wird die Idee ausgedrückt, das betrachtete Thema mit einem
 
 ![textual 55](./textuals/diagram0055.png)
 
-**E. Visserman. «NVVG», 1946**. Weiß: **Kc7, Lf7, Lg5, Sd2, Se2, B f2, h4 (7)** und Schwarz: **Ke5, Sb7, B f4, f5, g6, g7 (6)** — Matt in vier Zügen.
+**E. Visserman. «NVVG», 1946**. Weiß: **Kc7, Lf7, Lg5, Sd2, Se2, Bf2, h4 (7)** und Schwarz: **Ke5, Sb7, Bf4, f5, g6, g7 (6)** — Matt in vier Zügen.
 
 **1. Lc4!** mit der Drohung **2. Lxf4+ Kf6 3. Lg5+ Ke5 4. f4+** — thematisches Feld f4: **1... f3 2. Sxf3+ Ke4 3. Sd2+ Ke5 4. f4+** — thematisches Feld f3.
 
-**Getgard-Thema** — die Blockierung einer gebundenen schwarzen Figur durch eine andere schwarze Figur, wodurch die Weißen die Möglichkeit erhalten, diese gebundene Figur indirekt zu lösen.
+**Getgard-Thema** — die Blockierung einer gefesselten schwarzen Figur durch eine andere schwarze Figur, wodurch die Weißen die Möglichkeit erhalten, diese gefesselte Figur indirekt zu lösen.
 
 **Nr. 92. G. Getgard, «Allgemeine Handelsblatt», 1917, 3. ehrende Erwähnung, Matt in 2 Zügen**  
 ![№ 92. Г. Гетгарт, «Альгемайн хандельблад», 1917, 3-й почетный отзыв, Мат в 2 хода](./diagrams/diagram0092.png)
@@ -1774,7 +1802,7 @@ Nr. 92. Nach **1. Sg5!** mit der Drohung **2. Se4+** blockiert der schwarze Spri
 
 Die Lösung ist **1. Kf6!** mit der Drohung **2. Dxe5**, wobei aufgrund der taktischen Sättigung (der König verlässt die Linie der Fesselung, zusätzliche Kontrolle der Felder e5 und e6) die ehemaligen Widerlegungen die Ursache für die zuvor gedrohten Matts werden — **1... c6 2. Lxe6, 1... e4 2. Sxe3** und **1... Lxd7 2. Sxe7**.
 
-**Zakman-Thema** — erstens: in einer Problemstudie die Figurenverdoppelung durch ein Umwegmanöver anstelle eines kritischen Zuges; zweitens: in einer Etüde versperrt ein schwarzer Bauer den Rückzug seines angegriffenen Läufers.
+**Zakman-Thema** — erstens: in einer Problemstudie die Figurenverdoppelung durch ein Umwegmanöver anstelle eines kritischen Zuges; zweitens: in einer Studie versperrt ein schwarzer Bauer den Rückzug seines angegriffenen Läufers.
 
 **№ 94. Z. Birnow, "Schach in der UdSSR", 1946, Gewinn**  
 ![№ 94. Z. Birnow, "Schach in der UdSSR", 1946, Gewinn](./diagrams/diagram0094.png)
@@ -1889,7 +1917,7 @@ Hier (Nr. 105) tritt das Thema der fortgesetzten Verteidigung in Kombination mit
 
 Das Verteidigungsmoment – die Aktivierung der schwarzen Figuren – widerlegt nicht nur die ursprüngliche Drohung, sondern sorgt auch für eine präzise Trennung der Matte – die fortgesetzte Verteidigung. Zusätzliches Spiel – **1... Sdc5 2. D:c4#**, **1... Sec5 2. Sb5#** und **1... Sc7 2. Sc6#**.
 
-**Das Rice-Thema** – besteht in der Wahl zwischen zwei Systemen ideeller Varianten mit einer zweifachen Entbindung einer Figur, die durch den weißen Eröffnungszug gebunden wurde, und basiert gewöhnlich auf dem Mechanismus des einfachen Spielwechsels.
+**Das Rice-Thema** – besteht in der Wahl zwischen zwei Systemen ideeller Varianten mit einer zweifachen Entbindung einer Figur, die durch den weißen Eröffnungszug gefesselt wurde, und basiert gewöhnlich auf dem Mechanismus des einfachen Spielwechsels.
 
 **Nr. 106. J. Rice, Wettbewerb der British Chess Problem Union, 1957, 1. Preis, Matt in 2 Zügen**  
 ![Nr. 106. J. Rice, Wettbewerb der British Chess Problem Union, 1957, 1. Preis, Matt in 2 Zügen](./diagrams/diagram0106.png)
@@ -1987,13 +2015,13 @@ Zweitens: Synthese von wiederholten Drohungen und zusätzlicher Verteidigung. In
 Drittens: **Fleck-Karlström-Thema** — nach dem Schlüsselzug entstehen mehrere Drohungen: die Anzahl der Verteidigungen in der Stellung muss gleich der Anzahl der Drohungen sein, und im Spiel beseitigen sie sofort alle Drohungen, folglich sind die mattsetzenden Züge bereits andere.
 
 ![textual 61](./textuals/diagram0061.png)
-**A. Karlström, "Problemisten", 1947**. Weiß: **Sc4, Dh6, Tg1, Tg4, Lg7, Sa6, Se7, B a2, b2, b3, b4 (11)** und Schwarz: **Kd4, De5, Te4, Th7, Lh8, Sa8, B a3, a5, d3 (9)**; Matt in zwei Zügen.
+**A. Karlström, "Problemisten", 1947**. Weiß: **Sc4, Dh6, Tg1, Tg4, Lg7, Sa6, Se7, Ba2, b2, b3, b4 (11)** und Schwarz: **Kd4, De5, Te4, Th7, Lh8, Sa8, Ba3, a5, d3 (9)**; Matt in zwei Zügen.
 
 **1. Sc7!** und vier Drohungen **2. Sb5#, Sc6#, Se6#, Sf5#**: **1... K:c7 2. Db6#, 1... d2 2. D:d2#, 1... Tf4 2. D:f4#** und **1... T:g4 2. T:g4#**.
 
 **Das Fro-Thema** — ein Thema der Wiedergeburt in einem retroanalytischen Spiel von mindestens drei umgewandelten Figuren.
 
-Beachten wir, dass gemäß dem Schachkodex der UdSSR die retrograde Analyse zu den besonderen Arten der Komposition gehört, und das ist verständlich — denn entsprechend eben diesem Kodex wird an jedes Problem oder jede Etüde die Grundforderung der Legalität der Stellung gestellt. Das heißt, eine Stellung gilt als legal, wenn sie aus der ursprünglichen Aufstellung der Figuren mittels einer Beweispartie erreicht werden kann. Die Überprüfung einer Stellung auf Legalität wird als retrograde Analyse bezeichnet.
+Beachten wir, dass gemäß dem Schachkodex der UdSSR die retrograde Analyse zu den besonderen Arten der Komposition gehört, und das ist verständlich — denn entsprechend eben diesem Kodex wird an jedes Problem oder jede Studie die Grundforderung der Legalität der Stellung gestellt. Das heißt, eine Stellung gilt als legal, wenn sie aus der ursprünglichen Aufstellung der Figuren mittels einer Beweispartie erreicht werden kann. Die Überprüfung einer Stellung auf Legalität wird als retrograde Analyse bezeichnet.
 
 **Nr. 114. A. Frolkin, "Probleembad", 1981, 3. ehrende Erwähnung, Wie entstand die Stellung?**  
 ![Nr. 114. A. Frolkin, "Probleembad", 1981, 3. ehrende Erwähnung, Wie entstand die Stellung?](./diagrams/diagram0114.png)
@@ -2006,7 +2034,7 @@ Und hier ist die kritische Stellung dieser Aufgabe, d. h. die Stellung, mit der 
 
 ![textual 62](./textuals/diagram0062.png)
 
-Weiß: **Kg5, Db8, Ta1, Td6, Lc1, Ld7, Sh8, B a2, b2, c3, d2, e2, f7, g4, h5 (15)** und Schwarz: **Kd8, De8, Tb7, Tc7, La7, Ld3, Sa8, Sc8, B a6, b6, c6, d5, e6, e7, g6, h7 (16)**. Weiß ist am Zug.
+Weiß: **Kg5, Db8, Ta1, Td6, Lc1, Ld7, Sh8, Ba2, b2, c3, d2, e2, f7, g4, h5 (15)** und Schwarz: **Kd8, De8, Tb7, Tc7, La7, Ld3, Sa8, Sc8, Ba6, b6, c6, d5, e6, e7, g6, h7 (16)**. Weiß ist am Zug.
 
 **Das Hannelius-Thema** — benannt nach dem finnischen Problemist Jan Hannelius, ist eng verwandt mit dem Dombrowskis-Thema, aber bei ihm folgt auf die Verteidigung "a" ein Matt B und auf die Verteidigung "b" ein Matt der Drohung A. Bei diesem Thema erfolgt das Matt aus der Drohung in einem Versuch in der Lösung nach einem Zug, der den anderen Versuch widerlegt, und umgekehrt.
 
@@ -2072,7 +2100,7 @@ Das Ergebnis ist ein zyklischer Wechsel von drei weißen Antworten auf zwei kons
 **№ 118. W. Holzhausen, "Deutsche Wochenschach", 1909, Matt in 3 Zügen**  
 ![№ 118. W. Holzhausen, "Deutsche Wochenschach", 1909, Matt in 3 Zügen](./diagrams/diagram0118.png)
 
-Diagramm Nr. 118. In der Ausgangsposition ist die schwarze Dame an zwei Felder gebunden – b7 und b3, die sogenannten fokalen Felder, von denen aus der weiße Springer Matt droht. Der Plan der Weißen besteht darin, die Dame von der gleichzeitigen Verteidigung beider Felder abzulenken. Der Versuch, sofort *1. Lc4?* zu spielen, wird durch die Antwort *1... Df3!* widerlegt – die Dame nutzt einen neuen Knotenpunkt, um beide gefährlichen Felder im Visier zu behalten. Die Weißen besetzen vorab die dritte Reihe – **1. c4!**, und erst nach **1... dxc** führen sie den Hauptplan aus – **2. Lc4!**.
+Diagramm Nr. 118. In der Ausgangsposition ist die schwarze Dame an zwei Felder gefesselt – b7 und b3, die sogenannten fokalen Felder, von denen aus der weiße Springer Matt droht. Der Plan der Weißen besteht darin, die Dame von der gleichzeitigen Verteidigung beider Felder abzulenken. Der Versuch, sofort *1. Lc4?* zu spielen, wird durch die Antwort *1... Df3!* widerlegt – die Dame nutzt einen neuen Knotenpunkt, um beide gefährlichen Felder im Visier zu behalten. Die Weißen besetzen vorab die dritte Reihe – **1. c4!**, und erst nach **1... dxc** führen sie den Hauptplan aus – **2. Lc4!**.
 
 **Französisch-Sowjetisches Thema** — jede thematische falsche Fährte erzeugt Schwächen bei den Weißen, welche die Schwarzen bei der Widerlegung ausnutzen.
 
@@ -2101,7 +2129,7 @@ Nach *1. Dd6?* mit der Drohung *2. D:f6X* binden Schwarz im Verteidigungsfall se
 **Nr. 120. L. Gugel, "64", 1929, 6. Preis, Matt in 2 Zügen**  
 ![Nr. 120. L. Gugel, "64", 1929, 6. Preis, Matt in 2 Zügen](./diagrams/diagram0120.png)
 
-Diagramm Nr. 120. Durch die Anwendung des Mechanismus der schwarzen Korrektur wird in der Aufgabe ein komplexer Verbund taktischer Ideen realisiert. Nach **1. Td3!** droht **2. Sc3X**. Um diese Drohung abzuwehren, genügt es, den Springer f3 zu bewegen — der weiße Springer e2 wird dadurch gebunden. Gleichzeitig wird jedoch auch der schwarze Turm e4 gebunden, wodurch eine neue, wiederholte Bedrohung **2. S6f4X** entsteht. Um auch diese Drohung abzuwehren, befreit der schwarze Springer seinen Turm f5, was jedoch mit der Blockierung anderer schwarzer Figuren einhergeht — **1... Se5! 2. T:d4X** und **1... Sg5! 2. Se7X** — erneut mit der Bindung des Turms e4.
+Diagramm Nr. 120. Durch die Anwendung des Mechanismus der schwarzen Korrektur wird in der Aufgabe ein komplexer Verbund taktischer Ideen realisiert. Nach **1. Td3!** droht **2. Sc3X**. Um diese Drohung abzuwehren, genügt es, den Springer f3 zu bewegen — der weiße Springer e2 wird dadurch gefesselt. Gleichzeitig wird jedoch auch der schwarze Turm e4 gefesselt, wodurch eine neue, wiederholte Bedrohung **2. S6f4X** entsteht. Um auch diese Drohung abzuwehren, befreit der schwarze Springer seinen Turm f5, was jedoch mit der Blockierung anderer schwarzer Figuren einhergeht — **1... Se5! 2. T:d4X** und **1... Sg5! 2. Se7X** — erneut mit der Bindung des Turms e4.
 
 Hier enthalten die Züge von Schwarz zwei Verteidigungsmomente und darüber hinaus zwei Schwächungen; ihre Sättigung mit taktischen Ideen nimmt erheblich zu.
 
@@ -2136,7 +2164,7 @@ Im Laufe seines Lebens als Schachkomponist stößt ein Problemsteller oder Studi
 
 Welche Faktoren bestimmen solche Phänomene? Es gibt viele Erklärungen. Dazu gehören die Rückkehr zu verworfenen Positionen oder zu Ideen mit schwieriger Ausarbeitung, die großen Aufwand erforderten.
 
-Und dann gibt es glückliche Geistesblitze, bei denen eine Idee augenblicklich in Form einer fertigen Komposition entsteht; in den meisten Fällen werden dabei Positionen geschaffen, deren Feinschliff nur geringen Aufwand und Zeit für die abschließende Prüfung auf Fehler sowie die Annahme der Aufgabe oder Etüde als fertiges Kunstwerk erfordert.
+Und dann gibt es glückliche Geistesblitze, bei denen eine Idee augenblicklich in Form einer fertigen Komposition entsteht; in den meisten Fällen werden dabei Positionen geschaffen, deren Feinschliff nur geringen Aufwand und Zeit für die abschließende Prüfung auf Fehler sowie die Annahme der Aufgabe oder Studie als fertiges Kunstwerk erfordert.
 
 Es muss sofort darauf hingewiesen werden, dass es nicht so einfach ist, das Stellen von Aufgaben oder Studien zu lehren. Es ist jedoch möglich, einem Schachspieler, der sich der kompositorischen Arbeit widmen möchte, die Technik des Konstruierens näherzubringen, den Denkprozess eines Komponisten teilweise offenzulegen und so weiter.
 
@@ -2196,7 +2224,7 @@ Die Aufgabe ist nun endlich fertig, es sind keine Mängel mehr erkennbar. Damit 
 
 Folglich ist Nr. 123 ein zweizügiges Problem (Task): fünf solcher thematischer Varianten sind die maximale Anzahl für das gewählte Schema.
 
-Der Prozess der Aufstellung der Aufgabe war in diesem Fall nicht kompliziert. Auf dem Brett war, wie man so sagt, bereits ein arbeitendes Schema vorhanden. Der Rest war eine Frage der Technik. Und zwar ebenfalls eine einfache.
+Der Prozess der Aufstellung der Aufgabe war in diesem Fall nicht kompliziert. Auf dem Brett war, wie man so sagt, bereits ein arbeitendes Schema vorhanden. Der Rest war eine Frage der Technik. Und allerdings ebenfalls eine einfache.
 
 Sie haben bemerkt, dass beim Konstruieren von Aufgaben Techniken wie die Brettdrehung, das Verschieben von Figuren nach rechts-links, oben-unten, das Ersetzen bestimmter Figuren durch andere usw. weit verbreitet sind. Im Grunde ist die weiße Dame in einer Aufgabe eine sehr aggressive Figur für den Schlüsselzug. In diesem Zwei-Züger kann sie durch einen Turm ersetzt werden, und durch bestimmte Umstellungen, "Zähmungen" usw. gelangt man zur folgenden Position: Weiß – **Ka2, Dg5, Ta6, Td2, Lf6, Sc3, Sf5, p. a3 (8)** und Schwarz – **Kc5, De5, Th6, Lg1, Lh5, Sh1, pp. b5, c4, f7 (9)**; Matt in zwei Zügen – dann erscheint 1. Tb2! als ein weniger offensichtlicher Schlüsselzug.
 
@@ -2263,7 +2291,7 @@ Es wird angenommen, dass Methoden wie die konstruktive Vorbereitung von Matt ode
 
 Von den strategischen Methoden wendet der Komponist am häufigsten die **Methode der Initiativeübergabe** an. Ebenfalls sehr populär ist eine eigenartige Methode wie der **materielle Vorteil**.
 
-Das Wesen der **Technik des Transfers des thematischen Spiels** besteht darin – wie der internationale Meister der Schachkomposition A. O. Gerbstman in seinem Buch "Ausgewählte Schachstudien" schreibt –, eine bestimmte Idee, die das künstlerische Ziel in einem Schachwerk bildet und die Grundlage seines Inhalts darstellt, als Mittel zum Ausdruck einer anderen Idee zu verwenden, also eine bestimmte Idee als bloßes Mittel einzusetzen.
+Das Wesen der **Technik des Transfers des thematischen Spiels** besteht darin – wie der internationale Meister der Schachkomposition A. O. Herbstman in seinem Buch "Ausgewählte Schachstudien" schreibt –, eine bestimmte Idee, die das künstlerische Ziel in einem Schachwerk bildet und die Grundlage seines Inhalts darstellt, als Mittel zum Ausdruck einer anderen Idee zu verwenden, also eine bestimmte Idee als bloßes Mittel einzusetzen.
 
 Zum Beispiel kann ein solches Mittel die Übertragung der Idee der Figurenbindung aus dem Hauptspiel vieler Studien in eine thematische falsche Fährte sein, während das Ziel (die Pointe des Spiels), sein thematischer Höhepunkt, eine völlig andere Idee ist – die Idee des "Verzichts auf den Schlag"; oder beispielsweise wird dieselbe Bindungsidee in die Einleitung verlagert, während im Hauptspiel die Idee der figürlichen Feldkorrespondenz ausgeführt wird.
 
@@ -2282,7 +2310,7 @@ Betrachten wir einige Beispiele für diese Kompositionsmethoden. Die ersten beid
 
 ![textual 68](./textuals/diagram0068.png)
 
-_ **Capablanca—Steiner. Los Angeles, 1933**. Weiß: **Kh1, Dh5, Ta1, Tf1, Sh4, B a2, c2, c3, d3, e4, g2, h2 (12)** — Schwarz: **Kg7, Dd8, Ta8, Tg8, Se7, B a7, b7, c6, e5, e6, f6, h7 (12)**; Weiß am Zug.
+_ **Capablanca—Steiner. Los Angeles, 1933**. Weiß: **Kh1, Dh5, Ta1, Tf1, Sh4, Ba2, c2, c3, d3, e4, g2, h2 (12)** — Schwarz: **Kg7, Dd8, Ta8, Tg8, Se7, Ba7, b7, c6, e5, e6, f6, h7 (12)**; Weiß am Zug.
 In dieser Stellung durchbrach der Ex-Weltmeister überraschend mit einem Turmopfer die Verteidigung seines Gegners — **1. Tf6! Kxf6 2. Tf1+ Kf5 3. Nxf5! exf5 4. Rxf5+ Ke7 5. Qf7+ Kd6 6. Tf6+ Kc5 7. Qxb7 Qb6 8. Rxc6+! Qxc6 9. Qb4#**.
 
 **Nr. 125. B. Olympiev, Jubiläumswettbewerb von J. Beck, 1981–1982, 1. ehrende Erwähnung, Gewinn**  
@@ -2298,13 +2326,13 @@ Dieser Moment aus einer Praxispartie wurde bereits in einer Studie (Nr. 125) ver
 
 **6. Rd2+ Ke6 7. Rd6+ Kf5 8. Dg7 Dg6 9. Rxf6+ Qxf6 10. Dg4#**.
 
-Die folgenden zwei Beispiele aus dem Buch von A. O. Gerbstman "Ausgewählte Schachstudien" präsentieren wir Ihnen.
+Die folgenden zwei Beispiele aus dem Buch von A. O. Herbstman "Ausgewählte Schachstudien" präsentieren wir Ihnen.
 
 ![textual 69](./textuals/diagram0069.png)
 
 Weiß: **Kc2, Ta6 (2)** — Schwarz: **Ke8, Tf4, Sc1, Sc4 (4)**; Remis.
 
-Vor uns liegt das Finale einer Studie mit der Idee eines positionellen Remis zum Thema des ewigen Angriffs: Der Springer c1 kann nicht nach a2 zurückweichen, da dieses Feld unter direktem Angriff des Turms steht; das Feld e2 ist ihm aufgrund eines indirekten Angriffs des Turms nicht zugänglich — Te6+ und Tex2 mit Remis; die Felder b3 und d3 stehen unter der Kontrolle des Königs.
+Vor uns liegt das Finale einer Studie mit der Idee eines positionellen Remis zum Thema des ewigen Angriffs: Der Springer c1 kann nicht nach a2 zurückweichen, da dieses Feld unter direktem Angriff des Turms steht; das Feld e2 ist ihm aufgrund eines indirekten Angriffs des Turms nicht zugänglich — Te6+ und Txe2 mit Remis; die Felder b3 und d3 stehen unter der Kontrolle des Königs.
 
 Da der Springer keinen Rückzugsort hat, muss er verteidigt werden — Tf1; dann greift der König den zweiten Springer an — Kc3; es ist leicht zu sehen, dass der Springer c4 in einer ebenso beklagenswerten Lage ist wie sein Kamerad auf c1, obwohl er frei steht: alle ihm verfügbaren Felder — in diesem Fall das Maximum für einen Springer, also acht Felder — sind angegriffen: a3, a5, b2, b6, d2, d6 stehen unter direktem Angriff, während e3 und c5 unter indirektem Angriff stehen; er hat keinen Rückzugsort.
 
@@ -2516,7 +2544,7 @@ In letzter Zeit gewinnt die Methode zur Verbesserung des technischen Könnens be
 
 Wir sind der Ansicht, dass von den genannten Methoden zur Verbesserung der persönlichen Kompositionstechnik die zweite Methode – die Beseitigung von Mängeln der Komposition – für angehende Problem- oder Studienkomponisten die fruchtbarste ist. Dies wird dadurch gerechtfertigt, dass erstens der Schachspieler eine bereits fertige Stellung vor Augen hat und zweitens ihren Mangel kennt; folglich bleibt ihm nur, mithilfe seiner Fantasie und der bereits erworbenen Fähigkeiten ein vollwertiges Werk der Schachkunst zu schaffen.
 
-Wir bieten Ihnen ein eigenartiges Praktikum für Schachkomponisten an. Im ersten Teil sind inkorrekte (mangelhafte) Kompositionen aufgeführt, und zwar aller Hauptarten der Komposition; im zweiten Teil finden sich die korrigierten Arbeiten. Nach der selbstständigen Beseitigung des jeweiligen Mangels kann der angehende Studien- oder Problemkomponist seine Stellung mit der im Buch angegebenen Stellung vergleichen.
+Wir bieten Ihnen ein eigenartiges Praktikum für Schachkomponisten an. Im ersten Teil sind inkorrekte (mangelhafte) Kompositionen aufgeführt, und allerdings aller Hauptarten der Komposition; im zweiten Teil finden sich die korrigierten Arbeiten. Nach der selbstständigen Beseitigung des jeweiligen Mangels kann der angehende Studien- oder Problemkomponist seine Stellung mit der im Buch angegebenen Stellung vergleichen.
 
 ### Aufgabe Nr. 1. Nebenlösung beseitigen
 
@@ -2662,13 +2690,13 @@ Alternative Lösung — *1. f4 hxg 2. Sg5 Kh5 3. Lc5! Kh6 4. Lf8 Kh5 5. Se4 Kh4 
 
 ![textual 88](./textuals/diagram0088.png)
 
-**A. Begdzhanov, 1982.** Weiß: **Ka1, Dh8, Se2, Sf6, B a2, a4, a5, b3 (5)** und Schwarz: **Ke5, B a2, a4, a5, b3** — Matt in fünf Zügen. **1. Sc3!** Zugzwang: **1... Kd6 2. Dc8 Ke5 3. Se4 Kf4 4. Dc5! Kf3 5. Df2X, 1... Kf4 2. Dh3! Ke5! 3. Sd5 Kd6 4. De3! Kc6 5. Db6X, 1... Ke6 2. Se4! Kc5 3. Dc8! Kf4 4. Dc5 Kf3 5. Df2X** oder **2...Kf3 3. Dh2! Ke6 4. Dh5! Ke7 5. De8X, 1... Kf5 2. Sd5 Ke6 3. Dh3! Kd6 4. De3! Kc6 5. Db6X** oder **2...Kc6 3. Db8! Kf5 4. De8! Kg5 5. Dh5X**, außerdem **1... Kd4 2. Sfd5+ Kc5 3. De5! Kc4 4. Sb4! ab 5. Dd5X** oder **2...Kc3 3. Dh4+ Kc5 4. Df4! Kc6 5. Dc7X** oder **3...Kd3 4. Dg4! Kd2 5. Dd1X**.
+**A. Begdzhanov, 1982.** Weiß: **Ka1, Dh8, Se2, Sf6, Ba2, a4, a5, b3 (5)** und Schwarz: **Ke5, Ba2, a4, a5, b3** — Matt in fünf Zügen. **1. Sc3!** Zugzwang: **1... Kd6 2. Dc8 Ke5 3. Se4 Kf4 4. Dc5! Kf3 5. Df2X, 1... Kf4 2. Dh3! Ke5! 3. Sd5 Kd6 4. De3! Kc6 5. Db6X, 1... Ke6 2. Se4! Kc5 3. Dc8! Kf4 4. Dc5 Kf3 5. Df2X** oder **2...Kf3 3. Dh2! Ke6 4. Dh5! Ke7 5. De8X, 1... Kf5 2. Sd5 Ke6 3. Dh3! Kd6 4. De3! Kc6 5. Db6X** oder **2...Kc6 3. Db8! Kf5 4. De8! Kg5 5. Dh5X**, außerdem **1... Kd4 2. Sfd5+ Kc5 3. De5! Kc4 4. Sb4! ab 5. Dd5X** oder **2...Kc3 3. Dh4+ Kc5 4. Df4! Kc6 5. Dc7X** oder **3...Kd3 4. Dg4! Kd2 5. Dd1X**.
 
 Nebenlösung — *1. Sg3!*
 
 ![textual 89](./textuals/diagram0089.png)
 
-**J. Gordian, 1982.** Weiß: **Kg2, Tc3, Te6, Ld2, Sd8, Se3, B e2, f3, h4 (9)** und Schwarz: **Kf4, Db1, Ta4, Ld1, Le5, Sg8, B c6, d5, f6, f7, g6 (11)** — Matt in vier Zügen. **1. Tc5!** mit der Drohung **2. S:d5 Kf5 3. T:f6+!** und **4. Se7X**: **1... Ta7! 2. Sc2+! Kf5 3. e4+! de 4. Sd6X**. und **1... Db7 2. Sc4+! Kf5 3. e4+! de 4. Sd6X**.
+**J. Gordian, 1982.** Weiß: **Kg2, Tc3, Te6, Ld2, Sd8, Se3, Be2, f3, h4 (9)** und Schwarz: **Kf4, Db1, Ta4, Ld1, Le5, Sg8, Bc6, d5, f6, f7, g6 (11)** — Matt in vier Zügen. **1. Tc5!** mit der Drohung **2. S:d5 Kf5 3. T:f6+!** und **4. Se7X**: **1... Ta7! 2. Sc2+! Kf5 3. e4+! de 4. Sd6X**. und **1... Db7 2. Sc4+! Kf5 3. e4+! de 4. Sd6X**.
 
 Nebenlösung — *1. Le1*.
 
@@ -2688,13 +2716,13 @@ Nebenlösung — *1. Sd7.*
 
 ![textual 90](./textuals/diagram0090.png)
 
-**V. Sitnikov, 1982**. Weiß: **Ke1, Df8, Td3, Tf1, La7, Lh7, Se7, Sf2 (8)** und Schwarz: **Ke5, Da6, Tg6, Th6, La2, Sb7, Sb8, B b5, c3, e6, h4 (11)** — Matt in zwei Zügen. Zunächst *1... Dd6 2. Te3X* und *1... Kd6 2. Ld4X*, als falsche Fährte *1. Sd5?* mit der Drohung *2. Df4X: 1... L:d5 2. Ld4X* und *1... ed 2. Te3X* — aber *1... Da4!* und in der Lösung **1. Se4!** mit der Drohung **2. Df4X: 1... K: e4 2. Te3X** und **1... Tf6 2. Ld4X**!
+**V. Sitnikov, 1982**. Weiß: **Ke1, Df8, Td3, Tf1, La7, Lh7, Se7, Sf2 (8)** und Schwarz: **Ke5, Da6, Tg6, Th6, La2, Sb7, Sb8, Bb5, c3, e6, h4 (11)** — Matt in zwei Zügen. Zunächst *1... Dd6 2. Te3X* und *1... Kd6 2. Ld4X*, als falsche Fährte *1. Sd5?* mit der Drohung *2. Df4X: 1... L:d5 2. Ld4X* und *1... ed 2. Te3X* — aber *1... Da4!* und in der Lösung **1. Se4!** mit der Drohung **2. Df4X: 1... K: e4 2. Te3X** und **1... Tf6 2. Ld4X**!
 
 Nebenlösung — *1. Td4*.
 
 ![textual 91](./textuals/diagram0091.png)
 
-**V. Gladkikh, 1979**. Weiß: **Kh3, De5, Tf6, La4, Ld4, Sd3, Sg4, B c2, c7, g2 (10)** und Schwarz: **Kc4, De1, Tf2, Tg7, Lc8, Lh2, Se6, Sf5, B b3, d5, e3, f3, f4, g5, h6 (15)** — Matt in drei Zügen. **1. Lb2!** mit der Drohung **2. Dd4!** und **3. Sge5X**: **1... Se— 2. T:f5** und **1... Sf— 2. T:e6**, **1... Sed4! 2. De6!** und **1... Sfd4! 2. Df5!**
+**V. Gladkikh, 1979**. Weiß: **Kh3, De5, Tf6, La4, Ld4, Sd3, Sg4, Bc2, c7, g2 (10)** und Schwarz: **Kc4, De1, Tf2, Tg7, Lc8, Lh2, Se6, Sf5, Bb3, d5, e3, f3, f4, g5, h6 (15)** — Matt in drei Zügen. **1. Lb2!** mit der Drohung **2. Dd4!** und **3. Sge5X**: **1... Se— 2. T:f5** und **1... Sf— 2. T:e6**, **1... Sed4! 2. De6!** und **1... Sfd4! 2. Df5!**
 
 Nebenlösung — *1. L: b3+*.
 
@@ -2775,7 +2803,7 @@ Schwach ist auch *10. ...Kf8* wegen *11. Le7+ Kg8 12. Lh7+! K:h7 13. Lf6+* und *
 
 Gewinnt jedoch auch *1. Te3*, zum Beispiel: *1... Da4* (Oder *1... Da6 2. Lf6!*) *2. Sf5 b1D 3. Lf6+ Kg8 4. Sh6+ Kf8 5. L:b1 f2 6. Tc3 Df4+ 7. K:f4 f1D+ 8. Kg5 Dg1+ 9. Sg4 D:b1 10. Tc8+ Kf7 11. Se5+ Ke6 12. Tc6X*, ebenfalls mit mattendem Finale.
 
-### Aufgabe № 2. Das Dual beseitigen
+### Aufgabe Nr. 2. Das Dual beseitigen
 
 **№ 143. I. Kavnatsky, F. Kapustin und L. Lyubashevsky, 1981, Matt in 3 Zügen**  
 ![№ 143. И. Кавнатский, Ф. Капустин, и Л. Любашевский, 1981, Мат в 3 хода](./diagrams/diagram0143.png)
@@ -2815,11 +2843,11 @@ Leider gibt es ein unangenehmes Dual — *3. Sd7* usw.
 
 ![textual 97](./textuals/diagram0097.png)
 
-**V. Udartsev, 1982**. Weiß: **Kc1, Dc5, Td8, Lf2, Sc7, Sg3, pp. b3, d4, e3, f4 (10)** und Schwarz: **Kd3, Te4, La5, Sc4, Sd6, pp. b5, c2, c3, e7, f3, f5 (11)** — Matt in drei Zügen. **1. Sa6!** mit der Drohung **2. Dxc4+: 1. ...Tex3 2. Dxf5+ Kxd4 3. De4#** oder **2...Sxf5 3. Sxc5#** — und in der Variante **1... Sxe3 2. Dxb5+ Kxd4 3. Dc4#** gibt es ein Dual — nach *2...Kxd4* sind sowohl *3. Dc4#* als auch *3. Dd5#* möglich. Wenn *2...Sxb5*, dann *3. Sxc5#*.
+**V. Udartsev, 1982**. Weiß: **Kc1, Dc5, Td8, Lf2, Sc7, Sg3, pp. b3, d4, e3, f4 (10)** und Schwarz: **Kd3, Te4, La5, Sc4, Sd6, pp. b5, c2, c3, e7, f3, f5 (11)** — Matt in drei Zügen. **1. Sa6!** mit der Drohung **2. Dxc4+: 1. ...Txe3 2. Dxf5+ Kxd4 3. De4#** oder **2...Sxf5 3. Sxc5#** — und in der Variante **1... Sxe3 2. Dxb5+ Kxd4 3. Dc4#** gibt es ein Dual — nach *2...Kxd4* sind sowohl *3. Dc4#* als auch *3. Dd5#* möglich. Wenn *2...Sxb5*, dann *3. Sxc5#*.
 
 ![textual 98](./textuals/diagram0098.png)
 
-**W. Udartsew, 1982**. Weiß: **Kb6, Df3, Tb5, Tc6, La3, Sa7, Sf7, B d2, d3, e2, c4 (11)** und Schwarz: **Kd4, Dg1, Tb1, Th6, Lf8, Lh7, Sh3 (7)** — Matt in zwei Zügen. Die Scheinvariante **1. Ka6?** mit der Drohung **2. Txd5**: **1... Th5 2. Txc4** und **1... Td6 2. Lxc5** wird widerlegt durch **1... Dg5!**, und **1. Kb7?** mit der Drohung **2. Txc4**: **1... Tc1 2. Txd5** und **1... Dc1 2. Tex3** — aber **1... Tb4!** und **1. Tb2?** mit der Drohung **2. Sxb5**: **1... Th5 1. Txc4** und **1... Tx b2+ 2. Lxb2** — aber **1... Dg5!**. Die Lösung ist **1. Tf6!** mit der Drohung **2. Sxc6**: **1... Tc1 2. Txd5** und **1... Dc1 2. Tex3**.
+**W. Udartsew, 1982**. Weiß: **Kb6, Df3, Tb5, Tc6, La3, Sa7, Sf7, Bd2, d3, e2, c4 (11)** und Schwarz: **Kd4, Dg1, Tb1, Th6, Lf8, Lh7, Sh3 (7)** — Matt in zwei Zügen. Die Scheinvariante **1. Ka6?** mit der Drohung **2. Txd5**: **1... Th5 2. Txc4** und **1... Td6 2. Lxc5** wird widerlegt durch **1... Dg5!**, und **1. Kb7?** mit der Drohung **2. Txc4**: **1... Tc1 2. Txd5** und **1... Dc1 2. Txe3** — aber **1... Tb4!** und **1. Tb2?** mit der Drohung **2. Sxb5**: **1... Th5 1. Txc4** und **1... Tx b2+ 2. Lxb2** — aber **1... Dg5!**. Die Lösung ist **1. Tf6!** mit der Drohung **2. Sxc6**: **1... Tc1 2. Txd5** und **1... Dc1 2. Txe3**.
 
 Jedoch wird der falsche Weg *1. Ka6?* durch eine Dualität widerlegt — das geplante *1... Dg5!* und das unvorhergesehene *1... Sf4!*.
 
@@ -2832,7 +2860,7 @@ Die Scheinvariante *1. Lc5? Td2 2. Lb4 Tc2* und *3. Tc6+* führt zu einem Remis.
 
 ![textual 99](./textuals/diagram0099.png)
 
-**M. Liburkin. "1234 modern endgame studies", 1938**. Weiß: **Ka2, Td1, B a6, c6, d4, d7, e6, f3, g6, h3 (10)** und Schwarz: **Kh1, Sg1, B a7, c5, c7, d2, e7, g2, g7, h2 (10)** — Gewinn. Eine Studie mit fünf Bauernumwandlungen in Springer.
+**M. Liburkin. "1234 modern endgame studies", 1938**. Weiß: **Ka2, Td1, Ba6, c6, d4, d7, e6, f3, g6, h3 (10)** und Schwarz: **Kh1, Sg1, Ba7, c5, c7, d2, e7, g2, g7, h2 (10)** — Gewinn. Eine Studie mit fünf Bauernumwandlungen in Springer.
 
 **1. d8S! cxd.**
 
@@ -2863,7 +2891,7 @@ Ein tückisches Schach! Es stellt sich heraus, dass der König nur zwei Ausweich
 
 Und wieder hat Schwarz zwei Möglichkeiten, das Spiel fortzusetzen:
 
-**3...Kg5 4. Sd6! Txd6 5. Se4+ und 6. Sxd6, oder**
+**3...Kg5 4. Sd6! Txd6 5. Se4+ und 6. Sxd6**, oder
 
 **3...Kg6 4. Sd5 Txd5 5. Se7+ und 6. Sxd5.**
 
@@ -2949,11 +2977,11 @@ Nach der Eliminierung des Springers muss der Läufer auf das Feld d4 gelockt und
 
 ![textual 102](./textuals/diagram0102.png)
 
-**W. Shanshin, 1982**. Weiß: **Kg3, Dg4, Tc1, Td8, Le7, Se2, Se8, B c7, f2 (9)** und Schwarz: **Ke5, Ta7, Th5, Lb6, Lb7, Sh7, Sh8, B b4, d3, d4, f7, h3 (12)** — Matt in zwei Zügen. *1. Sf4?* mit der Drohung *2. Sxd3#*, aber *1... La6!* und laut Autor *1. Sd6!?*, doch aufgrund von *1... f5!* ist die Aufgabe nicht lösbar.
+**W. Shanshin, 1982**. Weiß: **Kg3, Dg4, Tc1, Td8, Le7, Se2, Se8, Bc7, f2 (9)** und Schwarz: **Ke5, Ta7, Th5, Lb6, Lb7, Sh7, Sh8, Bb4, d3, d4, f7, h3 (12)** — Matt in zwei Zügen. *1. Sf4?* mit der Drohung *2. Sxd3#*, aber *1... La6!* und laut Autor *1. Sd6!?*, doch aufgrund von *1... f5!* ist die Aufgabe nicht lösbar.
 
 ![textual 103](./textuals/diagram0103.png)
 
-**W. Sychev**, 1979. Weiß: **Ka2, De5, Lb7, Lc3, Sa3, Sg4, B b2 (7)** und Schwarz: **Kd3, Dh2, Td6, Th5, Ld7, Lg5, Sf5, Sg3, B c4, c7, d2, f2, h6 (13)** — Matt in drei Zügen. **1. Lf3!** mit der Drohung **2. De3+** und **3. Se5#**. **1... Le3!** (auf *1... Lb5* folgt *2. Df4!*) **2. Db5! Lxb5 3. Se5#** und **1... Se3!** (Wenn *1... Sf7*, dann *2. Dc5!*) **2. Dd4+! Txd4 3. Se5#**.
+**W. Sychev**, 1979. Weiß: **Ka2, De5, Lb7, Lc3, Sa3, Sg4, Bb2 (7)** und Schwarz: **Kd3, Dh2, Td6, Th5, Ld7, Lg5, Sf5, Sg3, Bc4, c7, d2, f2, h6 (13)** — Matt in drei Zügen. **1. Lf3!** mit der Drohung **2. De3+** und **3. Se5#**. **1... Le3!** (auf *1... Lb5* folgt *2. Df4!*) **2. Db5! Lxb5 3. Se5#** und **1... Se3!** (Wenn *1... Sf7*, dann *2. Dc5!*) **2. Dd4+! Txd4 3. Se5#**.
 
 Nicht lösbar aufgrund von *1... Sd4*.
 
@@ -3005,7 +3033,7 @@ Es ist offensichtlich, dass, wenn im Verdoppelungsmechanismus die vordere Figur 
 
 Zum Ziel führt nur **1. Te5!** mit den ideellen Varianten, die dem Vorhaben des Autors zugrunde liegen — **1... Lc4 2. Db6!** und **3. Dg1#**, **1... Sc6 2. Dd5!** und **3. Dh1#**, in denen die weiße Dame zweimal den schwarzen Turm entbindet, indem sie die Unmöglichkeit ausnutzt, dem weißen König Schach zu geben. Die übrigen Züge — *1. Te3?* und *1. Te4?*, die entsprechend durch *1... Lc4!* und *1... Sc6!* widerlegt werden, zusammen mit dem Versuch *1. De6?* — sind untrennbar mit dem gesamten Inhalt verbunden und stellen thematische falsche Fährten dar.
 
-№ 156. Nach **1. Tf5!** (droht **2. Dc7+ Tc6 3. D:c6#**) führt die Verteidigung **1... Te5** zur Bildung einer frontalen Halbbindung des schwarzen Turms und Springers: **2. Df4! Te4 3. Dc7#** oder **2... S:f4 3. L:e7#**. Wenn der schwarze König auf ein freies Feld weicht, geraten dieselben Figuren in eine diagonale Halbbindung: **1... Kc4 2. Dh1! Te5 3. Dc1#, 2... Sc3 3. Dc6#** oder **2... Sb4 3. Dc4#**.
+№ 156. Nach **1. Tf5!** (droht **2. Dc7+ Tc6 3. D:c6#**) führt die Verteidigung **1... Te5** zur Bildung einer frontalen Halbfesselung des schwarzen Turms und Springers: **2. Df4! Te4 3. Dc7#** oder **2... S:f4 3. L:e7#**. Wenn der schwarze König auf ein freies Feld weicht, geraten dieselben Figuren in eine diagonale Halbfesselung: **1... Kc4 2. Dh1! Te5 3. Dc1#, 2... Sc3 3. Dc6#** oder **2... Sb4 3. Dc4#**.
 
 Ein schwerwiegender Mangel der Aufgabe sind die Duals in der zweiten ideellen Variante bei anderen Zügen des schwarzen Springers — *2... Se3 3. Dc6#* und *3. De4#*, *2... Sf4 3. Dc6#*, *3. De4#* und *3. Dc1#*.
 
@@ -3078,7 +3106,7 @@ Folglich nur **4. Ta4**. Nun ist gegen *4... Lc7* nicht sofort *5. Te4* zu spiel
 
 **4... Ld6(c7) 5. Tf3+** und wenn **5... Kb2**, dann **6. Tf2 Lb4(a5)+ 7. Ke3**.
 
-Infolge des fünften Zuges der Schwarzen und der Antwort der Weißen ist der Bauer gebunden. Zwar können die Schwarzen nun Qualität gewinnen, mit Springer und Bauer zurückbleiben, sodass den Weißen nichts anderes übrig bliebe, als aufzugeben. Aber auf **7... Lc5(b6)** folgt **8. Kd2!!** und nach **8... Lxf2** ist es für die Weißen Patt.
+Infolge des fünften Zuges der Schwarzen und der Antwort der Weißen ist der Bauer gefesselt. Zwar können die Schwarzen nun Qualität gewinnen, mit Springer und Bauer zurückbleiben, sodass den Weißen nichts anderes übrig bliebe, als aufzugeben. Aber auf **7... Lc5(b6)** folgt **8. Kd2!!** und nach **8... Lxf2** ist es für die Weißen Patt.
 
 Hier sieht man, welche unerwartete Rettungsressource die Weißen ganz am Ende des Kampfes finden, nachdem sie glücklich all den Gefahren ausgewichen sind, die an jeder Ecke auf sie lauerten.
 
@@ -3106,7 +3134,7 @@ Zum Vierzüger von A. Kuzovka: den Läufer c2 nach g8 verschieben und an seine S
 
 Zur Aufgabe von S. Sucharew. Überarbeitung: Weiß — **Kd1, Le3, Lg4, Sf6, B. b4, c5, g3, h2, h3, h6 (10)** und Schwarz — **Kh8, La6, B. a7, b5, b6, b7, e6, f7, g6, h7 (10)**; Matt in acht Zügen — **1. Ke1!** usw. Aber es gibt auch *1. cxb*.
 
-Zur Etüde von M. Liburkin. Überarbeitung: Weiß — **Kf5, Tc8, Th7, Lh6, B. b5, e4 (6)** und Schwarz — **Kg1, Dh1, Th2, Lh3, B. b6, b7, e5, f2, f3, g2, g3, g4 (12)**; Gewinn — **1. Tc1+ f1S** (oder *1... f1L*) **2. Le3+ f3 3. Lc5 bxc 4. b6 c4 5. Th8 c3 6. Ta8 c2 7. Ta6 bxa 8. b7 a5 9. b8L!** oder **9. b8S!** und gewinnt. Und es gibt wieder *1. Td7! f1S 2. Td1!* Junger Freund, wage die Korrektur!
+Zur Studie von M. Liburkin. Überarbeitung: Weiß — **Kf5, Tc8, Th7, Lh6, B. b5, e4 (6)** und Schwarz — **Kg1, Dh1, Th2, Lh3, B. b6, b7, e5, f2, f3, g2, g3, g4 (12)**; Gewinn — **1. Tc1+ f1S** (oder *1... f1L*) **2. Le3+ f3 3. Lc5 bxc 4. b6 c4 5. Th8 c3 6. Ta8 c2 7. Ta6 bxa 8. b7 a5 9. b8L!** oder **9. b8S!** und gewinnt. Und es gibt wieder *1. Td7! f1S 2. Td1!* Junger Freund, wage die Korrektur!
 
 Zum Zweizüger von W. Karpow: den weißen König nach c3 verschieben und anstelle des Läufers g3 einen schwarzen Bauern nach g5 setzen.
 
@@ -3169,7 +3197,7 @@ Zur Aufgabe von W. Udartsew. Überarbeitung: Weiß — **Kf7, Dc3, Te7, Tf6, Lc5
 
 Nr. 145. Überarbeitung: Weiß — **Kf6, La3, Lh7 (3)** und Schwarz — **Kh8, Tc8, Bc6, h5 (4)**; Gewinn — **1. Kg6 Tg8+ (1... Tb8 1. Le7) 2. Kh6 Tg2 3. Lb4 (aber nicht 3. Lc5 Td2 4. Lb4 Td4 5. Lc3 c5) 3...Tg3 4. Lc5 Tg4 5. Ld6 Tg5 6. Le7 Tf5 7. Lxf5.**
 
-Zur Etüde von M. Liburkin. Überarbeitung: Weiß — **Kd5, Ta1, Lh7, Ba6, c6, d7, c6, g6 (8)** und Schwarz — **Kh2, Dh1, Tg2, Lg1, Ba7, c7, e7, f2, f6, g3, g7, h3 (12)**; Gewinn — **1. Tf1 f5 2. d8S! f4 3. Sf7 f3 4. Sh6 gh 5. g7 h5 6. g8S! h4 7. Sf6 ef 8. e7 f5 9. e8S! f4 10. Sd6 cd 11. Ke6 d5 12. c7 d4 13. c8S! d3 14. Sb6 d2 15.Lc2 ab 16. a7 b5 17. a8S!**
+Zur Studie von M. Liburkin. Überarbeitung: Weiß — **Kd5, Ta1, Lh7, Ba6, c6, d7, c6, g6 (8)** und Schwarz — **Kh2, Dh1, Tg2, Lg1, Ba7, c7, e7, f2, f6, g3, g7, h3 (12)**; Gewinn — **1. Tf1 f5 2. d8S! f4 3. Sf7 f3 4. Sh6 gh 5. g7 h5 6. g8S! h4 7. Sf6 ef 8. e7 f5 9. e8S! f4 10. Sd6 cd 11. Ke6 d5 12. c7 d4 13. c8S! d3 14. Sb6 d2 15.Lc2 ab 16. a7 b5 17. a8S!**
 
 Nr. 146. Überarbeitung: Weiß — **Ka7, Se7, Sh7, Bd7 (4)** und Schwarz — **Kh4, Td1, Sa3 (3)**; Gewinn — **1. Sf5+ Kh5 2. Sf6+ Kg6 3. Sd5 Sb5— 4. Kb6! Txd5 5. Se7+** oder 2...Kg5 3. Sd6 Sb5+ 4. Kb8! Txd6 5. Se4+.
 
@@ -3183,7 +3211,7 @@ Nr. 148. Überarbeitung: Weiß — **Kf4, Lc5, Bc6 (3)** und Schwarz — **Kh6, 
 
 Nr. 149. Den weißen König nach f2 verschieben, den schwarzen Turm nach f1, anstelle des Bauern g2 einen weißen Läufer nach g3 stellen; Gewinn — **1. f7 Sxf7 2. gf+ Kh8 3. f8T!** (aber nicht *3. f8D+? Kxh7 4. Lxh5 Tf1+ 5. Kxf1* — Patt) **3...Kg7 4. c8L+! Kxh7 5. Lxh5** oder **2...Kxh7 3. f8S+! Kg7 4. Lxh5 Th1 5. Se6+ Kf6 6. Sf4**.
 
-Zur Etüde von G. Amirjan. Überarbeitung: Weiß — **Kf5, De3, Sh3, Bc2, d4 (5)** und Schwarz — **Kh2, Dh1, Ta2, Tc7, La3, Bc3, f7, g2, h7 (9)**; Gewinn — jetzt **1. Sg1** usw.
+Zur Studie von G. Amirjan. Überarbeitung: Weiß — **Kf5, De3, Sh3, Bc2, d4 (5)** und Schwarz — **Kh2, Dh1, Ta2, Tc7, La3, Bc3, f7, g2, h7 (9)**; Gewinn — jetzt **1. Sg1** usw.
 
 Zum Mehrzüger von E. Enkin: den Läufer g7 nach c3 verschieben und auf g7 einen schwarzen Bauern hinzufügen.
 
@@ -3255,11 +3283,13 @@ Hier ist die "durchgehende Wirkung" der Studie: **1. Kd2 Sc1 2. Tb5+ Ka2 3. Ta5+
 
 Das Durchdringen aller Winkel und Verstecke dieser Studie, in die der Autor blicken muss, stellt eine ganze Schule der kompositorischen Meisterschaft dar. Wir hoffen, dass derjenige, der nicht zu faul ist, diesen Weg mit uns zu gehen, die aufgewendete Zeit nicht bereuen wird. Darüber hinaus ergibt sich der Charakter der Kommentare daraus, dass sie sich gleichzeitig sowohl an die Löser als auch an die Komponisten richten.
 
-Schauen wir uns also genauer an, wie die Unwiderlegbarkeit dieses zweifachen Patt-Finales in einer sechsfiguren-Miniatur sichergestellt wurde; durch welche geschickte Anordnung so weniger Figuren, ohne das geringste zusätzliche Material, es gelang, alle möglichen Widerlegungen der Etüde und Nebenlösungen auszuschließen. Bei einer leicht und ökonomisch konstruierten Etüde wird das Scheitern zahlreicher Versuche, die Lösung des Autors zu umgehen, oft ebenfalls durch "Studienhafte" Mittel, also indirekte Drohungen, begründet. Die Beziehung zwischen der kleinen Gruppe der "Akteure" muss vielseitig begründet und in jeder Hinsicht geprüft sein. Jeder dieser "freien" Züge auf einem freien Brett – und es sind nicht wenige – erweist sich wie durch ein Wunder als unfähig, die gegenseitige Abhängigkeit zu stören, wobei hier jedes, selbst das kleinste Detail, von Bedeutung ist, da ohne es das gesamte Gebäude sofort in sich zusammenbricht.
+Schauen wir uns also genauer an, wie die Unwiderlegbarkeit dieses zweifachen Patt-Finales in einer sechsfiguren-Miniatur sichergestellt wurde; durch welche geschickte Anordnung so weniger Figuren, ohne das geringste zusätzliche Material, es gelang, alle möglichen Widerlegungen der Studie und Nebenlösungen auszuschließen. Bei einer leicht und ökonomisch konstruierten Studie wird das Scheitern zahlreicher Versuche, die Lösung des Autors zu umgehen, oft ebenfalls durch "Studienhafte" Mittel, also indirekte Drohungen, begründet. Die Beziehung zwischen der kleinen Gruppe der "Akteure" muss vielseitig begründet und in jeder Hinsicht geprüft sein. Jeder dieser "freien" Züge auf einem freien Brett – und es sind nicht wenige – erweist sich wie durch ein Wunder als unfähig, die gegenseitige Abhängigkeit zu stören, wobei hier jedes, selbst das kleinste Detail, von Bedeutung ist, da ohne es das gesamte Gebäude sofort in sich zusammenbricht.
 
 So ist beispielsweise die Gabel auf c3 nach *1. Ke2* an sich schon ein Fund für den Aufbau der Ausgangsposition. Dass jedoch nach *1. Tb5+ Kc1* die Gabel bestehen bleibt und der Bauer e2 immer noch nicht geschlagen werden kann, ist bereits ein doppeltes Fund, das eine Verknüpfung bildet. Und dass nach *2. Tc5+* (einem weiteren Versuch mit einem Schach von der Gabel aus) *2...Kd1* der Bauer e2 bereits nicht mehr geschlagen werden kann, bindet die Figuren in Verbindung mit den genannten Gabeln so eng zu einem Komplex zusammen, wie es die maximale Sparsamkeit der Mittel erfordert.
 
 ---
+
+## Anhang
 
 Liebe junge Freunde! Nun habt ihr das Lesen des Buches beendet. Und wer von euch möchte nicht den Olymp der Schachkomposition erklimmen? Um seine Gipfel zu erreichen, müssen die folgenden Anforderungen erfüllt werden, die in der Einheitlichen allunionalen Sportklassifikation für die Jahre 1985–1988 vorgesehen sind:
 
@@ -3372,7 +3402,7 @@ Für Wettbewerbe zum Lösen von Aufgaben, Studien sowie Stellungen (mit mindeste
 - Wladimirow J. — № 25
 - Galitzki A. — № 16, № 17
 - Holzhausen W. — № 118
-- Gorwitz B. — № 32, № 39
+- Horwitz B. — № 32, № 39
 - Gordian J. — № 83, № 116
 - Granschkowski W. — № 71
 - Gretschkin D. — № 70
