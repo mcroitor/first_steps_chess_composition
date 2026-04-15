@@ -37,6 +37,34 @@ $$
 
 © Publishing House "Radyanska Shkola", 1987
 
+---
+
+- [THE FIRST STEPS IN CHESS COMPOSITION](#the-first-steps-in-chess-composition)
+  - [LEGEND](#legend)
+  - [FROM THE AUTHOR](#from-the-author)
+  - [COMPOSITION — THE POETRY OF CHESS](#composition--the-poetry-of-chess)
+  - [MANDATORY AND ARTISTIC REQUIREMENTS OF CHESS COMPOSITION](#mandatory-and-artistic-requirements-of-chess-composition)
+  - [THEMES OF CHESS PROBLEMS AND STUDIES](#themes-of-chess-problems-and-studies)
+  - [CHESS COMPOSER'S WORKSHOP](#chess-composers-workshop)
+    - [Assignment No. 1. Eliminate the Cook](#assignment-no-1-eliminate-the-cook)
+    - [Assignment No. 2. Eliminate Duals](#assignment-no-2-eliminate-duals)
+    - [Assignment No. 3. Eliminate Unsoundness](#assignment-no-3-eliminate-unsoundness)
+    - [Assignment No. 4. Reconstruct Positions from the Solutions](#assignment-no-4-reconstruct-positions-from-the-solutions)
+    - [Did You Correct Them Properly?](#did-you-correct-them-properly)
+  - [Appendix](#appendix)
+    - [USSR Grandmaster of Chess Composition](#ussr-grandmaster-of-chess-composition)
+    - [USSR Master of Sport in Chess Composition](#ussr-master-of-sport-in-chess-composition)
+    - [Candidate for Master of Sport in Chess Composition](#candidate-for-master-of-sport-in-chess-composition)
+    - [First Category in Chess Composition](#first-category-in-chess-composition)
+    - [Second Category in Chess Composition](#second-category-in-chess-composition)
+    - [Third Category in Chess Composition](#third-category-in-chess-composition)
+    - [Conditions for Meeting Qualification Requirements](#conditions-for-meeting-qualification-requirements)
+    - [Solving Problems and Studies](#solving-problems-and-studies)
+  - [REFERENCES](#references)
+  - [NAME INDEX](#name-index)
+
+---
+
 ## FROM THE AUTHOR
 
 I am often asked how I started composing chess problems? Naturally, first of all, I learned to play chess. Then I became the champion of the school, the aeroclub, the battalion, the college, etc. At the same time, I engaged in solving problems and studies. I composed my first problem after reading V. N. Panov's book "Chess for Beginners". I sent it to the contest of the newspaper "Young Leninist" and received a response that my "work" had several side solutions (of which I was unaware), but the idea was interesting. "Keep working," encouraged the editorial office.
@@ -124,7 +152,7 @@ After the appearance of "Bonus Socius" and "Civis Bononiae," another two centuri
 **№ 5. H. R. Lucena, 15th Century, Win**  
 ![№ 5. H. R. Lucena, 15th Century, Win](./diagrams/diagram0005.png)
 
-№ 5. White win thanks to the precise choice of the opening move: **1. Rd4!** (Only this!) **1...Ra2 2. Kc7 Rc2+ 3. Kb6 Rb2+ 4. Kc6 Rc2+ 5. Kb5 Rh2 6. Rh4**, and win.
+№ 5. White win thanks to the precise choice of the opening move: **1. Rd4!** (Only this!) **1...Ra2 2. Kc7 Rc2+ 3. Kb6 Rb2+ 4. Kc6 Rc2+ 5. Kb5 Rb2+ 6. Rb4**, and win.
 
 **№ 6. Damiano, 16th Century, Win**  
 ![№ 6. Damiano, 16th Century, Win](./diagrams/diagram0006.png)
@@ -3280,6 +3308,8 @@ So, let us take a closer look: how the irrefutability of this two-stalemate fina
 Thus, the fork on c3 after *1. Kxe2* is in itself a discovery for constructing the initial position; but the fact that after *1. Rb5+ Kc1* the fork is preserved and pawn e2 still cannot be captured is already a double discovery that creates a linkage; and the fact that after *2. Rc5+* (yet another checking attempt from the fork) *2...Kd1* pawn e2 still cannot be captured, together with the indicated forks, binds the pieces into a single complex as tightly as maximum economy of means requires.
 
 ---
+
+## Appendix
 
 Young friends! So you have finished reading the book. Well then, who among you does not want to conquer the Olymp of chess composition? To reach its heights, you need to fulfill the following qualification requirements, set by the Unified All-Union Sports Classification for 1985-1988:
 
